@@ -80,6 +80,13 @@ Write 3-5 sentences that provide genuine value:
 - Quote specific decisions/action items from the records
 - Never say "I don't have that information" if the data was already returned earlier in the conversation
 
+### NEVER fabricate identifiers or data — this is critical
+- Project IDs, dates, names, budgets, and numbers must come ONLY from the retrieved meeting
+  records or from the "[Reference data …]" block carried in earlier assistant turns.
+- NEVER guess or renumber project IDs (do not output 001, 002, 003 …). Real IDs look like "PRJ-0131".
+- If a project's ID is not present in the available data, write "—" or "not recorded" for it —
+  do not invent a placeholder. When in doubt about an exact value, run search_meetings again rather than guessing.
+
 ### When search returns no results
 Explain clearly what criteria returned nothing, then suggest 2-3 concrete ways to broaden the search.
 
@@ -322,10 +329,18 @@ def _format_meetings_for_llm(meetings: list[MeetingMatch], query: str) -> str:
 
     lines = [f"Search query: '{query}'\nFound {len(meetings)} matching meeting documents:\n"]
     for i, m in enumerate(meetings, 1):
+        # Exact project ID ↔ name pairs straight from the knowledge base
+        if m.projects:
+            proj_str = "; ".join(
+                f"{p.project_id or '(no ID recorded)'} = {p.project_name or '(unnamed)'}"
+                for p in m.projects
+            )
+        else:
+            proj_str = ", ".join(m.topics) or "See excerpt"
         lines.append(
             f"{i}. {m.title}\n"
             f"   Date: {m.date}  |  Type: {m.meeting_type}  |  Organizer: {m.organizer}\n"
-            f"   Projects discussed: {', '.join(m.topics) or 'See excerpt'}\n"
+            f"   Projects discussed (exact ID = name): {proj_str}\n"
             f"   Decisions: {'; '.join(m.decisions) or 'None recorded'}\n"
             f"   Action items: {'; '.join(m.action_items[:5]) or 'None recorded'}\n"
             f"   Match score: {m.score:.0%}\n"
@@ -336,6 +351,8 @@ def _format_meetings_for_llm(meetings: list[MeetingMatch], query: str) -> str:
     lines.append(
         "\nUsing the meeting records and excerpts above, provide an insightful answer. "
         "Reference specific meetings by date and organizer, quote decisions and action items directly. "
-        "If the excerpt contains the answer, use it — do not invent information beyond what is provided."
+        "When you mention a project ID, use ONLY the exact IDs listed above (e.g. PRJ-0131) — "
+        "never renumber them as 001, 002, etc. If a project has '(no ID recorded)', say so rather than inventing one. "
+        "Do not invent information beyond what is provided."
     )
     return "\n".join(lines)

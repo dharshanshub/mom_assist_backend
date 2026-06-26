@@ -237,6 +237,16 @@ def _to_meeting_match(match: dict) -> MeetingMatch:
     # Topics = project names discussed in the meeting
     topics = [p["project_name"] for p in projects if p.get("project_name")]
 
+    # Real project id↔name pairs (so the agent can cite exact IDs, never invent them)
+    project_refs = [
+        {
+            "project_id": (p.get("project_id") or "").strip(),
+            "project_name": (p.get("project_name") or "").strip(),
+        }
+        for p in projects
+        if (p.get("project_id") or p.get("project_name"))
+    ]
+
     # Decisions across all projects in this meeting
     decisions = [p["decision"] for p in projects if p.get("decision")]
 
@@ -262,6 +272,7 @@ def _to_meeting_match(match: dict) -> MeetingMatch:
         topics=topics,
         decisions=decisions,
         action_items=action_items,
+        projects=project_refs,
         score=round(float(match["score"]), 4),
         blob_filename=doc_name or None,
         chunk_text=meta.get("mom_meeting_text_chunk", ""),

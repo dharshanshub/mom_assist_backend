@@ -18,6 +18,12 @@ class SearchRequest(BaseModel):
     messages: list[ConversationMessage] = Field(default_factory=list, description="Conversation history (up to 30 turns)")
 
 
+class ProjectRef(BaseModel):
+    """A project's real identifier + name, surfaced from the meeting's analysis JSON."""
+    project_id: str = ""
+    project_name: str = ""
+
+
 class MeetingMatch(BaseModel):
     id: str
     title: str
@@ -28,6 +34,8 @@ class MeetingMatch(BaseModel):
     topics: list[str]
     decisions: list[str]
     action_items: list[str]
+    # Real project id↔name pairs from the knowledge base — never fabricate these.
+    projects: list[ProjectRef] = Field(default_factory=list)
     score: float = Field(..., description="Similarity score [0, 1]")
     summary: str | None = None
     blob_filename: str | None = None
