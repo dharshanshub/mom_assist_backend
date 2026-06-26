@@ -5,10 +5,10 @@ on:
     branches: [main]
   workflow_dispatch:
 
-# ── Edit these to match your Azure resources ──────────────────────────────────
+# ── Azure target resources (existing RG, new Container App) ────────────────────
 env:
-  IMAGE_NAME: mom-assist-backend
-  AZURE_RESOURCE_GROUP: rg_mom_assist
+  IMAGE: dharshanscientist/mom-assist-backend
+  AZURE_RESOURCE_GROUP: rg_talent_search
   AZURE_CONTAINERAPP: mom-assist-backend
 
 jobs:
@@ -31,8 +31,8 @@ jobs:
           context: .
           push: true
           tags: |
-            ${{ secrets.DOCKERHUB_USERNAME }}/${{ env.IMAGE_NAME }}:latest
-            ${{ secrets.DOCKERHUB_USERNAME }}/${{ env.IMAGE_NAME }}:${{ github.sha }}
+            ${{ env.IMAGE }}:latest
+            ${{ env.IMAGE }}:${{ github.sha }}
 
       - name: Login to Azure
         uses: azure/login@v2
@@ -44,4 +44,4 @@ jobs:
           az containerapp update \
             --name ${{ env.AZURE_CONTAINERAPP }} \
             --resource-group ${{ env.AZURE_RESOURCE_GROUP }} \
-            --image ${{ secrets.DOCKERHUB_USERNAME }}/${{ env.IMAGE_NAME }}:${{ github.sha }}
+            --image ${{ env.IMAGE }}:${{ github.sha }}
