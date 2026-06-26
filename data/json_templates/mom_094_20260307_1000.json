@@ -1,0 +1,61 @@
+{
+  "meeting_number": 94,
+  "meeting_type": "Cross-Functional Sync",
+  "date": "07 March 2026",
+  "time": "10:00",
+  "organizer": "Fatima Al-Hassan",
+  "location": "Board Room B",
+  "projects": [
+    {
+      "project_name": "Zero-Trust Network Security Overhaul",
+      "project_id": "PRJ-0108",
+      "status": "Completed",
+      "recommendation": "Approve go-live; all readiness checks passed and rollback plan is in place.",
+      "decision": "APPROVED - Project formally closed following a successful hypercare period. All KPIs met. Post-implementation review scheduled for next quarter. Project transitioned to BAU.",
+      "budget_allocation": "GBP 150,000",
+      "action_items": [
+        "Nisha Iyer: Coordinate revised budget breakdown to Finance for approval - Due: 21 March 2026",
+        "Sara Lopez: Present KPI dashboard with updated metrics - Due: 21 March 2026",
+        "Sara Lopez: Finalise change management plan - Due: 21 March 2026"
+      ]
+    },
+    {
+      "project_name": "Digital Marketing Automation",
+      "project_id": "PRJ-0129",
+      "status": "Completed",
+      "recommendation": "Formally close the campaign project; results validated and within budget.",
+      "decision": "APPROVED - Project formally closed following a successful hypercare period. All KPIs met. Post-implementation review scheduled for next quarter. Project transitioned to BAU.",
+      "budget_allocation": "EUR 60,000",
+      "action_items": [
+        "Sara Lopez: Publish vendor shortlist and commercial terms for review - Due: 21 March 2026",
+        "Dinesh Kumar: Coordinate technical architecture diagram for sign-off - Due: 21 March 2026",
+        "Vivek Nambiar: Finalise training schedule for all impacted teams - Due: 21 March 2026"
+      ]
+    },
+    {
+      "project_name": "Workforce Analytics Dashboard",
+      "project_id": "PRJ-0140",
+      "status": "Active - On Track",
+      "recommendation": "Publish the post-implementation review findings to the HR leadership team.",
+      "decision": "FAST-TRACKED - All go-live readiness criteria satisfied. Rollback plan signed off by the CTO. Project fast-tracked to launch. Budget of $48,000 confirmed.",
+      "budget_allocation": "EUR 60,000",
+      "action_items": [
+        "Rohan Sharma: Coordinate revised budget breakdown to Finance for approval - Due: 21 March 2026",
+        "Dinesh Kumar: Circulate risk register with latest assessment to the programme office - Due: 21 March 2026",
+        "Dinesh Kumar: Review post-implementation review agenda - Due: 21 March 2026"
+      ]
+    },
+    {
+      "project_name": "Global Payroll Consolidation",
+      "project_id": "PRJ-0130",
+      "status": "Completed",
+      "recommendation": "Publish the post-implementation review findings to the HR leadership team.",
+      "decision": "APPROVED - Project formally closed following a successful hypercare period. All KPIs met. Post-implementation review scheduled for next quarter. Project transitioned to BAU.",
+      "budget_allocation": "GBP 75,000",
+      "action_items": [
+        "Sara Lopez: Complete updated project plan and revised timeline to all stakeholders - Due: 21 March 2026",
+        "Meera Patel: Circulate risk register with latest assessment to the programme office - Due: 21 March 2026"
+      ]
+    }
+  ]
+}

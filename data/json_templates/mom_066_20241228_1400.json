@@ -1,0 +1,60 @@
+{
+  "meeting_number": 66,
+  "meeting_type": "Programme Retrospective",
+  "date": "28 December 2024",
+  "time": "14:00",
+  "organizer": "Rohan Sharma",
+  "location": "Innovation Hub, Floor 4",
+  "projects": [
+    {
+      "project_name": "Brand Refresh 2024",
+      "project_id": "PRJ-0115",
+      "status": "Active - At Risk",
+      "recommendation": "Approve the media plan and release the campaign budget for activation.",
+      "decision": "APPROVED - Following resolution of the Phase 1 blockers, project reinstated and approved to advance to Phase 2. All pre-conditions have been met. Budget of $380,000 confirmed.",
+      "budget_allocation": "EUR 60,000",
+      "action_items": [
+        "Ethan Brooks: Review dependency mapping with the platform team - Due: 11 January 2025",
+        "Sneha Gupta: Coordinate legal review of the contract amendment - Due: 11 January 2025",
+        "Lakshmi Venkat: Submit change management plan - Due: 11 January 2025"
+      ]
+    },
+    {
+      "project_name": "Cost Optimisation Programme",
+      "project_id": "PRJ-0123",
+      "status": "Active - On Track",
+      "recommendation": "Approve the revised cost model and continue to Phase 3.",
+      "decision": "PILOT APPROVED - Phase 3 milestones met. Pilot approved for two pilot regions (North and East). Full rollout contingent on pilot KPIs being met within 12 weeks. Budget of GBP 40,000 released for pilot phase.",
+      "budget_allocation": "$95,000",
+      "action_items": [
+        "Dinesh Kumar: Submit legal review of the contract amendment - Due: 11 January 2025",
+        "Riya Joshi: Circulate stakeholder communication pack - Due: 11 January 2025"
+      ]
+    },
+    {
+      "project_name": "Next-Gen CRM Implementation",
+      "project_id": "PRJ-0125",
+      "status": "Active - On Track",
+      "recommendation": "Accelerate adoption of the new playbook; current 78% rate risks missing the target.",
+      "decision": "APPROVED - Phase 2 deliverables reviewed and approved to continue. Progress is on track and within budget. Revised budget of EUR 60,000 approved following scope clarification.",
+      "budget_allocation": "$48,000",
+      "action_items": [
+        "Pooja Krishnan: Review go/no-go recommendation to the steering committee - Due: 11 January 2025",
+        "Riya Joshi: Complete go/no-go recommendation to the steering committee - Due: 11 January 2025",
+        "Kavya Reddy: Review vendor shortlist and commercial terms for review - Due: 11 January 2025"
+      ]
+    },
+    {
+      "project_name": "Regulatory Reporting Automation",
+      "project_id": "PRJ-0137",
+      "status": "Active - On Track",
+      "recommendation": "Request a supplementary budget of GBP 35,000 to cover the scope extension.",
+      "decision": "APPROVED - Phase 2 deliverables reviewed and approved to continue. Progress is on track and within budget. Revised budget of $95,000 approved following scope clarification.",
+      "budget_allocation": "EUR 110,000",
+      "action_items": [
+        "Sameer Rao: Submit vendor shortlist and commercial terms for review - Due: 11 January 2025",
+        "Riya Joshi: Finalise revised budget breakdown to Finance for approval - Due: 11 January 2025"
+      ]
+    }
+  ]
+}

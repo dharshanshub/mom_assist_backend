@@ -1,0 +1,59 @@
+{
+  "meeting_number": 72,
+  "meeting_type": "Client Steering Committee",
+  "date": "16 February 2025",
+  "time": "11:00",
+  "organizer": "Priya Nair",
+  "location": "Innovation Hub, Floor 4",
+  "projects": [
+    {
+      "project_name": "Mobile App v3.0 Launch",
+      "project_id": "PRJ-0105",
+      "status": "Active - On Track",
+      "recommendation": "Expand the beta cohort to 500 users to get statistically significant feedback.",
+      "decision": "APPROVED - Phase 2 deliverables reviewed and approved to continue. Progress is on track and within budget. Revised budget of $180,000 approved following scope clarification.",
+      "budget_allocation": "$380,000",
+      "action_items": [
+        "Marcus Webb: Coordinate go/no-go recommendation to the steering committee - Due: 13 April 2025",
+        "Arjun Mehta: Review legal review of the contract amendment - Due: 13 April 2025"
+      ]
+    },
+    {
+      "project_name": "Zero-Trust Network Security Overhaul",
+      "project_id": "PRJ-0108",
+      "status": "Active - On Track",
+      "recommendation": "Close the project formally and capture lessons learned before the team disperses.",
+      "decision": "APPROVED - User Acceptance Testing completed with all critical defects resolved. Project approved to proceed to Go-Live Preparation. Final budget of $48,000 confirmed.",
+      "budget_allocation": "$95,000",
+      "action_items": [
+        "Nisha Iyer: Finalise technical architecture diagram for sign-off - Due: 13 April 2025",
+        "Carlos Mendez: Review KPI dashboard with updated metrics - Due: 13 April 2025"
+      ]
+    },
+    {
+      "project_name": "Automated Testing Framework",
+      "project_id": "PRJ-0117",
+      "status": "Active - On Track",
+      "recommendation": "Close the project formally and capture lessons learned before the team disperses.",
+      "decision": "APPROVED - User Acceptance Testing completed with all critical defects resolved. Project approved to proceed to Go-Live Preparation. Final budget of $95,000 confirmed.",
+      "budget_allocation": "EUR 110,000",
+      "action_items": [
+        "Marcus Webb: Prepare change management plan - Due: 13 April 2025",
+        "Ethan Brooks: Deliver dependency mapping with the platform team - Due: 13 April 2025",
+        "Ethan Brooks: Present go/no-go recommendation to the steering committee - Due: 13 April 2025"
+      ]
+    },
+    {
+      "project_name": "Vendor Rationalisation",
+      "project_id": "PRJ-0127",
+      "status": "Active - On Track",
+      "recommendation": "Accelerate change management delivery; current adoption rate risks the go-live date.",
+      "decision": "APPROVED - Phase 2 deliverables reviewed and approved to continue. Progress is on track and within budget. Revised budget of $500,000 approved following scope clarification.",
+      "budget_allocation": "GBP 75,000",
+      "action_items": [
+        "Oliver Grant: Prepare updated project plan and revised timeline to all stakeholders - Due: 13 April 2025",
+        "Lakshmi Venkat: Coordinate vendor shortlist and commercial terms for review - Due: 13 April 2025"
+      ]
+    }
+  ]
+}

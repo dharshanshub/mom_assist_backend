@@ -1,0 +1,59 @@
+{
+  "meeting_number": 36,
+  "meeting_type": "Programme Retrospective",
+  "date": "11 March 2024",
+  "time": "08:30",
+  "organizer": "Lakshmi Venkat",
+  "location": "Conference Room 3",
+  "projects": [
+    {
+      "project_name": "HR Digital Transformation",
+      "project_id": "PRJ-0109",
+      "status": "Pending Approval",
+      "recommendation": "Approve the HR transformation roadmap and proceed to vendor selection.",
+      "decision": "DEFERRED - Decision deferred pending completion of the feasibility study and initial risk assessment. Team to strengthen the business case and re-present at the next steering committee.",
+      "budget_allocation": "GBP 75,000",
+      "action_items": [
+        "Ethan Brooks: Publish legal review of the contract amendment - Due: 25 March 2024",
+        "Dinesh Kumar: Prepare go/no-go recommendation to the steering committee - Due: 25 March 2024"
+      ]
+    },
+    {
+      "project_name": "Supply Chain Digitalisation",
+      "project_id": "PRJ-0118",
+      "status": "Active - At Risk",
+      "recommendation": "Accelerate change management delivery; current adoption rate risks the go-live date.",
+      "decision": "APPROVED - Following resolution of the Phase 1 blockers, project reinstated and approved to advance to Phase 2. All pre-conditions have been met. Budget of $24,000 confirmed.",
+      "budget_allocation": "GBP 40,000",
+      "action_items": [
+        "Kavya Reddy: Prepare training schedule for all impacted teams - Due: 25 March 2024",
+        "Nathan Forrest: Finalise resource allocation plan for the next sprint - Due: 25 March 2024"
+      ]
+    },
+    {
+      "project_name": "Cloud Infrastructure Migration",
+      "project_id": "PRJ-0101",
+      "status": "Pending Approval",
+      "recommendation": "Complete the proof of concept before committing to a full build; de-risk the approach.",
+      "decision": "DEFERRED - Decision deferred pending completion of the feasibility study and initial risk assessment. Team to strengthen the business case and re-present at the next steering committee.",
+      "budget_allocation": "GBP 40,000",
+      "action_items": [
+        "Aisha Mahmood: Coordinate technical architecture diagram for sign-off - Due: 25 March 2024",
+        "Marcus Webb: Finalise resource allocation plan for the next sprint - Due: 25 March 2024"
+      ]
+    },
+    {
+      "project_name": "Customer Portal Redesign",
+      "project_id": "PRJ-0102",
+      "status": "Active - At Risk",
+      "recommendation": "Defer the three lower-priority features to maintain the launch date.",
+      "decision": "APPROVED - Following resolution of the Phase 1 blockers, project reinstated and approved to advance to Phase 2. All pre-conditions have been met. Budget of $500,000 confirmed.",
+      "budget_allocation": "$95,000",
+      "action_items": [
+        "Carlos Mendez: Complete change management plan - Due: 25 March 2024",
+        "Dinesh Kumar: Review change management plan - Due: 25 March 2024",
+        "Dinesh Kumar: Present risk register with latest assessment to the programme office - Due: 25 March 2024"
+      ]
+    }
+  ]
+}

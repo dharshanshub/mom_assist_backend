@@ -1,0 +1,87 @@
+{
+  "meeting_number": 9,
+  "meeting_type": "Cross-Functional Sync",
+  "date": "13 October 2023",
+  "time": "08:30",
+  "organizer": "Carlos Mendez",
+  "location": "Conference Room 3",
+  "projects": [
+    {
+      "project_name": "Regulatory Reporting Automation",
+      "project_id": "PRJ-0137",
+      "status": "Active - Slightly Delayed",
+      "recommendation": "Seek board approval for the capital expenditure component before Phase 1 commences.",
+      "decision": "ON HOLD - Phase 1 temporarily placed on hold due to resource conflicts with the ERP programme. A resume decision will be revisited in 8 weeks once capacity is confirmed.",
+      "budget_allocation": "$48,000",
+      "action_items": [
+        "Sara Lopez: Circulate change management plan - Due: 24 November 2023",
+        "Rohan Sharma: Circulate revised budget breakdown to Finance for approval - Due: 24 November 2023",
+        "Rohan Sharma: Present risk register with latest assessment to the programme office - Due: 24 November 2023"
+      ]
+    },
+    {
+      "project_name": "APAC Market Expansion",
+      "project_id": "PRJ-0107",
+      "status": "Active - At Risk",
+      "recommendation": "Approve the go-to-market plan and release resources to begin pre-launch activities.",
+      "decision": "APPROVED - Following resolution of the Phase 1 blockers, project reinstated and approved to advance to Phase 2. All pre-conditions have been met. Budget of $48,000 confirmed.",
+      "budget_allocation": "$180,000",
+      "action_items": [
+        "Arjun Mehta: Present dependency mapping with the platform team - Due: 24 November 2023",
+        "Sameer Rao: Review post-implementation review agenda - Due: 24 November 2023",
+        "Marcus Webb: Finalise technical architecture diagram for sign-off - Due: 24 November 2023"
+      ]
+    },
+    {
+      "project_name": "Carbon Footprint Tracking System",
+      "project_id": "PRJ-0135",
+      "status": "Active - Slightly Delayed",
+      "recommendation": "Approve the compliance remediation plan and allocate the necessary resources.",
+      "decision": "ON HOLD - Phase 1 temporarily placed on hold due to resource conflicts with the ERP programme. A resume decision will be revisited in 8 weeks once capacity is confirmed.",
+      "budget_allocation": "$380,000",
+      "action_items": [
+        "Sara Lopez: Publish resource allocation plan for the next sprint - Due: 24 November 2023",
+        "Marcus Webb: Finalise technical architecture diagram for sign-off - Due: 24 November 2023"
+      ]
+    },
+    {
+      "project_name": "API Gateway and Microservices Rollout",
+      "project_id": "PRJ-0112",
+      "status": "Active - Slightly Delayed",
+      "recommendation": "Approve the proposed architecture and proceed to Phase 1 with a fully staffed delivery team.",
+      "decision": "ON HOLD - Phase 1 temporarily placed on hold due to resource conflicts with the ERP programme. A resume decision will be revisited in 8 weeks once capacity is confirmed.",
+      "budget_allocation": "EUR 60,000",
+      "action_items": [
+        "Priya Nair: Finalise resource allocation plan for the next sprint - Due: 24 November 2023",
+        "Marcus Webb: Submit revised budget breakdown to Finance for approval - Due: 24 November 2023",
+        "Marcus Webb: Present revised budget breakdown to Finance for approval - Due: 24 November 2023"
+      ]
+    },
+    {
+      "project_name": "Partner Portal Launch",
+      "project_id": "PRJ-0138",
+      "status": "Active - At Risk",
+      "recommendation": "Submit the regulatory filings in the remaining jurisdiction without delay.",
+      "decision": "APPROVED - Following resolution of the Phase 1 blockers, project reinstated and approved to advance to Phase 2. All pre-conditions have been met. Budget of GBP 150,000 confirmed.",
+      "budget_allocation": "$95,000",
+      "action_items": [
+        "Ethan Brooks: Complete resource allocation plan for the next sprint - Due: 24 November 2023",
+        "Sara Lopez: Circulate KPI dashboard with updated metrics - Due: 24 November 2023",
+        "Sameer Rao: Submit revised budget breakdown to Finance for approval - Due: 24 November 2023"
+      ]
+    },
+    {
+      "project_name": "Product Data Mesh Initiative",
+      "project_id": "PRJ-0128",
+      "status": "Active - Slightly Delayed",
+      "recommendation": "Prioritise data quality remediation in the top 5 source systems before pipeline build.",
+      "decision": "ON HOLD - Phase 1 temporarily placed on hold due to resource conflicts with the ERP programme. A resume decision will be revisited in 8 weeks once capacity is confirmed.",
+      "budget_allocation": "$48,000",
+      "action_items": [
+        "Aisha Mahmood: Coordinate stakeholder communication pack - Due: 24 November 2023",
+        "Rohan Sharma: Finalise vendor shortlist and commercial terms for review - Due: 24 November 2023",
+        "Lakshmi Venkat: Circulate dependency mapping with the platform team - Due: 24 November 2023"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "meeting_number": 22,
+  "meeting_type": "Portfolio Review",
+  "date": "17 August 2023",
+  "time": "14:30",
+  "organizer": "Lakshmi Venkat",
+  "location": "Board Room A",
+  "projects": [
+    {
+      "project_name": "Data Warehouse Modernisation",
+      "project_id": "PRJ-0106",
+      "status": "Pending Approval",
+      "recommendation": "Prioritise data quality remediation in the top 5 source systems before pipeline build.",
+      "decision": "DEFERRED - Decision deferred pending completion of the feasibility study and initial risk assessment. Team to strengthen the business case and re-present at the next steering committee.",
+      "budget_allocation": "GBP 40,000",
+      "action_items": [
+        "Sneha Gupta: Present stakeholder communication pack - Due: 14 September 2023",
+        "Priya Nair: Coordinate technical architecture diagram for sign-off - Due: 14 September 2023",
+        "Priya Nair: Prepare vendor shortlist and commercial terms for review - Due: 14 September 2023"
+      ]
+    },
+    {
+      "project_name": "SOC 2 Type II Compliance",
+      "project_id": "PRJ-0111",
+      "status": "Pending Approval",
+      "recommendation": "Approve the compliance remediation plan and allocate the necessary resources.",
+      "decision": "DEFERRED - Decision deferred pending completion of the feasibility study and initial risk assessment. Team to strengthen the business case and re-present at the next steering committee.",
+      "budget_allocation": "$250,000",
+      "action_items": [
+        "Oliver Grant: Circulate dependency mapping with the platform team - Due: 14 September 2023",
+        "Nathan Forrest: Complete resource allocation plan for the next sprint - Due: 14 September 2023",
+        "Dinesh Kumar: Present stakeholder communication pack - Due: 14 September 2023"
+      ]
+    },
+    {
+      "project_name": "Disaster Recovery and BCP Upgrade",
+      "project_id": "PRJ-0114",
+      "status": "Pending Approval",
+      "recommendation": "Issue the RFQ to the shortlisted suppliers and target award within 4 weeks.",
+      "decision": "DEFERRED - Decision deferred pending completion of the feasibility study and initial risk assessment. Team to strengthen the business case and re-present at the next steering committee.",
+      "budget_allocation": "$500,000",
+      "action_items": [
+        "Marcus Webb: Complete stakeholder communication pack - Due: 14 September 2023",
+        "Dinesh Kumar: Complete technical architecture diagram for sign-off - Due: 14 September 2023",
+        "Thomas Edgerton: Review dependency mapping with the platform team - Due: 14 September 2023"
+      ]
+    },
+    {
+      "project_name": "AI Customer Support Bot",
+      "project_id": "PRJ-0139",
+      "status": "Pending Approval",
+      "recommendation": "Validate the core value proposition with a smoke-test landing page before full build.",
+      "decision": "DEFERRED - Decision deferred pending completion of the feasibility study and initial risk assessment. Team to strengthen the business case and re-present at the next steering committee.",
+      "budget_allocation": "$95,000",
+      "action_items": [
+        "Fatima Al-Hassan: Publish vendor shortlist and commercial terms for review - Due: 14 September 2023",
+        "Diana Petrov: Submit change management plan - Due: 14 September 2023",
+        "Diana Petrov: Circulate go/no-go recommendation to the steering committee - Due: 14 September 2023"
+      ]
+    }
+  ]
+}

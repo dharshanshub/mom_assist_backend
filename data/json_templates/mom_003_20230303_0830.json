@@ -1,0 +1,86 @@
+{
+  "meeting_number": 3,
+  "meeting_type": "Portfolio Review",
+  "date": "03 March 2023",
+  "time": "08:30",
+  "organizer": "Nisha Iyer",
+  "location": "Board Room B",
+  "projects": [
+    {
+      "project_name": "Procurement Policy Review",
+      "project_id": "PRJ-0143",
+      "status": "Active - On Track",
+      "recommendation": "Publish the updated standard operating procedures to the intranet and close the project.",
+      "decision": "FAST-TRACKED - All go-live readiness criteria satisfied. Rollback plan signed off by the CTO. Project fast-tracked to launch. Budget of $380,000 confirmed.",
+      "budget_allocation": "$120,000",
+      "action_items": [
+        "Dinesh Kumar: Deliver change management plan - Due: 14 April 2023",
+        "Marcus Webb: Submit KPI dashboard with updated metrics - Due: 14 April 2023"
+      ]
+    },
+    {
+      "project_name": "APAC Market Expansion",
+      "project_id": "PRJ-0107",
+      "status": "Active - On Track",
+      "recommendation": "Engage legal counsel to begin drafting the partnership term sheet.",
+      "decision": "APPROVED WITH CONDITIONS - Project approved to proceed to Phase 1, subject to: security audit sign-off by the CISO and legal review of data residency requirements. Budget of $120,000 confirmed.",
+      "budget_allocation": "$48,000",
+      "action_items": [
+        "Aisha Mahmood: Deliver stakeholder communication pack - Due: 14 April 2023",
+        "Ethan Brooks: Circulate revised budget breakdown to Finance for approval - Due: 14 April 2023",
+        "Marcus Webb: Complete go/no-go recommendation to the steering committee - Due: 14 April 2023"
+      ]
+    },
+    {
+      "project_name": "Singapore Office Expansion",
+      "project_id": "PRJ-0133",
+      "status": "Pending Approval",
+      "recommendation": "Confirm the civil works timeline with the facilities team before procurement commences.",
+      "decision": "DEFERRED - Decision deferred pending completion of the feasibility study and initial risk assessment. Team to strengthen the business case and re-present at the next steering committee.",
+      "budget_allocation": "GBP 75,000",
+      "action_items": [
+        "Marcus Webb: Deliver risk register with latest assessment to the programme office - Due: 14 April 2023",
+        "Ethan Brooks: Coordinate KPI dashboard with updated metrics - Due: 14 April 2023"
+      ]
+    },
+    {
+      "project_name": "Digital Marketing Automation",
+      "project_id": "PRJ-0129",
+      "status": "Active - On Track",
+      "recommendation": "Proceed with the selected media agency; terms are competitive and scope is well-defined.",
+      "decision": "APPROVED WITH CONDITIONS - Project approved to proceed to Phase 1, subject to: security audit sign-off by the CISO and legal review of data residency requirements. Budget of EUR 110,000 confirmed.",
+      "budget_allocation": "$95,000",
+      "action_items": [
+        "Thomas Edgerton: Submit post-implementation review agenda - Due: 14 April 2023",
+        "Meera Patel: Prepare risk register with latest assessment to the programme office - Due: 14 April 2023",
+        "Meera Patel: Prepare training schedule for all impacted teams - Due: 14 April 2023"
+      ]
+    },
+    {
+      "project_name": "Cost Optimisation Programme",
+      "project_id": "PRJ-0123",
+      "status": "Pending Approval",
+      "recommendation": "Engage the finance system vendor to confirm integration feasibility before committing.",
+      "decision": "DEFERRED - Decision deferred pending completion of the feasibility study and initial risk assessment. Team to strengthen the business case and re-present at the next steering committee.",
+      "budget_allocation": "GBP 75,000",
+      "action_items": [
+        "Lakshmi Venkat: Circulate post-implementation review agenda - Due: 14 April 2023",
+        "Ethan Brooks: Present go/no-go recommendation to the steering committee - Due: 14 April 2023",
+        "Ethan Brooks: Prepare technical architecture diagram for sign-off - Due: 14 April 2023"
+      ]
+    },
+    {
+      "project_name": "Partner Portal Launch",
+      "project_id": "PRJ-0138",
+      "status": "Active - On Track",
+      "recommendation": "Approve the market entry strategy and proceed to due diligence.",
+      "decision": "APPROVED WITH CONDITIONS - Project approved to proceed to Phase 1, subject to: security audit sign-off by the CISO and legal review of data residency requirements. Budget of GBP 150,000 confirmed.",
+      "budget_allocation": "$48,000",
+      "action_items": [
+        "Sameer Rao: Finalise resource allocation plan for the next sprint - Due: 14 April 2023",
+        "Meera Patel: Coordinate training schedule for all impacted teams - Due: 14 April 2023",
+        "Sameer Rao: Publish vendor shortlist and commercial terms for review - Due: 14 April 2023"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "meeting_number": 18,
+  "meeting_type": "Cross-Functional Sync",
+  "date": "23 February 2026",
+  "time": "09:00",
+  "organizer": "Arjun Mehta",
+  "location": "Zoom (Remote)",
+  "projects": [
+    {
+      "project_name": "Singapore Office Expansion",
+      "project_id": "PRJ-0133",
+      "status": "Completed",
+      "recommendation": "Close the project; infrastructure is stable and within agreed SLA parameters.",
+      "decision": "APPROVED - Project formally closed following a successful hypercare period. All KPIs met. Post-implementation review scheduled for next quarter. Project transitioned to BAU.",
+      "budget_allocation": "$24,000",
+      "action_items": [
+        "Dinesh Kumar: Present revised budget breakdown to Finance for approval - Due: 20 April 2026",
+        "Priya Nair: Publish revised budget breakdown to Finance for approval - Due: 20 April 2026",
+        "Marcus Webb: Submit KPI dashboard with updated metrics - Due: 20 April 2026"
+      ]
+    },
+    {
+      "project_name": "Next-Gen CRM Implementation",
+      "project_id": "PRJ-0125",
+      "status": "Completed",
+      "recommendation": "Formally close the programme; all KPIs met and improvements embedded.",
+      "decision": "APPROVED - Project formally closed following a successful hypercare period. All KPIs met. Post-implementation review scheduled for next quarter. Project transitioned to BAU.",
+      "budget_allocation": "$48,000",
+      "action_items": [
+        "Carlos Mendez: Finalise vendor shortlist and commercial terms for review - Due: 20 April 2026",
+        "Priya Nair: Submit KPI dashboard with updated metrics - Due: 20 April 2026",
+        "Priya Nair: Deliver vendor shortlist and commercial terms for review - Due: 20 April 2026"
+      ]
+    },
+    {
+      "project_name": "Real-Time Fraud Detection System",
+      "project_id": "PRJ-0120",
+      "status": "Active - On Track",
+      "recommendation": "Approve production go-live; all data quality and performance benchmarks have been met.",
+      "decision": "FAST-TRACKED - All go-live readiness criteria satisfied. Rollback plan signed off by the CTO. Project fast-tracked to launch. Budget of $48,000 confirmed.",
+      "budget_allocation": "EUR 60,000",
+      "action_items": [
+        "Lakshmi Venkat: Prepare vendor shortlist and commercial terms for review - Due: 20 April 2026",
+        "Carlos Mendez: Submit revised budget breakdown to Finance for approval - Due: 20 April 2026",
+        "Aisha Mahmood: Deliver post-implementation review agenda - Due: 20 April 2026"
+      ]
+    },
+    {
+      "project_name": "Disaster Recovery and BCP Upgrade",
+      "project_id": "PRJ-0114",
+      "status": "Completed",
+      "recommendation": "Close the project; infrastructure is stable and within agreed SLA parameters.",
+      "decision": "APPROVED - Project formally closed following a successful hypercare period. All KPIs met. Post-implementation review scheduled for next quarter. Project transitioned to BAU.",
+      "budget_allocation": "$500,000",
+      "action_items": [
+        "Riya Joshi: Finalise go/no-go recommendation to the steering committee - Due: 20 April 2026",
+        "Marcus Webb: Publish technical architecture diagram for sign-off - Due: 20 April 2026",
+        "Marcus Webb: Review legal review of the contract amendment - Due: 20 April 2026"
+      ]
+    },
+    {
+      "project_name": "Carbon Footprint Tracking System",
+      "project_id": "PRJ-0135",
+      "status": "Completed",
+      "recommendation": "Transition ongoing compliance monitoring to the Risk and Compliance function.",
+      "decision": "APPROVED - Project formally closed following a successful hypercare period. All KPIs met. Post-implementation review scheduled for next quarter. Project transitioned to BAU.",
+      "budget_allocation": "EUR 60,000",
+      "action_items": [
+        "Ethan Brooks: Review revised budget breakdown to Finance for approval - Due: 20 April 2026",
+        "Priya Nair: Deliver post-implementation review agenda - Due: 20 April 2026"
+      ]
+    },
+    {
+      "project_name": "ERP System Upgrade",
+      "project_id": "PRJ-0103",
+      "status": "Completed",
+      "recommendation": "Hand over ongoing vendor management to the procurement team.",
+      "decision": "APPROVED - Project formally closed following a successful hypercare period. All KPIs met. Post-implementation review scheduled for next quarter. Project transitioned to BAU.",
+      "budget_allocation": "GBP 40,000",
+      "action_items": [
+        "Dinesh Kumar: Review vendor shortlist and commercial terms for review - Due: 20 April 2026",
+        "Marcus Webb: Deliver resource allocation plan for the next sprint - Due: 20 April 2026",
+        "Marcus Webb: Circulate risk register with latest assessment to the programme office - Due: 20 April 2026"
+      ]
+    }
+  ]
+}

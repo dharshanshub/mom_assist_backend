@@ -1,0 +1,61 @@
+{
+  "meeting_number": 95,
+  "meeting_type": "Portfolio Review",
+  "date": "28 March 2026",
+  "time": "15:00",
+  "organizer": "Riya Joshi",
+  "location": "Board Room B",
+  "projects": [
+    {
+      "project_name": "Workforce Analytics Dashboard",
+      "project_id": "PRJ-0140",
+      "status": "Active - On Track",
+      "recommendation": "Publish the post-implementation review findings to the HR leadership team.",
+      "decision": "FAST-TRACKED - All go-live readiness criteria satisfied. Rollback plan signed off by the CTO. Project fast-tracked to launch. Budget of $180,000 confirmed.",
+      "budget_allocation": "$95,000",
+      "action_items": [
+        "Sameer Rao: Publish resource allocation plan for the next sprint - Due: 11 April 2026",
+        "Nathan Forrest: Present change management plan - Due: 11 April 2026",
+        "Nathan Forrest: Submit vendor shortlist and commercial terms for review - Due: 11 April 2026"
+      ]
+    },
+    {
+      "project_name": "Strategic Acquisition Integration",
+      "project_id": "PRJ-0150",
+      "status": "Active - At Risk",
+      "recommendation": "Submit the regulatory filings in the remaining jurisdiction without delay.",
+      "decision": "APPROVED - Following resolution of the Phase 1 blockers, project reinstated and approved to advance to Phase 2. All pre-conditions have been met. Budget of $120,000 confirmed.",
+      "budget_allocation": "$48,000",
+      "action_items": [
+        "Oliver Grant: Review risk register with latest assessment to the programme office - Due: 11 April 2026",
+        "James Thornton: Finalise dependency mapping with the platform team - Due: 11 April 2026",
+        "Nathan Forrest: Review stakeholder communication pack - Due: 11 April 2026"
+      ]
+    },
+    {
+      "project_name": "AI-Powered Analytics Platform",
+      "project_id": "PRJ-0104",
+      "status": "Completed",
+      "recommendation": "Formally close the project; all deliverables accepted by business stakeholders.",
+      "decision": "APPROVED - Project formally closed following a successful hypercare period. All KPIs met. Post-implementation review scheduled for next quarter. Project transitioned to BAU.",
+      "budget_allocation": "EUR 110,000",
+      "action_items": [
+        "Lakshmi Venkat: Circulate technical architecture diagram for sign-off - Due: 11 April 2026",
+        "Priya Nair: Review post-implementation review agenda - Due: 11 April 2026"
+      ]
+    },
+    {
+      "project_name": "Kubernetes Platform Rollout",
+      "project_id": "PRJ-0126",
+      "status": "Completed",
+      "recommendation": "Approve go-live; all readiness checks passed and rollback plan is in place.",
+      "decision": "APPROVED - Project formally closed following a successful hypercare period. All KPIs met. Post-implementation review scheduled for next quarter. Project transitioned to BAU.",
+      "budget_allocation": "$180,000",
+      "action_items": [
+        "Kavya Reddy: Present change management plan - Due: 11 April 2026",
+        "James Thornton: Present resource allocation plan for the next sprint - Due: 11 April 2026",
+        "James Thornton: Circulate KPI dashboard with updated metrics - Due: 11 April 2026"
+      ]
+    }
+  ]
+}

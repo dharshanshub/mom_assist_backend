@@ -1,0 +1,61 @@
+{
+  "meeting_number": 48,
+  "meeting_type": "All-Hands Update",
+  "date": "20 May 2024",
+  "time": "14:00",
+  "organizer": "Sameer Rao",
+  "location": "Zoom (Remote)",
+  "projects": [
+    {
+      "project_name": "Zero-Trust Network Security Overhaul",
+      "project_id": "PRJ-0108",
+      "status": "Active - At Risk",
+      "recommendation": "Resolve the legacy system integration issue before advancing; do not carry it forward.",
+      "decision": "APPROVED - Following resolution of the Phase 1 blockers, project reinstated and approved to advance to Phase 2. All pre-conditions have been met. Budget of GBP 40,000 confirmed.",
+      "budget_allocation": "EUR 110,000",
+      "action_items": [
+        "Sneha Gupta: Publish updated project plan and revised timeline to all stakeholders - Due: 15 July 2024",
+        "Riya Joshi: Coordinate change management plan - Due: 15 July 2024"
+      ]
+    },
+    {
+      "project_name": "Automated Testing Framework",
+      "project_id": "PRJ-0117",
+      "status": "Active - At Risk",
+      "recommendation": "Resolve the legacy system integration issue before advancing; do not carry it forward.",
+      "decision": "APPROVED - Following resolution of the Phase 1 blockers, project reinstated and approved to advance to Phase 2. All pre-conditions have been met. Budget of $250,000 confirmed.",
+      "budget_allocation": "$24,000",
+      "action_items": [
+        "Nisha Iyer: Coordinate dependency mapping with the platform team - Due: 15 July 2024",
+        "Oliver Grant: Coordinate risk register with latest assessment to the programme office - Due: 15 July 2024",
+        "Riya Joshi: Circulate training schedule for all impacted teams - Due: 15 July 2024"
+      ]
+    },
+    {
+      "project_name": "Real-Time Fraud Detection System",
+      "project_id": "PRJ-0120",
+      "status": "Active - At Risk",
+      "recommendation": "Invest in automated data quality monitoring to prevent regression during scale-out.",
+      "decision": "APPROVED - Following resolution of the Phase 1 blockers, project reinstated and approved to advance to Phase 2. All pre-conditions have been met. Budget of $180,000 confirmed.",
+      "budget_allocation": "GBP 40,000",
+      "action_items": [
+        "Carlos Mendez: Publish go/no-go recommendation to the steering committee - Due: 15 July 2024",
+        "Riya Joshi: Present resource allocation plan for the next sprint - Due: 15 July 2024",
+        "Riya Joshi: Present stakeholder communication pack - Due: 15 July 2024"
+      ]
+    },
+    {
+      "project_name": "Regulatory Reporting Automation",
+      "project_id": "PRJ-0137",
+      "status": "Active - On Track",
+      "recommendation": "Engage the finance system vendor to confirm integration feasibility before committing.",
+      "decision": "APPROVED WITH CONDITIONS - Project approved to proceed to Phase 1, subject to: security audit sign-off by the CISO and legal review of data residency requirements. Budget of $24,000 confirmed.",
+      "budget_allocation": "$380,000",
+      "action_items": [
+        "Lakshmi Venkat: Complete KPI dashboard with updated metrics - Due: 15 July 2024",
+        "Riya Joshi: Publish change management plan - Due: 15 July 2024",
+        "Riya Joshi: Submit stakeholder communication pack - Due: 15 July 2024"
+      ]
+    }
+  ]
+}

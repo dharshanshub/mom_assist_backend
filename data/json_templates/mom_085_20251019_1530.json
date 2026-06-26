@@ -1,0 +1,62 @@
+{
+  "meeting_number": 85,
+  "meeting_type": "Planning Session",
+  "date": "19 October 2025",
+  "time": "15:30",
+  "organizer": "Diana Petrov",
+  "location": "Executive Suite",
+  "projects": [
+    {
+      "project_name": "AI-Powered Analytics Platform",
+      "project_id": "PRJ-0104",
+      "status": "Active - On Track",
+      "recommendation": "Approve production go-live; all data quality and performance benchmarks have been met.",
+      "decision": "FAST-TRACKED - All go-live readiness criteria satisfied. Rollback plan signed off by the CTO. Project fast-tracked to launch. Budget of $250,000 confirmed.",
+      "budget_allocation": "$48,000",
+      "action_items": [
+        "Dinesh Kumar: Prepare risk register with latest assessment to the programme office - Due: 14 December 2025",
+        "Meera Patel: Coordinate stakeholder communication pack - Due: 14 December 2025",
+        "Meera Patel: Present revised budget breakdown to Finance for approval - Due: 14 December 2025"
+      ]
+    },
+    {
+      "project_name": "Brand Refresh 2024",
+      "project_id": "PRJ-0115",
+      "status": "Active - On Track",
+      "recommendation": "Proceed to full production of the preferred creative route; testing results are conclusive.",
+      "decision": "PILOT APPROVED - Phase 3 milestones met. Pilot approved for a single-tenant deployment for one key client. Full rollout contingent on pilot KPIs being met within 12 weeks. Budget of GBP 150,000 released for pilot phase.",
+      "budget_allocation": "$250,000",
+      "action_items": [
+        "Priya Nair: Review go/no-go recommendation to the steering committee - Due: 14 December 2025",
+        "James Thornton: Deliver go/no-go recommendation to the steering committee - Due: 14 December 2025",
+        "James Thornton: Prepare updated project plan and revised timeline to all stakeholders - Due: 14 December 2025"
+      ]
+    },
+    {
+      "project_name": "Next-Gen CRM Implementation",
+      "project_id": "PRJ-0125",
+      "status": "Active - On Track",
+      "recommendation": "Adopt the new playbook as the global sales standard.",
+      "decision": "APPROVED - User Acceptance Testing completed with all critical defects resolved. Project approved to proceed to Go-Live Preparation. Final budget of GBP 40,000 confirmed.",
+      "budget_allocation": "$120,000",
+      "action_items": [
+        "Priya Nair: Publish dependency mapping with the platform team - Due: 14 December 2025",
+        "Dinesh Kumar: Present dependency mapping with the platform team - Due: 14 December 2025",
+        "Meera Patel: Complete post-implementation review agenda - Due: 14 December 2025"
+      ]
+    },
+    {
+      "project_name": "Singapore Office Expansion",
+      "project_id": "PRJ-0133",
+      "status": "Active - On Track",
+      "recommendation": "Proceed with full cutover; parallel running results confirm readiness.",
+      "decision": "APPROVED - User Acceptance Testing completed with all critical defects resolved. Project approved to proceed to Go-Live Preparation. Final budget of $180,000 confirmed.",
+      "budget_allocation": "GBP 75,000",
+      "action_items": [
+        "Riya Joshi: Deliver updated project plan and revised timeline to all stakeholders - Due: 14 December 2025",
+        "Dinesh Kumar: Prepare risk register with latest assessment to the programme office - Due: 14 December 2025",
+        "Dinesh Kumar: Publish resource allocation plan for the next sprint - Due: 14 December 2025"
+      ]
+    }
+  ]
+}

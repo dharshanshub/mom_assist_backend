@@ -1,0 +1,60 @@
+{
+  "meeting_number": 83,
+  "meeting_type": "Board Meeting",
+  "date": "29 July 2025",
+  "time": "09:00",
+  "organizer": "Pooja Krishnan",
+  "location": "Conference Room 3",
+  "projects": [
+    {
+      "project_name": "APAC Market Expansion",
+      "project_id": "PRJ-0107",
+      "status": "Active - On Track",
+      "recommendation": "Commission Phase 2 market expansion scoping given the success of Phase 1.",
+      "decision": "APPROVED - User Acceptance Testing completed with all critical defects resolved. Project approved to proceed to Go-Live Preparation. Final budget of $180,000 confirmed.",
+      "budget_allocation": "$380,000",
+      "action_items": [
+        "Oliver Grant: Deliver training schedule for all impacted teams - Due: 23 September 2025",
+        "Dinesh Kumar: Prepare KPI dashboard with updated metrics - Due: 23 September 2025",
+        "Dinesh Kumar: Complete legal review of the contract amendment - Due: 23 September 2025"
+      ]
+    },
+    {
+      "project_name": "Digital Marketing Automation",
+      "project_id": "PRJ-0129",
+      "status": "Active - On Track",
+      "recommendation": "Commission a follow-up brand tracking study to measure sustained impact.",
+      "decision": "APPROVED - User Acceptance Testing completed with all critical defects resolved. Project approved to proceed to Go-Live Preparation. Final budget of EUR 110,000 confirmed.",
+      "budget_allocation": "$120,000",
+      "action_items": [
+        "Rohan Sharma: Prepare stakeholder communication pack - Due: 23 September 2025",
+        "Marcus Webb: Coordinate dependency mapping with the platform team - Due: 23 September 2025",
+        "Sneha Gupta: Deliver vendor shortlist and commercial terms for review - Due: 23 September 2025"
+      ]
+    },
+    {
+      "project_name": "Global Payroll Consolidation",
+      "project_id": "PRJ-0130",
+      "status": "Active - On Track",
+      "recommendation": "Transition HR system support to the People Technology BAU team.",
+      "decision": "APPROVED - User Acceptance Testing completed with all critical defects resolved. Project approved to proceed to Go-Live Preparation. Final budget of $500,000 confirmed.",
+      "budget_allocation": "$500,000",
+      "action_items": [
+        "Sneha Gupta: Finalise legal review of the contract amendment - Due: 23 September 2025",
+        "Vivek Nambiar: Complete KPI dashboard with updated metrics - Due: 23 September 2025"
+      ]
+    },
+    {
+      "project_name": "AI Customer Support Bot",
+      "project_id": "PRJ-0139",
+      "status": "Completed",
+      "recommendation": "Invest in a dedicated retention marketing programme to build on the strong Day-1 metrics.",
+      "decision": "APPROVED - Project formally closed following a successful hypercare period. All KPIs met. Post-implementation review scheduled for next quarter. Project transitioned to BAU.",
+      "budget_allocation": "$500,000",
+      "action_items": [
+        "Riya Joshi: Review stakeholder communication pack - Due: 23 September 2025",
+        "Sneha Gupta: Review dependency mapping with the platform team - Due: 23 September 2025"
+      ]
+    }
+  ]
+}

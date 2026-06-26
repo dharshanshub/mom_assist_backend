@@ -1,0 +1,84 @@
+{
+  "meeting_number": 98,
+  "meeting_type": "Cross-Functional Sync",
+  "date": "17 May 2026",
+  "time": "09:30",
+  "organizer": "Priya Nair",
+  "location": "Zoom (Remote)",
+  "projects": [
+    {
+      "project_name": "Customer Portal Redesign",
+      "project_id": "PRJ-0102",
+      "status": "Completed",
+      "recommendation": "Approve full public launch; beta results consistently exceed success benchmarks.",
+      "decision": "APPROVED - Project formally closed following a successful hypercare period. All KPIs met. Post-implementation review scheduled for next quarter. Project transitioned to BAU.",
+      "budget_allocation": "GBP 40,000",
+      "action_items": [
+        "Nisha Iyer: Submit revised budget breakdown to Finance for approval - Due: 12 July 2026",
+        "James Thornton: Prepare change management plan - Due: 12 July 2026",
+        "James Thornton: Review stakeholder communication pack - Due: 12 July 2026"
+      ]
+    },
+    {
+      "project_name": "ERP System Upgrade",
+      "project_id": "PRJ-0103",
+      "status": "Completed",
+      "recommendation": "Publish the updated standard operating procedures to the intranet and close the project.",
+      "decision": "APPROVED - Project formally closed following a successful hypercare period. All KPIs met. Post-implementation review scheduled for next quarter. Project transitioned to BAU.",
+      "budget_allocation": "$24,000",
+      "action_items": [
+        "Lakshmi Venkat: Present risk register with latest assessment to the programme office - Due: 12 July 2026",
+        "James Thornton: Complete revised budget breakdown to Finance for approval - Due: 12 July 2026"
+      ]
+    },
+    {
+      "project_name": "Mobile App v3.0 Launch",
+      "project_id": "PRJ-0105",
+      "status": "Completed",
+      "recommendation": "Invest in a dedicated retention marketing programme to build on the strong Day-1 metrics.",
+      "decision": "APPROVED - Project formally closed following a successful hypercare period. All KPIs met. Post-implementation review scheduled for next quarter. Project transitioned to BAU.",
+      "budget_allocation": "EUR 60,000",
+      "action_items": [
+        "Vivek Nambiar: Prepare go/no-go recommendation to the steering committee - Due: 12 July 2026",
+        "James Thornton: Prepare risk register with latest assessment to the programme office - Due: 12 July 2026",
+        "Nisha Iyer: Coordinate revised budget breakdown to Finance for approval - Due: 12 July 2026"
+      ]
+    },
+    {
+      "project_name": "Supply Chain Digitalisation",
+      "project_id": "PRJ-0118",
+      "status": "Completed",
+      "recommendation": "Hand over ongoing vendor management to the procurement team.",
+      "decision": "APPROVED - Project formally closed following a successful hypercare period. All KPIs met. Post-implementation review scheduled for next quarter. Project transitioned to BAU.",
+      "budget_allocation": "GBP 75,000",
+      "action_items": [
+        "Rohan Sharma: Deliver stakeholder communication pack - Due: 12 July 2026",
+        "Diana Petrov: Publish technical architecture diagram for sign-off - Due: 12 July 2026"
+      ]
+    },
+    {
+      "project_name": "Employee Wellness Platform",
+      "project_id": "PRJ-0119",
+      "status": "Completed",
+      "recommendation": "Formally close the project; all deliverables accepted and KPIs met.",
+      "decision": "APPROVED - Project formally closed following a successful hypercare period. All KPIs met. Post-implementation review scheduled for next quarter. Project transitioned to BAU.",
+      "budget_allocation": "$24,000",
+      "action_items": [
+        "Nisha Iyer: Deliver revised budget breakdown to Finance for approval - Due: 12 July 2026",
+        "Carlos Mendez: Submit technical architecture diagram for sign-off - Due: 12 July 2026"
+      ]
+    },
+    {
+      "project_name": "Digital Marketing Automation",
+      "project_id": "PRJ-0129",
+      "status": "Completed",
+      "recommendation": "Commission a follow-up brand tracking study to measure sustained impact.",
+      "decision": "APPROVED - Project formally closed following a successful hypercare period. All KPIs met. Post-implementation review scheduled for next quarter. Project transitioned to BAU.",
+      "budget_allocation": "$250,000",
+      "action_items": [
+        "Sameer Rao: Submit go/no-go recommendation to the steering committee - Due: 12 July 2026",
+        "Nisha Iyer: Finalise resource allocation plan for the next sprint - Due: 12 July 2026"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "meeting_number": 19,
+  "meeting_type": "All-Hands Update",
+  "date": "26 July 2023",
+  "time": "15:30",
+  "organizer": "Oliver Grant",
+  "location": "Microsoft Teams (Hybrid)",
+  "projects": [
+    {
+      "project_name": "Automated Testing Framework",
+      "project_id": "PRJ-0117",
+      "status": "Active - On Track",
+      "recommendation": "Complete the proof of concept before committing to a full build; de-risk the approach.",
+      "decision": "APPROVED WITH CONDITIONS - Project approved to proceed to Phase 1, subject to: security audit sign-off by the CISO and legal review of data residency requirements. Budget of $380,000 confirmed.",
+      "budget_allocation": "EUR 60,000",
+      "action_items": [
+        "Riya Joshi: Prepare technical architecture diagram for sign-off - Due: 09 August 2023",
+        "Sneha Gupta: Prepare go/no-go recommendation to the steering committee - Due: 09 August 2023"
+      ]
+    },
+    {
+      "project_name": "API Gateway and Microservices Rollout",
+      "project_id": "PRJ-0112",
+      "status": "Active - Slightly Delayed",
+      "recommendation": "Approve the proposed architecture and proceed to Phase 1 with a fully staffed delivery team.",
+      "decision": "ON HOLD - Phase 1 temporarily placed on hold due to resource conflicts with the ERP programme. A resume decision will be revisited in 8 weeks once capacity is confirmed.",
+      "budget_allocation": "$250,000",
+      "action_items": [
+        "Priya Nair: Complete updated project plan and revised timeline to all stakeholders - Due: 09 August 2023",
+        "Thomas Edgerton: Present change management plan - Due: 09 August 2023",
+        "Rohan Sharma: Coordinate go/no-go recommendation to the steering committee - Due: 09 August 2023"
+      ]
+    },
+    {
+      "project_name": "Cost Optimisation Programme",
+      "project_id": "PRJ-0123",
+      "status": "Pending Approval",
+      "recommendation": "Seek board approval for the capital expenditure component before Phase 1 commences.",
+      "decision": "DEFERRED - Decision deferred pending completion of the feasibility study and initial risk assessment. Team to strengthen the business case and re-present at the next steering committee.",
+      "budget_allocation": "$95,000",
+      "action_items": [
+        "Meera Patel: Prepare post-implementation review agenda - Due: 09 August 2023",
+        "Nisha Iyer: Coordinate technical architecture diagram for sign-off - Due: 09 August 2023",
+        "Sneha Gupta: Present dependency mapping with the platform team - Due: 09 August 2023"
+      ]
+    },
+    {
+      "project_name": "Supply Chain Digitalisation",
+      "project_id": "PRJ-0118",
+      "status": "Pending Approval",
+      "recommendation": "Select the preferred vendor and proceed to contract negotiation.",
+      "decision": "DEFERRED - Decision deferred pending completion of the feasibility study and initial risk assessment. Team to strengthen the business case and re-present at the next steering committee.",
+      "budget_allocation": "$95,000",
+      "action_items": [
+        "Dinesh Kumar: Finalise dependency mapping with the platform team - Due: 09 August 2023",
+        "Rohan Sharma: Coordinate technical architecture diagram for sign-off - Due: 09 August 2023",
+        "Nisha Iyer: Finalise dependency mapping with the platform team - Due: 09 August 2023"
+      ]
+    }
+  ]
+}

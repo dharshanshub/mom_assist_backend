@@ -1,0 +1,59 @@
+{
+  "meeting_number": 35,
+  "meeting_type": "Board Meeting",
+  "date": "08 March 2024",
+  "time": "15:00",
+  "organizer": "Sameer Rao",
+  "location": "Conference Room 3",
+  "projects": [
+    {
+      "project_name": "Cloud Infrastructure Migration",
+      "project_id": "PRJ-0101",
+      "status": "Pending Approval",
+      "recommendation": "Engage a specialist security architect to validate the design before Phase 1 commences.",
+      "decision": "DEFERRED - Decision deferred pending completion of the feasibility study and initial risk assessment. Team to strengthen the business case and re-present at the next steering committee.",
+      "budget_allocation": "GBP 75,000",
+      "action_items": [
+        "Aisha Mahmood: Publish updated project plan and revised timeline to all stakeholders - Due: 05 April 2024",
+        "Nathan Forrest: Circulate technical architecture diagram for sign-off - Due: 05 April 2024"
+      ]
+    },
+    {
+      "project_name": "Employee Wellness Platform",
+      "project_id": "PRJ-0119",
+      "status": "Pending Approval",
+      "recommendation": "Commission a detailed change impact assessment before communicating to staff.",
+      "decision": "DEFERRED - Decision deferred pending completion of the feasibility study and initial risk assessment. Team to strengthen the business case and re-present at the next steering committee.",
+      "budget_allocation": "$250,000",
+      "action_items": [
+        "Nathan Forrest: Submit legal review of the contract amendment - Due: 05 April 2024",
+        "Diana Petrov: Prepare legal review of the contract amendment - Due: 05 April 2024"
+      ]
+    },
+    {
+      "project_name": "Data Warehouse Modernisation",
+      "project_id": "PRJ-0106",
+      "status": "Active - On Track",
+      "recommendation": "Appoint a dedicated data governance lead before the programme goes beyond discovery.",
+      "decision": "APPROVED WITH CONDITIONS - Project approved to proceed to Phase 1, subject to: security audit sign-off by the CISO and legal review of data residency requirements. Budget of $380,000 confirmed.",
+      "budget_allocation": "$250,000",
+      "action_items": [
+        "Riya Joshi: Submit updated project plan and revised timeline to all stakeholders - Due: 05 April 2024",
+        "Marcus Webb: Review technical architecture diagram for sign-off - Due: 05 April 2024"
+      ]
+    },
+    {
+      "project_name": "Next-Gen CRM Implementation",
+      "project_id": "PRJ-0125",
+      "status": "Pending Approval",
+      "recommendation": "Approve the sales transformation programme and proceed to playbook development.",
+      "decision": "DEFERRED - Decision deferred pending completion of the feasibility study and initial risk assessment. Team to strengthen the business case and re-present at the next steering committee.",
+      "budget_allocation": "$380,000",
+      "action_items": [
+        "Kavya Reddy: Circulate revised budget breakdown to Finance for approval - Due: 05 April 2024",
+        "Kavya Reddy: Review vendor shortlist and commercial terms for review - Due: 05 April 2024",
+        "Kavya Reddy: Circulate post-implementation review agenda - Due: 05 April 2024"
+      ]
+    }
+  ]
+}

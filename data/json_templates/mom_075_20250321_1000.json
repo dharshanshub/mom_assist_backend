@@ -1,0 +1,60 @@
+{
+  "meeting_number": 75,
+  "meeting_type": "Client Steering Committee",
+  "date": "21 March 2025",
+  "time": "10:00",
+  "organizer": "Sneha Gupta",
+  "location": "Innovation Hub, Floor 4",
+  "projects": [
+    {
+      "project_name": "Customer Loyalty Programme",
+      "project_id": "PRJ-0110",
+      "status": "Active - On Track",
+      "recommendation": "Expand the soft launch to 25% of the audience; early indicators are positive.",
+      "decision": "APPROVED - Phase 2 deliverables reviewed and approved to continue. Progress is on track and within budget. Revised budget of $180,000 approved following scope clarification.",
+      "budget_allocation": "EUR 110,000",
+      "action_items": [
+        "Meera Patel: Finalise legal review of the contract amendment - Due: 18 April 2025",
+        "Rohan Sharma: Review stakeholder communication pack - Due: 18 April 2025",
+        "Aisha Mahmood: Circulate KPI dashboard with updated metrics - Due: 18 April 2025"
+      ]
+    },
+    {
+      "project_name": "Product-Led Growth Initiative",
+      "project_id": "PRJ-0136",
+      "status": "Active - On Track",
+      "recommendation": "Approve full public launch; beta results consistently exceed success benchmarks.",
+      "decision": "APPROVED - User Acceptance Testing completed with all critical defects resolved. Project approved to proceed to Go-Live Preparation. Final budget of GBP 150,000 confirmed.",
+      "budget_allocation": "EUR 110,000",
+      "action_items": [
+        "Dinesh Kumar: Complete legal review of the contract amendment - Due: 18 April 2025",
+        "Lakshmi Venkat: Deliver risk register with latest assessment to the programme office - Due: 18 April 2025",
+        "Lakshmi Venkat: Publish resource allocation plan for the next sprint - Due: 18 April 2025"
+      ]
+    },
+    {
+      "project_name": "Customer Portal Redesign",
+      "project_id": "PRJ-0102",
+      "status": "Active - On Track",
+      "recommendation": "Approve full public launch; beta results consistently exceed success benchmarks.",
+      "decision": "APPROVED - User Acceptance Testing completed with all critical defects resolved. Project approved to proceed to Go-Live Preparation. Final budget of GBP 150,000 confirmed.",
+      "budget_allocation": "GBP 150,000",
+      "action_items": [
+        "Diana Petrov: Review legal review of the contract amendment - Due: 18 April 2025",
+        "Rohan Sharma: Submit post-implementation review agenda - Due: 18 April 2025"
+      ]
+    },
+    {
+      "project_name": "API Gateway and Microservices Rollout",
+      "project_id": "PRJ-0112",
+      "status": "Active - On Track",
+      "recommendation": "Transition to BAU support model; hypercare resourcing can be reduced by 50%.",
+      "decision": "APPROVED - User Acceptance Testing completed with all critical defects resolved. Project approved to proceed to Go-Live Preparation. Final budget of GBP 40,000 confirmed.",
+      "budget_allocation": "EUR 110,000",
+      "action_items": [
+        "Ananya Singh: Circulate vendor shortlist and commercial terms for review - Due: 18 April 2025",
+        "Aisha Mahmood: Circulate go/no-go recommendation to the steering committee - Due: 18 April 2025"
+      ]
+    }
+  ]
+}

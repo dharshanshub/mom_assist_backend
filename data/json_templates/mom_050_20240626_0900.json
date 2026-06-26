@@ -1,0 +1,62 @@
+{
+  "meeting_number": 50,
+  "meeting_type": "Programme Retrospective",
+  "date": "26 June 2024",
+  "time": "09:00",
+  "organizer": "Sameer Rao",
+  "location": "Executive Suite",
+  "projects": [
+    {
+      "project_name": "SOC 2 Type II Compliance",
+      "project_id": "PRJ-0111",
+      "status": "Active - At Risk",
+      "recommendation": "Proceed to the next phase of control implementation; evidence gathering is on track.",
+      "decision": "APPROVED - Following resolution of the Phase 1 blockers, project reinstated and approved to advance to Phase 2. All pre-conditions have been met. Budget of $380,000 confirmed.",
+      "budget_allocation": "$380,000",
+      "action_items": [
+        "Thomas Edgerton: Circulate stakeholder communication pack - Due: 21 August 2024",
+        "Nathan Forrest: Complete go/no-go recommendation to the steering committee - Due: 21 August 2024",
+        "Kavya Reddy: Publish risk register with latest assessment to the programme office - Due: 21 August 2024"
+      ]
+    },
+    {
+      "project_name": "Global Payroll Consolidation",
+      "project_id": "PRJ-0130",
+      "status": "Active - Slightly Delayed",
+      "recommendation": "Select the HRIS platform and proceed to contract negotiation.",
+      "decision": "ON HOLD - Phase 1 temporarily placed on hold due to resource conflicts with the ERP programme. A resume decision will be revisited in 8 weeks once capacity is confirmed.",
+      "budget_allocation": "$120,000",
+      "action_items": [
+        "Carlos Mendez: Deliver technical architecture diagram for sign-off - Due: 21 August 2024",
+        "Kavya Reddy: Publish revised budget breakdown to Finance for approval - Due: 21 August 2024",
+        "Fatima Al-Hassan: Present resource allocation plan for the next sprint - Due: 21 August 2024"
+      ]
+    },
+    {
+      "project_name": "Product-Led Growth Initiative",
+      "project_id": "PRJ-0136",
+      "status": "Active - On Track",
+      "recommendation": "Proceed to closed beta; product quality meets the threshold for controlled testing.",
+      "decision": "APPROVED - Phase 2 deliverables reviewed and approved to continue. Progress is on track and within budget. Revised budget of EUR 60,000 approved following scope clarification.",
+      "budget_allocation": "$500,000",
+      "action_items": [
+        "Nathan Forrest: Coordinate post-implementation review agenda - Due: 21 August 2024",
+        "Nathan Forrest: Present technical architecture diagram for sign-off - Due: 21 August 2024",
+        "Nathan Forrest: Publish risk register with latest assessment to the programme office - Due: 21 August 2024"
+      ]
+    },
+    {
+      "project_name": "APAC Market Expansion",
+      "project_id": "PRJ-0107",
+      "status": "Active - On Track",
+      "recommendation": "Commission a detailed regulatory mapping exercise before committing to entry.",
+      "decision": "APPROVED WITH CONDITIONS - Project approved to proceed to Phase 1, subject to: security audit sign-off by the CISO and legal review of data residency requirements. Budget of $95,000 confirmed.",
+      "budget_allocation": "$95,000",
+      "action_items": [
+        "Diana Petrov: Prepare change management plan - Due: 21 August 2024",
+        "Kavya Reddy: Present vendor shortlist and commercial terms for review - Due: 21 August 2024",
+        "Kavya Reddy: Complete change management plan - Due: 21 August 2024"
+      ]
+    }
+  ]
+}

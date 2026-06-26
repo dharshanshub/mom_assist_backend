@@ -1,0 +1,84 @@
+{
+  "meeting_number": 17,
+  "meeting_type": "Portfolio Review",
+  "date": "21 January 2026",
+  "time": "15:00",
+  "organizer": "Pooja Krishnan",
+  "location": "Conference Room 3",
+  "projects": [
+    {
+      "project_name": "Brand Refresh 2024",
+      "project_id": "PRJ-0115",
+      "status": "Active - On Track",
+      "recommendation": "Commission a follow-up brand tracking study to measure sustained impact.",
+      "decision": "FAST-TRACKED - All go-live readiness criteria satisfied. Rollback plan signed off by the CTO. Project fast-tracked to launch. Budget of GBP 150,000 confirmed.",
+      "budget_allocation": "$380,000",
+      "action_items": [
+        "Riya Joshi: Review change management plan - Due: 18 March 2026",
+        "James Thornton: Complete revised budget breakdown to Finance for approval - Due: 18 March 2026",
+        "James Thornton: Submit go/no-go recommendation to the steering committee - Due: 18 March 2026"
+      ]
+    },
+    {
+      "project_name": "Customer Portal Redesign",
+      "project_id": "PRJ-0102",
+      "status": "Active - On Track",
+      "recommendation": "Close the project and transition ownership to the product operations team.",
+      "decision": "APPROVED - User Acceptance Testing completed with all critical defects resolved. Project approved to proceed to Go-Live Preparation. Final budget of $120,000 confirmed.",
+      "budget_allocation": "$180,000",
+      "action_items": [
+        "Sneha Gupta: Circulate training schedule for all impacted teams - Due: 18 March 2026",
+        "Lakshmi Venkat: Submit change management plan - Due: 18 March 2026"
+      ]
+    },
+    {
+      "project_name": "Supply Chain Digitalisation",
+      "project_id": "PRJ-0118",
+      "status": "Active - On Track",
+      "recommendation": "Publish the updated standard operating procedures to the intranet and close the project.",
+      "decision": "APPROVED - User Acceptance Testing completed with all critical defects resolved. Project approved to proceed to Go-Live Preparation. Final budget of $95,000 confirmed.",
+      "budget_allocation": "GBP 150,000",
+      "action_items": [
+        "Nathan Forrest: Prepare revised budget breakdown to Finance for approval - Due: 18 March 2026",
+        "Sneha Gupta: Coordinate resource allocation plan for the next sprint - Due: 18 March 2026",
+        "Sneha Gupta: Publish KPI dashboard with updated metrics - Due: 18 March 2026"
+      ]
+    },
+    {
+      "project_name": "APAC Market Expansion",
+      "project_id": "PRJ-0107",
+      "status": "Active - On Track",
+      "recommendation": "Publish the business case validation report to the board.",
+      "decision": "FAST-TRACKED - All go-live readiness criteria satisfied. Rollback plan signed off by the CTO. Project fast-tracked to launch. Budget of $120,000 confirmed.",
+      "budget_allocation": "GBP 40,000",
+      "action_items": [
+        "Rohan Sharma: Coordinate risk register with latest assessment to the programme office - Due: 18 March 2026",
+        "James Thornton: Publish legal review of the contract amendment - Due: 18 March 2026"
+      ]
+    },
+    {
+      "project_name": "Customer Data Platform",
+      "project_id": "PRJ-0132",
+      "status": "Active - On Track",
+      "recommendation": "Formally close the project; all deliverables accepted by business stakeholders.",
+      "decision": "APPROVED - User Acceptance Testing completed with all critical defects resolved. Project approved to proceed to Go-Live Preparation. Final budget of $95,000 confirmed.",
+      "budget_allocation": "$380,000",
+      "action_items": [
+        "Marcus Webb: Prepare risk register with latest assessment to the programme office - Due: 18 March 2026",
+        "Ananya Singh: Submit stakeholder communication pack - Due: 18 March 2026"
+      ]
+    },
+    {
+      "project_name": "Partner Portal Launch",
+      "project_id": "PRJ-0138",
+      "status": "Active - On Track",
+      "recommendation": "Publish the business case validation report to the board.",
+      "decision": "FAST-TRACKED - All go-live readiness criteria satisfied. Rollback plan signed off by the CTO. Project fast-tracked to launch. Budget of $500,000 confirmed.",
+      "budget_allocation": "$380,000",
+      "action_items": [
+        "Ananya Singh: Review go/no-go recommendation to the steering committee - Due: 18 March 2026",
+        "Sneha Gupta: Deliver technical architecture diagram for sign-off - Due: 18 March 2026"
+      ]
+    }
+  ]
+}

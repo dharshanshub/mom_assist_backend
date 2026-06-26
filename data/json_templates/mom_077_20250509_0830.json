@@ -1,0 +1,60 @@
+{
+  "meeting_number": 77,
+  "meeting_type": "Planning Session",
+  "date": "09 May 2025",
+  "time": "08:30",
+  "organizer": "Diana Petrov",
+  "location": "Executive Suite",
+  "projects": [
+    {
+      "project_name": "APAC Market Expansion",
+      "project_id": "PRJ-0107",
+      "status": "Active - On Track",
+      "recommendation": "Submit the regulatory filings in the remaining jurisdiction without delay.",
+      "decision": "PILOT APPROVED - Phase 3 milestones met. Pilot approved for a 3-month internal beta with 50 users. Full rollout contingent on pilot KPIs being met within 12 weeks. Budget of EUR 60,000 released for pilot phase.",
+      "budget_allocation": "$95,000",
+      "action_items": [
+        "Nathan Forrest: Publish updated project plan and revised timeline to all stakeholders - Due: 06 June 2025",
+        "Carlos Mendez: Finalise change management plan - Due: 06 June 2025"
+      ]
+    },
+    {
+      "project_name": "Real-Time Fraud Detection System",
+      "project_id": "PRJ-0120",
+      "status": "Active - On Track",
+      "recommendation": "Formally close the project; all deliverables accepted by business stakeholders.",
+      "decision": "APPROVED - User Acceptance Testing completed with all critical defects resolved. Project approved to proceed to Go-Live Preparation. Final budget of EUR 60,000 confirmed.",
+      "budget_allocation": "$24,000",
+      "action_items": [
+        "Thomas Edgerton: Coordinate legal review of the contract amendment - Due: 06 June 2025",
+        "Pooja Krishnan: Prepare legal review of the contract amendment - Due: 06 June 2025",
+        "Pooja Krishnan: Publish revised budget breakdown to Finance for approval - Due: 06 June 2025"
+      ]
+    },
+    {
+      "project_name": "Customer Data Platform",
+      "project_id": "PRJ-0132",
+      "status": "Active - On Track",
+      "recommendation": "Accelerate the remaining 25 source system pipelines; current velocity is sufficient to meet the deadline.",
+      "decision": "APPROVED - Phase 2 deliverables reviewed and approved to continue. Progress is on track and within budget. Revised budget of $180,000 approved following scope clarification.",
+      "budget_allocation": "$380,000",
+      "action_items": [
+        "Dinesh Kumar: Review technical architecture diagram for sign-off - Due: 06 June 2025",
+        "Oliver Grant: Prepare post-implementation review agenda - Due: 06 June 2025",
+        "Carlos Mendez: Review revised budget breakdown to Finance for approval - Due: 06 June 2025"
+      ]
+    },
+    {
+      "project_name": "Workforce Analytics Dashboard",
+      "project_id": "PRJ-0140",
+      "status": "Active - On Track",
+      "recommendation": "Accelerate manager training delivery to ensure readiness for go-live.",
+      "decision": "PILOT APPROVED - Phase 3 milestones met. Pilot approved for a single-tenant deployment for one key client. Full rollout contingent on pilot KPIs being met within 12 weeks. Budget of $24,000 released for pilot phase.",
+      "budget_allocation": "$180,000",
+      "action_items": [
+        "Sara Lopez: Finalise revised budget breakdown to Finance for approval - Due: 06 June 2025",
+        "Oliver Grant: Finalise KPI dashboard with updated metrics - Due: 06 June 2025"
+      ]
+    }
+  ]
+}

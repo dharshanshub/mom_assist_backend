@@ -1,0 +1,60 @@
+{
+  "meeting_number": 57,
+  "meeting_type": "Client Steering Committee",
+  "date": "23 July 2024",
+  "time": "14:00",
+  "organizer": "Ethan Brooks",
+  "location": "Zoom (Remote)",
+  "projects": [
+    {
+      "project_name": "Cloud Infrastructure Migration",
+      "project_id": "PRJ-0101",
+      "status": "Active - At Risk",
+      "recommendation": "Allocate two additional senior engineers to the critical path to recover the 2-week delay.",
+      "decision": "APPROVED - Following resolution of the Phase 1 blockers, project reinstated and approved to advance to Phase 2. All pre-conditions have been met. Budget of $250,000 confirmed.",
+      "budget_allocation": "GBP 75,000",
+      "action_items": [
+        "Nisha Iyer: Prepare technical architecture diagram for sign-off - Due: 03 September 2024",
+        "Diana Petrov: Submit dependency mapping with the platform team - Due: 03 September 2024"
+      ]
+    },
+    {
+      "project_name": "Real-Time Fraud Detection System",
+      "project_id": "PRJ-0120",
+      "status": "Active - On Track",
+      "recommendation": "Proceed to UAT; data accuracy metrics are consistently above the 90% threshold.",
+      "decision": "APPROVED - Phase 2 deliverables reviewed and approved to continue. Progress is on track and within budget. Revised budget of $500,000 approved following scope clarification.",
+      "budget_allocation": "$500,000",
+      "action_items": [
+        "Marcus Webb: Deliver resource allocation plan for the next sprint - Due: 03 September 2024",
+        "Meera Patel: Submit training schedule for all impacted teams - Due: 03 September 2024",
+        "Sara Lopez: Complete risk register with latest assessment to the programme office - Due: 03 September 2024"
+      ]
+    },
+    {
+      "project_name": "Global Payroll Consolidation",
+      "project_id": "PRJ-0130",
+      "status": "Active - Slightly Delayed",
+      "recommendation": "Commission a detailed change impact assessment before communicating to staff.",
+      "decision": "ON HOLD - Phase 1 temporarily placed on hold due to resource conflicts with the ERP programme. A resume decision will be revisited in 8 weeks once capacity is confirmed.",
+      "budget_allocation": "$500,000",
+      "action_items": [
+        "Vivek Nambiar: Coordinate legal review of the contract amendment - Due: 03 September 2024",
+        "Rohan Sharma: Present dependency mapping with the platform team - Due: 03 September 2024",
+        "Sara Lopez: Deliver technical architecture diagram for sign-off - Due: 03 September 2024"
+      ]
+    },
+    {
+      "project_name": "HR Digital Transformation",
+      "project_id": "PRJ-0109",
+      "status": "Active - On Track",
+      "recommendation": "Accelerate manager training delivery to ensure readiness for go-live.",
+      "decision": "APPROVED - Phase 2 deliverables reviewed and approved to continue. Progress is on track and within budget. Revised budget of $500,000 approved following scope clarification.",
+      "budget_allocation": "$500,000",
+      "action_items": [
+        "Meera Patel: Coordinate revised budget breakdown to Finance for approval - Due: 03 September 2024",
+        "Nathan Forrest: Review updated project plan and revised timeline to all stakeholders - Due: 03 September 2024"
+      ]
+    }
+  ]
+}

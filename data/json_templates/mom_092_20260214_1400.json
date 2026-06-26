@@ -1,0 +1,62 @@
+{
+  "meeting_number": 92,
+  "meeting_type": "Portfolio Review",
+  "date": "14 February 2026",
+  "time": "14:00",
+  "organizer": "Riya Joshi",
+  "location": "Microsoft Teams (Hybrid)",
+  "projects": [
+    {
+      "project_name": "Brand Refresh 2024",
+      "project_id": "PRJ-0115",
+      "status": "Active - On Track",
+      "recommendation": "Formally close the campaign project; results validated and within budget.",
+      "decision": "FAST-TRACKED - All go-live readiness criteria satisfied. Rollback plan signed off by the CTO. Project fast-tracked to launch. Budget of $95,000 confirmed.",
+      "budget_allocation": "$180,000",
+      "action_items": [
+        "Marcus Webb: Present risk register with latest assessment to the programme office - Due: 14 March 2026",
+        "Ananya Singh: Submit revised budget breakdown to Finance for approval - Due: 14 March 2026",
+        "Ananya Singh: Review KPI dashboard with updated metrics - Due: 14 March 2026"
+      ]
+    },
+    {
+      "project_name": "Digital Marketing Automation",
+      "project_id": "PRJ-0129",
+      "status": "Completed",
+      "recommendation": "Formally close the campaign project; results validated and within budget.",
+      "decision": "APPROVED - Project formally closed following a successful hypercare period. All KPIs met. Post-implementation review scheduled for next quarter. Project transitioned to BAU.",
+      "budget_allocation": "EUR 60,000",
+      "action_items": [
+        "Dinesh Kumar: Circulate post-implementation review agenda - Due: 14 March 2026",
+        "Carlos Mendez: Coordinate KPI dashboard with updated metrics - Due: 14 March 2026",
+        "Carlos Mendez: Circulate dependency mapping with the platform team - Due: 14 March 2026"
+      ]
+    },
+    {
+      "project_name": "ESG Reporting Framework",
+      "project_id": "PRJ-0124",
+      "status": "Completed",
+      "recommendation": "Accept the external audit outcome and formally close all remediation actions.",
+      "decision": "APPROVED - Project formally closed following a successful hypercare period. All KPIs met. Post-implementation review scheduled for next quarter. Project transitioned to BAU.",
+      "budget_allocation": "$250,000",
+      "action_items": [
+        "Kavya Reddy: Present risk register with latest assessment to the programme office - Due: 14 March 2026",
+        "Dinesh Kumar: Circulate training schedule for all impacted teams - Due: 14 March 2026",
+        "Dinesh Kumar: Present technical architecture diagram for sign-off - Due: 14 March 2026"
+      ]
+    },
+    {
+      "project_name": "Workforce Analytics Dashboard",
+      "project_id": "PRJ-0140",
+      "status": "Active - On Track",
+      "recommendation": "Formally close the project; all deliverables accepted and KPIs met.",
+      "decision": "FAST-TRACKED - All go-live readiness criteria satisfied. Rollback plan signed off by the CTO. Project fast-tracked to launch. Budget of $95,000 confirmed.",
+      "budget_allocation": "GBP 75,000",
+      "action_items": [
+        "Sneha Gupta: Review dependency mapping with the platform team - Due: 14 March 2026",
+        "Ananya Singh: Circulate KPI dashboard with updated metrics - Due: 14 March 2026",
+        "Oliver Grant: Publish change management plan - Due: 14 March 2026"
+      ]
+    }
+  ]
+}

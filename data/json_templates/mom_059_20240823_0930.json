@@ -1,0 +1,60 @@
+{
+  "meeting_number": 59,
+  "meeting_type": "Planning Session",
+  "date": "23 August 2024",
+  "time": "09:30",
+  "organizer": "Sameer Rao",
+  "location": "Conference Room 3",
+  "projects": [
+    {
+      "project_name": "APAC Market Expansion",
+      "project_id": "PRJ-0107",
+      "status": "Active - At Risk",
+      "recommendation": "Submit the regulatory filings in the remaining jurisdiction without delay.",
+      "decision": "APPROVED - Following resolution of the Phase 1 blockers, project reinstated and approved to advance to Phase 2. All pre-conditions have been met. Budget of $48,000 confirmed.",
+      "budget_allocation": "$180,000",
+      "action_items": [
+        "Sneha Gupta: Prepare technical architecture diagram for sign-off - Due: 20 September 2024",
+        "Marcus Webb: Prepare go/no-go recommendation to the steering committee - Due: 20 September 2024",
+        "Marcus Webb: Complete KPI dashboard with updated metrics - Due: 20 September 2024"
+      ]
+    },
+    {
+      "project_name": "Brand Refresh 2024",
+      "project_id": "PRJ-0115",
+      "status": "Active - On Track",
+      "recommendation": "Proceed with the selected media agency; terms are competitive and scope is well-defined.",
+      "decision": "APPROVED WITH CONDITIONS - Project approved to proceed to Phase 1, subject to: security audit sign-off by the CISO and legal review of data residency requirements. Budget of $120,000 confirmed.",
+      "budget_allocation": "$48,000",
+      "action_items": [
+        "Ananya Singh: Coordinate revised budget breakdown to Finance for approval - Due: 20 September 2024",
+        "Carlos Mendez: Complete revised budget breakdown to Finance for approval - Due: 20 September 2024",
+        "James Thornton: Complete vendor shortlist and commercial terms for review - Due: 20 September 2024"
+      ]
+    },
+    {
+      "project_name": "Workforce Analytics Dashboard",
+      "project_id": "PRJ-0140",
+      "status": "Active - On Track",
+      "recommendation": "Commission a detailed change impact assessment before communicating to staff.",
+      "decision": "APPROVED WITH CONDITIONS - Project approved to proceed to Phase 1, subject to: security audit sign-off by the CISO and legal review of data residency requirements. Budget of $24,000 confirmed.",
+      "budget_allocation": "GBP 40,000",
+      "action_items": [
+        "Priya Nair: Submit change management plan - Due: 20 September 2024",
+        "Ananya Singh: Circulate revised budget breakdown to Finance for approval - Due: 20 September 2024"
+      ]
+    },
+    {
+      "project_name": "Regulatory Reporting Automation",
+      "project_id": "PRJ-0137",
+      "status": "Active - At Risk",
+      "recommendation": "Request a supplementary budget of GBP 35,000 to cover the scope extension.",
+      "decision": "APPROVED - Following resolution of the Phase 1 blockers, project reinstated and approved to advance to Phase 2. All pre-conditions have been met. Budget of $95,000 confirmed.",
+      "budget_allocation": "EUR 60,000",
+      "action_items": [
+        "Diana Petrov: Circulate revised budget breakdown to Finance for approval - Due: 20 September 2024",
+        "Carlos Mendez: Publish legal review of the contract amendment - Due: 20 September 2024"
+      ]
+    }
+  ]
+}

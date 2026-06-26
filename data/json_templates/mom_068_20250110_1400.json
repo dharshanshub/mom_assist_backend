@@ -1,0 +1,59 @@
+{
+  "meeting_number": 68,
+  "meeting_type": "Portfolio Review",
+  "date": "10 January 2025",
+  "time": "14:00",
+  "organizer": "Ananya Singh",
+  "location": "Innovation Hub, Floor 4",
+  "projects": [
+    {
+      "project_name": "Customer Portal Redesign",
+      "project_id": "PRJ-0102",
+      "status": "Active - On Track",
+      "recommendation": "Proceed to closed beta; product quality meets the threshold for controlled testing.",
+      "decision": "PILOT APPROVED - Phase 3 milestones met. Pilot approved for two pilot regions (North and East). Full rollout contingent on pilot KPIs being met within 12 weeks. Budget of EUR 110,000 released for pilot phase.",
+      "budget_allocation": "$380,000",
+      "action_items": [
+        "Ethan Brooks: Present post-implementation review agenda - Due: 07 February 2025",
+        "Aisha Mahmood: Finalise legal review of the contract amendment - Due: 07 February 2025"
+      ]
+    },
+    {
+      "project_name": "HR Digital Transformation",
+      "project_id": "PRJ-0109",
+      "status": "Active - On Track",
+      "recommendation": "Approve the data migration plan; accuracy levels meet the go/no-go threshold.",
+      "decision": "APPROVED - Phase 2 deliverables reviewed and approved to continue. Progress is on track and within budget. Revised budget of GBP 75,000 approved following scope clarification.",
+      "budget_allocation": "GBP 75,000",
+      "action_items": [
+        "Pooja Krishnan: Complete updated project plan and revised timeline to all stakeholders - Due: 07 February 2025",
+        "Fatima Al-Hassan: Deliver change management plan - Due: 07 February 2025"
+      ]
+    },
+    {
+      "project_name": "Customer Loyalty Programme",
+      "project_id": "PRJ-0110",
+      "status": "Active - At Risk",
+      "recommendation": "Expand the soft launch to 25% of the audience; early indicators are positive.",
+      "decision": "APPROVED - Following resolution of the Phase 1 blockers, project reinstated and approved to advance to Phase 2. All pre-conditions have been met. Budget of $48,000 confirmed.",
+      "budget_allocation": "$48,000",
+      "action_items": [
+        "Aisha Mahmood: Prepare stakeholder communication pack - Due: 07 February 2025",
+        "Fatima Al-Hassan: Finalise revised budget breakdown to Finance for approval - Due: 07 February 2025",
+        "Aisha Mahmood: Finalise vendor shortlist and commercial terms for review - Due: 07 February 2025"
+      ]
+    },
+    {
+      "project_name": "Kubernetes Platform Rollout",
+      "project_id": "PRJ-0126",
+      "status": "Active - On Track",
+      "recommendation": "Proceed to Phase 3 — all Phase 2 exit criteria have been met.",
+      "decision": "APPROVED - Phase 2 deliverables reviewed and approved to continue. Progress is on track and within budget. Revised budget of $380,000 approved following scope clarification.",
+      "budget_allocation": "EUR 60,000",
+      "action_items": [
+        "Nathan Forrest: Publish change management plan - Due: 07 February 2025",
+        "Priya Nair: Present stakeholder communication pack - Due: 07 February 2025"
+      ]
+    }
+  ]
+}

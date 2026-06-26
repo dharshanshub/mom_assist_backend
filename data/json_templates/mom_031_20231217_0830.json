@@ -1,0 +1,62 @@
+{
+  "meeting_number": 31,
+  "meeting_type": "Portfolio Review",
+  "date": "17 December 2023",
+  "time": "08:30",
+  "organizer": "Vivek Nambiar",
+  "location": "Board Room B",
+  "projects": [
+    {
+      "project_name": "Customer Journey Mapping",
+      "project_id": "PRJ-0144",
+      "status": "Active - On Track",
+      "recommendation": "Approve the media plan and release the campaign budget for activation.",
+      "decision": "PILOT APPROVED - Phase 3 milestones met. Pilot approved for two pilot regions (North and East). Full rollout contingent on pilot KPIs being met within 12 weeks. Budget of GBP 150,000 released for pilot phase.",
+      "budget_allocation": "$500,000",
+      "action_items": [
+        "Nathan Forrest: Circulate vendor shortlist and commercial terms for review - Due: 14 January 2024",
+        "Riya Joshi: Deliver legal review of the contract amendment - Due: 14 January 2024",
+        "Carlos Mendez: Review stakeholder communication pack - Due: 14 January 2024"
+      ]
+    },
+    {
+      "project_name": "Revenue Optimisation Initiative",
+      "project_id": "PRJ-0113",
+      "status": "Pending Approval",
+      "recommendation": "Engage the finance system vendor to confirm integration feasibility before committing.",
+      "decision": "DEFERRED - Decision deferred pending completion of the feasibility study and initial risk assessment. Team to strengthen the business case and re-present at the next steering committee.",
+      "budget_allocation": "$380,000",
+      "action_items": [
+        "Sneha Gupta: Review change management plan - Due: 14 January 2024",
+        "Oliver Grant: Circulate technical architecture diagram for sign-off - Due: 14 January 2024",
+        "Sneha Gupta: Publish go/no-go recommendation to the steering committee - Due: 14 January 2024"
+      ]
+    },
+    {
+      "project_name": "Internal Developer Platform",
+      "project_id": "PRJ-0134",
+      "status": "Pending Approval",
+      "recommendation": "Complete the proof of concept before committing to a full build; de-risk the approach.",
+      "decision": "DEFERRED - Decision deferred pending completion of the feasibility study and initial risk assessment. Team to strengthen the business case and re-present at the next steering committee.",
+      "budget_allocation": "$95,000",
+      "action_items": [
+        "Vivek Nambiar: Prepare revised budget breakdown to Finance for approval - Due: 14 January 2024",
+        "Riya Joshi: Present legal review of the contract amendment - Due: 14 January 2024",
+        "Riya Joshi: Complete revised budget breakdown to Finance for approval - Due: 14 January 2024"
+      ]
+    },
+    {
+      "project_name": "Disaster Recovery and BCP Upgrade",
+      "project_id": "PRJ-0114",
+      "status": "Active - At Risk",
+      "recommendation": "Approve the switchover date and communicate to all affected business units.",
+      "decision": "APPROVED - Following resolution of the Phase 1 blockers, project reinstated and approved to advance to Phase 2. All pre-conditions have been met. Budget of $250,000 confirmed.",
+      "budget_allocation": "$24,000",
+      "action_items": [
+        "Lakshmi Venkat: Prepare stakeholder communication pack - Due: 14 January 2024",
+        "Riya Joshi: Coordinate revised budget breakdown to Finance for approval - Due: 14 January 2024",
+        "Priya Nair: Submit vendor shortlist and commercial terms for review - Due: 14 January 2024"
+      ]
+    }
+  ]
+}

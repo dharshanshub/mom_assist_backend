@@ -1,0 +1,87 @@
+{
+  "meeting_number": 15,
+  "meeting_type": "Cross-Functional Sync",
+  "date": "14 May 2025",
+  "time": "14:00",
+  "organizer": "Meera Patel",
+  "location": "Microsoft Teams (Hybrid)",
+  "projects": [
+    {
+      "project_name": "Kubernetes Platform Rollout",
+      "project_id": "PRJ-0126",
+      "status": "Active - On Track",
+      "recommendation": "Close the project formally and capture lessons learned before the team disperses.",
+      "decision": "APPROVED - User Acceptance Testing completed with all critical defects resolved. Project approved to proceed to Go-Live Preparation. Final budget of $180,000 confirmed.",
+      "budget_allocation": "$24,000",
+      "action_items": [
+        "Carlos Mendez: Coordinate resource allocation plan for the next sprint - Due: 11 June 2025",
+        "Priya Nair: Submit go/no-go recommendation to the steering committee - Due: 11 June 2025",
+        "Fatima Al-Hassan: Finalise legal review of the contract amendment - Due: 11 June 2025"
+      ]
+    },
+    {
+      "project_name": "Mobile App v3.0 Launch",
+      "project_id": "PRJ-0105",
+      "status": "Active - On Track",
+      "recommendation": "Defer the three lower-priority features to maintain the launch date.",
+      "decision": "APPROVED - Phase 2 deliverables reviewed and approved to continue. Progress is on track and within budget. Revised budget of $48,000 approved following scope clarification.",
+      "budget_allocation": "$380,000",
+      "action_items": [
+        "Fatima Al-Hassan: Submit technical architecture diagram for sign-off - Due: 11 June 2025",
+        "Diana Petrov: Circulate legal review of the contract amendment - Due: 11 June 2025"
+      ]
+    },
+    {
+      "project_name": "Customer Loyalty Programme",
+      "project_id": "PRJ-0110",
+      "status": "Active - On Track",
+      "recommendation": "Formally close the campaign project; results validated and within budget.",
+      "decision": "APPROVED - User Acceptance Testing completed with all critical defects resolved. Project approved to proceed to Go-Live Preparation. Final budget of GBP 40,000 confirmed.",
+      "budget_allocation": "$24,000",
+      "action_items": [
+        "Nisha Iyer: Circulate legal review of the contract amendment - Due: 11 June 2025",
+        "Sameer Rao: Complete vendor shortlist and commercial terms for review - Due: 11 June 2025",
+        "Sameer Rao: Publish updated project plan and revised timeline to all stakeholders - Due: 11 June 2025"
+      ]
+    },
+    {
+      "project_name": "Self-Service BI Dashboard",
+      "project_id": "PRJ-0122",
+      "status": "Active - On Track",
+      "recommendation": "Formally close the project; all deliverables accepted by business stakeholders.",
+      "decision": "APPROVED - User Acceptance Testing completed with all critical defects resolved. Project approved to proceed to Go-Live Preparation. Final budget of $24,000 confirmed.",
+      "budget_allocation": "GBP 40,000",
+      "action_items": [
+        "Riya Joshi: Coordinate resource allocation plan for the next sprint - Due: 11 June 2025",
+        "Marcus Webb: Review technical architecture diagram for sign-off - Due: 11 June 2025",
+        "Pooja Krishnan: Coordinate resource allocation plan for the next sprint - Due: 11 June 2025"
+      ]
+    },
+    {
+      "project_name": "API Gateway and Microservices Rollout",
+      "project_id": "PRJ-0112",
+      "status": "Active - On Track",
+      "recommendation": "Allocate two additional senior engineers to the critical path to recover the 2-week delay.",
+      "decision": "PILOT APPROVED - Phase 3 milestones met. Pilot approved for a single-tenant deployment for one key client. Full rollout contingent on pilot KPIs being met within 12 weeks. Budget of GBP 40,000 released for pilot phase.",
+      "budget_allocation": "$500,000",
+      "action_items": [
+        "Fatima Al-Hassan: Present dependency mapping with the platform team - Due: 11 June 2025",
+        "Pooja Krishnan: Submit technical architecture diagram for sign-off - Due: 11 June 2025",
+        "Dinesh Kumar: Submit technical architecture diagram for sign-off - Due: 11 June 2025"
+      ]
+    },
+    {
+      "project_name": "Disaster Recovery and BCP Upgrade",
+      "project_id": "PRJ-0114",
+      "status": "Active - On Track",
+      "recommendation": "Complete the security validation before moving workloads to the new infrastructure.",
+      "decision": "APPROVED - Phase 2 deliverables reviewed and approved to continue. Progress is on track and within budget. Revised budget of $95,000 approved following scope clarification.",
+      "budget_allocation": "EUR 110,000",
+      "action_items": [
+        "Rohan Sharma: Submit stakeholder communication pack - Due: 11 June 2025",
+        "Pooja Krishnan: Review revised budget breakdown to Finance for approval - Due: 11 June 2025",
+        "Fatima Al-Hassan: Review legal review of the contract amendment - Due: 11 June 2025"
+      ]
+    }
+  ]
+}

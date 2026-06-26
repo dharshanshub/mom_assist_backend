@@ -1,0 +1,61 @@
+{
+  "meeting_number": 18,
+  "meeting_type": "Client Steering Committee",
+  "date": "18 July 2023",
+  "time": "14:30",
+  "organizer": "Ethan Brooks",
+  "location": "Conference Room 3",
+  "projects": [
+    {
+      "project_name": "API Gateway and Microservices Rollout",
+      "project_id": "PRJ-0112",
+      "status": "Active - Slightly Delayed",
+      "recommendation": "Approve the proposed architecture and proceed to Phase 1 with a fully staffed delivery team.",
+      "decision": "ON HOLD - Phase 1 temporarily placed on hold due to resource conflicts with the ERP programme. A resume decision will be revisited in 8 weeks once capacity is confirmed.",
+      "budget_allocation": "GBP 75,000",
+      "action_items": [
+        "Meera Patel: Present resource allocation plan for the next sprint - Due: 15 August 2023",
+        "Sneha Gupta: Review revised budget breakdown to Finance for approval - Due: 15 August 2023",
+        "Sneha Gupta: Circulate technical architecture diagram for sign-off - Due: 15 August 2023"
+      ]
+    },
+    {
+      "project_name": "Customer Portal Redesign",
+      "project_id": "PRJ-0102",
+      "status": "Active - On Track",
+      "recommendation": "Validate the core value proposition with a smoke-test landing page before full build.",
+      "decision": "APPROVED WITH CONDITIONS - Project approved to proceed to Phase 1, subject to: security audit sign-off by the CISO and legal review of data residency requirements. Budget of $500,000 confirmed.",
+      "budget_allocation": "$120,000",
+      "action_items": [
+        "Ethan Brooks: Present resource allocation plan for the next sprint - Due: 15 August 2023",
+        "Fatima Al-Hassan: Deliver dependency mapping with the platform team - Due: 15 August 2023",
+        "Nisha Iyer: Finalise go/no-go recommendation to the steering committee - Due: 15 August 2023"
+      ]
+    },
+    {
+      "project_name": "Product-Led Growth Initiative",
+      "project_id": "PRJ-0136",
+      "status": "Active - On Track",
+      "recommendation": "Proceed to design and prototyping; user research findings are clear and actionable.",
+      "decision": "APPROVED WITH CONDITIONS - Project approved to proceed to Phase 1, subject to: security audit sign-off by the CISO and legal review of data residency requirements. Budget of $48,000 confirmed.",
+      "budget_allocation": "$95,000",
+      "action_items": [
+        "Fatima Al-Hassan: Present go/no-go recommendation to the steering committee - Due: 15 August 2023",
+        "Diana Petrov: Deliver risk register with latest assessment to the programme office - Due: 15 August 2023"
+      ]
+    },
+    {
+      "project_name": "Zero-Trust Network Security Overhaul",
+      "project_id": "PRJ-0108",
+      "status": "Active - On Track",
+      "recommendation": "Complete the proof of concept before committing to a full build; de-risk the approach.",
+      "decision": "APPROVED WITH CONDITIONS - Project approved to proceed to Phase 1, subject to: security audit sign-off by the CISO and legal review of data residency requirements. Budget of GBP 150,000 confirmed.",
+      "budget_allocation": "$24,000",
+      "action_items": [
+        "Nisha Iyer: Finalise risk register with latest assessment to the programme office - Due: 15 August 2023",
+        "Nathan Forrest: Complete resource allocation plan for the next sprint - Due: 15 August 2023",
+        "Nathan Forrest: Complete stakeholder communication pack - Due: 15 August 2023"
+      ]
+    }
+  ]
+}

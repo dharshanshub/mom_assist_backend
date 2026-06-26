@@ -1,0 +1,87 @@
+{
+  "meeting_number": 99,
+  "meeting_type": "Portfolio Review",
+  "date": "21 May 2026",
+  "time": "15:00",
+  "organizer": "Arjun Mehta",
+  "location": "Board Room A",
+  "projects": [
+    {
+      "project_name": "Self-Service BI Dashboard",
+      "project_id": "PRJ-0122",
+      "status": "Completed",
+      "recommendation": "Transition the platform to the data engineering BAU team with a structured handover.",
+      "decision": "APPROVED - Project formally closed following a successful hypercare period. All KPIs met. Post-implementation review scheduled for next quarter. Project transitioned to BAU.",
+      "budget_allocation": "GBP 75,000",
+      "action_items": [
+        "Sara Lopez: Publish KPI dashboard with updated metrics - Due: 04 June 2026",
+        "Nathan Forrest: Circulate resource allocation plan for the next sprint - Due: 04 June 2026",
+        "Oliver Grant: Coordinate legal review of the contract amendment - Due: 04 June 2026"
+      ]
+    },
+    {
+      "project_name": "Automated Testing Framework",
+      "project_id": "PRJ-0117",
+      "status": "Completed",
+      "recommendation": "Approve go-live; all readiness checks passed and rollback plan is in place.",
+      "decision": "APPROVED - Project formally closed following a successful hypercare period. All KPIs met. Post-implementation review scheduled for next quarter. Project transitioned to BAU.",
+      "budget_allocation": "GBP 75,000",
+      "action_items": [
+        "Oliver Grant: Present updated project plan and revised timeline to all stakeholders - Due: 04 June 2026",
+        "Oliver Grant: Deliver training schedule for all impacted teams - Due: 04 June 2026",
+        "Oliver Grant: Present legal review of the contract amendment - Due: 04 June 2026"
+      ]
+    },
+    {
+      "project_name": "Product-Led Growth Initiative",
+      "project_id": "PRJ-0136",
+      "status": "Completed",
+      "recommendation": "Approve full public launch; beta results consistently exceed success benchmarks.",
+      "decision": "APPROVED - Project formally closed following a successful hypercare period. All KPIs met. Post-implementation review scheduled for next quarter. Project transitioned to BAU.",
+      "budget_allocation": "$500,000",
+      "action_items": [
+        "Marcus Webb: Finalise KPI dashboard with updated metrics - Due: 04 June 2026",
+        "Pooja Krishnan: Circulate stakeholder communication pack - Due: 04 June 2026",
+        "Ananya Singh: Review risk register with latest assessment to the programme office - Due: 04 June 2026"
+      ]
+    },
+    {
+      "project_name": "SOC 2 Type II Compliance",
+      "project_id": "PRJ-0111",
+      "status": "Completed",
+      "recommendation": "Formally close the project; certification received and all obligations met.",
+      "decision": "APPROVED - Project formally closed following a successful hypercare period. All KPIs met. Post-implementation review scheduled for next quarter. Project transitioned to BAU.",
+      "budget_allocation": "EUR 110,000",
+      "action_items": [
+        "Oliver Grant: Coordinate updated project plan and revised timeline to all stakeholders - Due: 04 June 2026",
+        "Riya Joshi: Review stakeholder communication pack - Due: 04 June 2026",
+        "Riya Joshi: Complete stakeholder communication pack - Due: 04 June 2026"
+      ]
+    },
+    {
+      "project_name": "Cloud Infrastructure Migration",
+      "project_id": "PRJ-0101",
+      "status": "Completed",
+      "recommendation": "Approve go-live; all readiness checks passed and rollback plan is in place.",
+      "decision": "APPROVED - Project formally closed following a successful hypercare period. All KPIs met. Post-implementation review scheduled for next quarter. Project transitioned to BAU.",
+      "budget_allocation": "$120,000",
+      "action_items": [
+        "James Thornton: Deliver technical architecture diagram for sign-off - Due: 04 June 2026",
+        "Meera Patel: Publish stakeholder communication pack - Due: 04 June 2026",
+        "Pooja Krishnan: Finalise post-implementation review agenda - Due: 04 June 2026"
+      ]
+    },
+    {
+      "project_name": "Customer Loyalty Programme",
+      "project_id": "PRJ-0110",
+      "status": "Completed",
+      "recommendation": "Formally close the campaign project; results validated and within budget.",
+      "decision": "APPROVED - Project formally closed following a successful hypercare period. All KPIs met. Post-implementation review scheduled for next quarter. Project transitioned to BAU.",
+      "budget_allocation": "EUR 110,000",
+      "action_items": [
+        "Arjun Mehta: Finalise updated project plan and revised timeline to all stakeholders - Due: 04 June 2026",
+        "Pooja Krishnan: Finalise revised budget breakdown to Finance for approval - Due: 04 June 2026"
+      ]
+    }
+  ]
+}

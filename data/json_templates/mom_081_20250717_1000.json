@@ -1,0 +1,61 @@
+{
+  "meeting_number": 81,
+  "meeting_type": "Cross-Functional Sync",
+  "date": "17 July 2025",
+  "time": "10:00",
+  "organizer": "Arjun Mehta",
+  "location": "Zoom (Remote)",
+  "projects": [
+    {
+      "project_name": "Carbon Footprint Tracking System",
+      "project_id": "PRJ-0135",
+      "status": "Active - On Track",
+      "recommendation": "Approve the updated policy framework for board ratification.",
+      "decision": "PILOT APPROVED - Phase 3 milestones met. Pilot approved for two pilot regions (North and East). Full rollout contingent on pilot KPIs being met within 12 weeks. Budget of GBP 40,000 released for pilot phase.",
+      "budget_allocation": "$48,000",
+      "action_items": [
+        "Diana Petrov: Coordinate KPI dashboard with updated metrics - Due: 11 September 2025",
+        "Sara Lopez: Prepare dependency mapping with the platform team - Due: 11 September 2025",
+        "Aisha Mahmood: Coordinate technical architecture diagram for sign-off - Due: 11 September 2025"
+      ]
+    },
+    {
+      "project_name": "Automated Testing Framework",
+      "project_id": "PRJ-0117",
+      "status": "Active - On Track",
+      "recommendation": "Close the project formally and capture lessons learned before the team disperses.",
+      "decision": "FAST-TRACKED - All go-live readiness criteria satisfied. Rollback plan signed off by the CTO. Project fast-tracked to launch. Budget of $250,000 confirmed.",
+      "budget_allocation": "$250,000",
+      "action_items": [
+        "Marcus Webb: Submit technical architecture diagram for sign-off - Due: 11 September 2025",
+        "Pooja Krishnan: Coordinate KPI dashboard with updated metrics - Due: 11 September 2025",
+        "Pooja Krishnan: Publish go/no-go recommendation to the steering committee - Due: 11 September 2025"
+      ]
+    },
+    {
+      "project_name": "Zero-Trust Network Security Overhaul",
+      "project_id": "PRJ-0108",
+      "status": "Active - On Track",
+      "recommendation": "Approve go-live; all readiness checks passed and rollback plan is in place.",
+      "decision": "FAST-TRACKED - All go-live readiness criteria satisfied. Rollback plan signed off by the CTO. Project fast-tracked to launch. Budget of $380,000 confirmed.",
+      "budget_allocation": "$180,000",
+      "action_items": [
+        "Arjun Mehta: Coordinate dependency mapping with the platform team - Due: 11 September 2025",
+        "Carlos Mendez: Finalise technical architecture diagram for sign-off - Due: 11 September 2025",
+        "Aisha Mahmood: Complete stakeholder communication pack - Due: 11 September 2025"
+      ]
+    },
+    {
+      "project_name": "Internal Developer Platform",
+      "project_id": "PRJ-0134",
+      "status": "Completed",
+      "recommendation": "Close the project formally and capture lessons learned before the team disperses.",
+      "decision": "APPROVED - Project formally closed following a successful hypercare period. All KPIs met. Post-implementation review scheduled for next quarter. Project transitioned to BAU.",
+      "budget_allocation": "$120,000",
+      "action_items": [
+        "Aisha Mahmood: Submit vendor shortlist and commercial terms for review - Due: 11 September 2025",
+        "Thomas Edgerton: Review resource allocation plan for the next sprint - Due: 11 September 2025"
+      ]
+    }
+  ]
+}

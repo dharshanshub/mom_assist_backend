@@ -1,0 +1,59 @@
+{
+  "meeting_number": 87,
+  "meeting_type": "Planning Session",
+  "date": "29 December 2025",
+  "time": "14:30",
+  "organizer": "Priya Nair",
+  "location": "Board Room A",
+  "projects": [
+    {
+      "project_name": "Zero-Trust Network Security Overhaul",
+      "project_id": "PRJ-0108",
+      "status": "Active - On Track",
+      "recommendation": "Close the project formally and capture lessons learned before the team disperses.",
+      "decision": "FAST-TRACKED - All go-live readiness criteria satisfied. Rollback plan signed off by the CTO. Project fast-tracked to launch. Budget of $500,000 confirmed.",
+      "budget_allocation": "$24,000",
+      "action_items": [
+        "Dinesh Kumar: Submit post-implementation review agenda - Due: 23 February 2026",
+        "James Thornton: Review training schedule for all impacted teams - Due: 23 February 2026"
+      ]
+    },
+    {
+      "project_name": "Automated Testing Framework",
+      "project_id": "PRJ-0117",
+      "status": "Active - On Track",
+      "recommendation": "Approve go-live; all readiness checks passed and rollback plan is in place.",
+      "decision": "FAST-TRACKED - All go-live readiness criteria satisfied. Rollback plan signed off by the CTO. Project fast-tracked to launch. Budget of GBP 75,000 confirmed.",
+      "budget_allocation": "$120,000",
+      "action_items": [
+        "Fatima Al-Hassan: Present updated project plan and revised timeline to all stakeholders - Due: 23 February 2026",
+        "Rohan Sharma: Submit updated project plan and revised timeline to all stakeholders - Due: 23 February 2026"
+      ]
+    },
+    {
+      "project_name": "Product-Led Growth Initiative",
+      "project_id": "PRJ-0136",
+      "status": "Active - On Track",
+      "recommendation": "Close the project and transition ownership to the product operations team.",
+      "decision": "FAST-TRACKED - All go-live readiness criteria satisfied. Rollback plan signed off by the CTO. Project fast-tracked to launch. Budget of GBP 150,000 confirmed.",
+      "budget_allocation": "GBP 40,000",
+      "action_items": [
+        "Priya Nair: Review legal review of the contract amendment - Due: 23 February 2026",
+        "James Thornton: Circulate resource allocation plan for the next sprint - Due: 23 February 2026",
+        "James Thornton: Coordinate vendor shortlist and commercial terms for review - Due: 23 February 2026"
+      ]
+    },
+    {
+      "project_name": "AI-Powered Analytics Platform",
+      "project_id": "PRJ-0104",
+      "status": "Active - On Track",
+      "recommendation": "Approve production go-live; all data quality and performance benchmarks have been met.",
+      "decision": "FAST-TRACKED - All go-live readiness criteria satisfied. Rollback plan signed off by the CTO. Project fast-tracked to launch. Budget of $380,000 confirmed.",
+      "budget_allocation": "$120,000",
+      "action_items": [
+        "Fatima Al-Hassan: Submit dependency mapping with the platform team - Due: 23 February 2026",
+        "Rohan Sharma: Submit dependency mapping with the platform team - Due: 23 February 2026"
+      ]
+    }
+  ]
+}

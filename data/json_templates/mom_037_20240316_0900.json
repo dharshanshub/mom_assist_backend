@@ -1,0 +1,59 @@
+{
+  "meeting_number": 37,
+  "meeting_type": "Client Steering Committee",
+  "date": "16 March 2024",
+  "time": "09:00",
+  "organizer": "Kavya Reddy",
+  "location": "Innovation Hub, Floor 4",
+  "projects": [
+    {
+      "project_name": "Customer Portal Redesign",
+      "project_id": "PRJ-0102",
+      "status": "Active - At Risk",
+      "recommendation": "Expand the beta cohort to 500 users to get statistically significant feedback.",
+      "decision": "APPROVED - Following resolution of the Phase 1 blockers, project reinstated and approved to advance to Phase 2. All pre-conditions have been met. Budget of $24,000 confirmed.",
+      "budget_allocation": "$380,000",
+      "action_items": [
+        "Priya Nair: Present risk register with latest assessment to the programme office - Due: 11 May 2024",
+        "Nisha Iyer: Publish updated project plan and revised timeline to all stakeholders - Due: 11 May 2024"
+      ]
+    },
+    {
+      "project_name": "Kubernetes Platform Rollout",
+      "project_id": "PRJ-0126",
+      "status": "Pending Approval",
+      "recommendation": "Approve the proposed architecture and proceed to Phase 1 with a fully staffed delivery team.",
+      "decision": "DEFERRED - Decision deferred pending completion of the feasibility study and initial risk assessment. Team to strengthen the business case and re-present at the next steering committee.",
+      "budget_allocation": "GBP 40,000",
+      "action_items": [
+        "Pooja Krishnan: Deliver vendor shortlist and commercial terms for review - Due: 11 May 2024",
+        "Dinesh Kumar: Prepare change management plan - Due: 11 May 2024"
+      ]
+    },
+    {
+      "project_name": "Global Payroll Consolidation",
+      "project_id": "PRJ-0130",
+      "status": "Pending Approval",
+      "recommendation": "Commission a detailed change impact assessment before communicating to staff.",
+      "decision": "DEFERRED - Decision deferred pending completion of the feasibility study and initial risk assessment. Team to strengthen the business case and re-present at the next steering committee.",
+      "budget_allocation": "GBP 40,000",
+      "action_items": [
+        "Carlos Mendez: Finalise legal review of the contract amendment - Due: 11 May 2024",
+        "Carlos Mendez: Complete training schedule for all impacted teams - Due: 11 May 2024",
+        "Carlos Mendez: Coordinate dependency mapping with the platform team - Due: 11 May 2024"
+      ]
+    },
+    {
+      "project_name": "Regulatory Reporting Automation",
+      "project_id": "PRJ-0137",
+      "status": "Pending Approval",
+      "recommendation": "Approve the business case and release the initial project budget.",
+      "decision": "DEFERRED - Decision deferred pending completion of the feasibility study and initial risk assessment. Team to strengthen the business case and re-present at the next steering committee.",
+      "budget_allocation": "GBP 40,000",
+      "action_items": [
+        "Thomas Edgerton: Circulate dependency mapping with the platform team - Due: 11 May 2024",
+        "Dinesh Kumar: Complete go/no-go recommendation to the steering committee - Due: 11 May 2024"
+      ]
+    }
+  ]
+}

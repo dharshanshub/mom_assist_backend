@@ -1,0 +1,60 @@
+{
+  "meeting_number": 55,
+  "meeting_type": "All-Hands Update",
+  "date": "23 July 2024",
+  "time": "09:30",
+  "organizer": "Pooja Krishnan",
+  "location": "Innovation Hub, Floor 4",
+  "projects": [
+    {
+      "project_name": "Customer Loyalty Programme",
+      "project_id": "PRJ-0110",
+      "status": "Active - On Track",
+      "recommendation": "Approve the brand strategy and brief the creative agency to begin concept development.",
+      "decision": "APPROVED WITH CONDITIONS - Project approved to proceed to Phase 1, subject to: security audit sign-off by the CISO and legal review of data residency requirements. Budget of $120,000 confirmed.",
+      "budget_allocation": "$48,000",
+      "action_items": [
+        "Pooja Krishnan: Complete updated project plan and revised timeline to all stakeholders - Due: 03 September 2024",
+        "Nisha Iyer: Submit training schedule for all impacted teams - Due: 03 September 2024",
+        "Nisha Iyer: Prepare dependency mapping with the platform team - Due: 03 September 2024"
+      ]
+    },
+    {
+      "project_name": "Regulatory Reporting Automation",
+      "project_id": "PRJ-0137",
+      "status": "Active - At Risk",
+      "recommendation": "Proceed within the current budget envelope; contingency reserve is sufficient.",
+      "decision": "APPROVED - Following resolution of the Phase 1 blockers, project reinstated and approved to advance to Phase 2. All pre-conditions have been met. Budget of EUR 110,000 confirmed.",
+      "budget_allocation": "EUR 60,000",
+      "action_items": [
+        "Meera Patel: Submit dependency mapping with the platform team - Due: 03 September 2024",
+        "Priya Nair: Deliver KPI dashboard with updated metrics - Due: 03 September 2024",
+        "Arjun Mehta: Publish revised budget breakdown to Finance for approval - Due: 03 September 2024"
+      ]
+    },
+    {
+      "project_name": "AI Customer Support Bot",
+      "project_id": "PRJ-0139",
+      "status": "Active - On Track",
+      "recommendation": "Defer the three lower-priority features to maintain the launch date.",
+      "decision": "APPROVED - Phase 2 deliverables reviewed and approved to continue. Progress is on track and within budget. Revised budget of GBP 75,000 approved following scope clarification.",
+      "budget_allocation": "$24,000",
+      "action_items": [
+        "Pooja Krishnan: Coordinate updated project plan and revised timeline to all stakeholders - Due: 03 September 2024",
+        "Priya Nair: Complete updated project plan and revised timeline to all stakeholders - Due: 03 September 2024"
+      ]
+    },
+    {
+      "project_name": "Global Payroll Consolidation",
+      "project_id": "PRJ-0130",
+      "status": "Active - Slightly Delayed",
+      "recommendation": "Approve the HR transformation roadmap and proceed to vendor selection.",
+      "decision": "ON HOLD - Phase 1 temporarily placed on hold due to resource conflicts with the ERP programme. A resume decision will be revisited in 8 weeks once capacity is confirmed.",
+      "budget_allocation": "$250,000",
+      "action_items": [
+        "Sara Lopez: Coordinate KPI dashboard with updated metrics - Due: 03 September 2024",
+        "Priya Nair: Present KPI dashboard with updated metrics - Due: 03 September 2024"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "meeting_number": 96,
+  "meeting_type": "Board Meeting",
+  "date": "21 April 2026",
+  "time": "10:00",
+  "organizer": "Nisha Iyer",
+  "location": "Zoom (Remote)",
+  "projects": [
+    {
+      "project_name": "Sales Territory Realignment",
+      "project_id": "PRJ-0142",
+      "status": "Active - At Risk",
+      "recommendation": "Proceed to full rollout; pilot results confirm the new process improves win rates.",
+      "decision": "APPROVED - Following resolution of the Phase 1 blockers, project reinstated and approved to advance to Phase 2. All pre-conditions have been met. Budget of GBP 75,000 confirmed.",
+      "budget_allocation": "EUR 110,000",
+      "action_items": [
+        "Sneha Gupta: Finalise technical architecture diagram for sign-off - Due: 19 May 2026",
+        "Dinesh Kumar: Submit revised budget breakdown to Finance for approval - Due: 19 May 2026"
+      ]
+    },
+    {
+      "project_name": "Mobile App v3.0 Launch",
+      "project_id": "PRJ-0105",
+      "status": "Completed",
+      "recommendation": "Close the project and transition ownership to the product operations team.",
+      "decision": "APPROVED - Project formally closed following a successful hypercare period. All KPIs met. Post-implementation review scheduled for next quarter. Project transitioned to BAU.",
+      "budget_allocation": "EUR 60,000",
+      "action_items": [
+        "Oliver Grant: Publish training schedule for all impacted teams - Due: 19 May 2026",
+        "Dinesh Kumar: Complete revised budget breakdown to Finance for approval - Due: 19 May 2026"
+      ]
+    },
+    {
+      "project_name": "API Gateway and Microservices Rollout",
+      "project_id": "PRJ-0112",
+      "status": "Completed",
+      "recommendation": "Transition to BAU support model; hypercare resourcing can be reduced by 50%.",
+      "decision": "APPROVED - Project formally closed following a successful hypercare period. All KPIs met. Post-implementation review scheduled for next quarter. Project transitioned to BAU.",
+      "budget_allocation": "$48,000",
+      "action_items": [
+        "Priya Nair: Prepare legal review of the contract amendment - Due: 19 May 2026",
+        "Priya Nair: Finalise dependency mapping with the platform team - Due: 19 May 2026",
+        "Diana Petrov: Finalise change management plan - Due: 19 May 2026"
+      ]
+    },
+    {
+      "project_name": "Next-Gen CRM Implementation",
+      "project_id": "PRJ-0125",
+      "status": "Completed",
+      "recommendation": "Transition ongoing sales enablement to the Revenue Operations team.",
+      "decision": "APPROVED - Project formally closed following a successful hypercare period. All KPIs met. Post-implementation review scheduled for next quarter. Project transitioned to BAU.",
+      "budget_allocation": "GBP 40,000",
+      "action_items": [
+        "Nathan Forrest: Coordinate updated project plan and revised timeline to all stakeholders - Due: 19 May 2026",
+        "Sara Lopez: Finalise legal review of the contract amendment - Due: 19 May 2026",
+        "Sara Lopez: Review change management plan - Due: 19 May 2026"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "meeting_number": 49,
+  "meeting_type": "Cross-Functional Sync",
+  "date": "25 June 2024",
+  "time": "14:00",
+  "organizer": "Meera Patel",
+  "location": "Zoom (Remote)",
+  "projects": [
+    {
+      "project_name": "Customer Loyalty Programme",
+      "project_id": "PRJ-0110",
+      "status": "Pending Approval",
+      "recommendation": "Proceed with the selected media agency; terms are competitive and scope is well-defined.",
+      "decision": "DEFERRED - Decision deferred pending completion of the feasibility study and initial risk assessment. Team to strengthen the business case and re-present at the next steering committee.",
+      "budget_allocation": "GBP 75,000",
+      "action_items": [
+        "Dinesh Kumar: Present go/no-go recommendation to the steering committee - Due: 09 July 2024",
+        "Dinesh Kumar: Complete go/no-go recommendation to the steering committee - Due: 09 July 2024"
+      ]
+    },
+    {
+      "project_name": "Self-Service BI Dashboard",
+      "project_id": "PRJ-0122",
+      "status": "Pending Approval",
+      "recommendation": "Appoint a dedicated data governance lead before the programme goes beyond discovery.",
+      "decision": "DEFERRED - Decision deferred pending completion of the feasibility study and initial risk assessment. Team to strengthen the business case and re-present at the next steering committee.",
+      "budget_allocation": "$250,000",
+      "action_items": [
+        "Meera Patel: Finalise technical architecture diagram for sign-off - Due: 09 July 2024",
+        "Dinesh Kumar: Complete risk register with latest assessment to the programme office - Due: 09 July 2024"
+      ]
+    },
+    {
+      "project_name": "Next-Gen CRM Implementation",
+      "project_id": "PRJ-0125",
+      "status": "Active - Slightly Delayed",
+      "recommendation": "Complete the CRM data quality cleanse before rolling out the new processes.",
+      "decision": "ON HOLD - Phase 1 temporarily placed on hold due to resource conflicts with the ERP programme. A resume decision will be revisited in 8 weeks once capacity is confirmed.",
+      "budget_allocation": "GBP 75,000",
+      "action_items": [
+        "Aisha Mahmood: Review updated project plan and revised timeline to all stakeholders - Due: 09 July 2024",
+        "Arjun Mehta: Review dependency mapping with the platform team - Due: 09 July 2024"
+      ]
+    },
+    {
+      "project_name": "Revenue Optimisation Initiative",
+      "project_id": "PRJ-0113",
+      "status": "Pending Approval",
+      "recommendation": "Engage the finance system vendor to confirm integration feasibility before committing.",
+      "decision": "DEFERRED - Decision deferred pending completion of the feasibility study and initial risk assessment. Team to strengthen the business case and re-present at the next steering committee.",
+      "budget_allocation": "EUR 110,000",
+      "action_items": [
+        "Marcus Webb: Publish risk register with latest assessment to the programme office - Due: 09 July 2024",
+        "Aisha Mahmood: Coordinate revised budget breakdown to Finance for approval - Due: 09 July 2024"
+      ]
+    }
+  ]
+}

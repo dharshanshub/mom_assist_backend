@@ -1,0 +1,60 @@
+{
+  "meeting_number": 54,
+  "meeting_type": "Portfolio Review",
+  "date": "17 July 2024",
+  "time": "09:00",
+  "organizer": "Sara Lopez",
+  "location": "Zoom (Remote)",
+  "projects": [
+    {
+      "project_name": "Kubernetes Platform Rollout",
+      "project_id": "PRJ-0126",
+      "status": "Active - Slightly Delayed",
+      "recommendation": "Approve the proposed architecture and proceed to Phase 1 with a fully staffed delivery team.",
+      "decision": "ON HOLD - Phase 1 temporarily placed on hold due to resource conflicts with the ERP programme. A resume decision will be revisited in 8 weeks once capacity is confirmed.",
+      "budget_allocation": "$180,000",
+      "action_items": [
+        "Diana Petrov: Submit dependency mapping with the platform team - Due: 14 August 2024",
+        "Sameer Rao: Circulate updated project plan and revised timeline to all stakeholders - Due: 14 August 2024"
+      ]
+    },
+    {
+      "project_name": "AI Customer Support Bot",
+      "project_id": "PRJ-0139",
+      "status": "Active - On Track",
+      "recommendation": "Proceed to closed beta; product quality meets the threshold for controlled testing.",
+      "decision": "APPROVED - Phase 2 deliverables reviewed and approved to continue. Progress is on track and within budget. Revised budget of $95,000 approved following scope clarification.",
+      "budget_allocation": "$24,000",
+      "action_items": [
+        "Nisha Iyer: Present revised budget breakdown to Finance for approval - Due: 14 August 2024",
+        "Rohan Sharma: Deliver technical architecture diagram for sign-off - Due: 14 August 2024",
+        "Rohan Sharma: Finalise risk register with latest assessment to the programme office - Due: 14 August 2024"
+      ]
+    },
+    {
+      "project_name": "Global Payroll Consolidation",
+      "project_id": "PRJ-0130",
+      "status": "Active - Slightly Delayed",
+      "recommendation": "Approve the HR transformation roadmap and proceed to vendor selection.",
+      "decision": "ON HOLD - Phase 1 temporarily placed on hold due to resource conflicts with the ERP programme. A resume decision will be revisited in 8 weeks once capacity is confirmed.",
+      "budget_allocation": "$380,000",
+      "action_items": [
+        "Pooja Krishnan: Review go/no-go recommendation to the steering committee - Due: 14 August 2024",
+        "Ananya Singh: Circulate dependency mapping with the platform team - Due: 14 August 2024",
+        "Thomas Edgerton: Prepare dependency mapping with the platform team - Due: 14 August 2024"
+      ]
+    },
+    {
+      "project_name": "Cost Optimisation Programme",
+      "project_id": "PRJ-0123",
+      "status": "Active - On Track",
+      "recommendation": "Approve the revised cost model and continue to Phase 3.",
+      "decision": "PILOT APPROVED - Phase 3 milestones met. Pilot approved for two pilot regions (North and East). Full rollout contingent on pilot KPIs being met within 12 weeks. Budget of EUR 60,000 released for pilot phase.",
+      "budget_allocation": "$24,000",
+      "action_items": [
+        "Diana Petrov: Coordinate legal review of the contract amendment - Due: 14 August 2024",
+        "Ananya Singh: Circulate change management plan - Due: 14 August 2024"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "meeting_number": 17,
+  "meeting_type": "Planning Session",
+  "date": "11 July 2023",
+  "time": "14:00",
+  "organizer": "Arjun Mehta",
+  "location": "Zoom (Remote)",
+  "projects": [
+    {
+      "project_name": "Product Data Mesh Initiative",
+      "project_id": "PRJ-0128",
+      "status": "Pending Approval",
+      "recommendation": "Appoint a dedicated data governance lead before the programme goes beyond discovery.",
+      "decision": "DEFERRED - Decision deferred pending completion of the feasibility study and initial risk assessment. Team to strengthen the business case and re-present at the next steering committee.",
+      "budget_allocation": "EUR 60,000",
+      "action_items": [
+        "Priya Nair: Submit revised budget breakdown to Finance for approval - Due: 25 July 2023",
+        "James Thornton: Present post-implementation review agenda - Due: 25 July 2023",
+        "Pooja Krishnan: Present resource allocation plan for the next sprint - Due: 25 July 2023"
+      ]
+    },
+    {
+      "project_name": "Product-Led Growth Initiative",
+      "project_id": "PRJ-0136",
+      "status": "Active - On Track",
+      "recommendation": "Commission a usability study before finalising the information architecture.",
+      "decision": "APPROVED WITH CONDITIONS - Project approved to proceed to Phase 1, subject to: security audit sign-off by the CISO and legal review of data residency requirements. Budget of GBP 150,000 confirmed.",
+      "budget_allocation": "GBP 75,000",
+      "action_items": [
+        "Oliver Grant: Prepare change management plan - Due: 25 July 2023",
+        "Dinesh Kumar: Complete training schedule for all impacted teams - Due: 25 July 2023",
+        "Dinesh Kumar: Deliver change management plan - Due: 25 July 2023"
+      ]
+    },
+    {
+      "project_name": "Supply Chain Digitalisation",
+      "project_id": "PRJ-0118",
+      "status": "Pending Approval",
+      "recommendation": "Complete the change impact assessment before communicating to affected staff.",
+      "decision": "DEFERRED - Decision deferred pending completion of the feasibility study and initial risk assessment. Team to strengthen the business case and re-present at the next steering committee.",
+      "budget_allocation": "$500,000",
+      "action_items": [
+        "James Thornton: Coordinate updated project plan and revised timeline to all stakeholders - Due: 25 July 2023",
+        "Riya Joshi: Coordinate resource allocation plan for the next sprint - Due: 25 July 2023",
+        "Riya Joshi: Coordinate risk register with latest assessment to the programme office - Due: 25 July 2023"
+      ]
+    },
+    {
+      "project_name": "Customer Portal Redesign",
+      "project_id": "PRJ-0102",
+      "status": "Active - On Track",
+      "recommendation": "Commission a usability study before finalising the information architecture.",
+      "decision": "APPROVED WITH CONDITIONS - Project approved to proceed to Phase 1, subject to: security audit sign-off by the CISO and legal review of data residency requirements. Budget of $95,000 confirmed.",
+      "budget_allocation": "$48,000",
+      "action_items": [
+        "Priya Nair: Prepare updated project plan and revised timeline to all stakeholders - Due: 25 July 2023",
+        "James Thornton: Deliver vendor shortlist and commercial terms for review - Due: 25 July 2023",
+        "James Thornton: Finalise KPI dashboard with updated metrics - Due: 25 July 2023"
+      ]
+    }
+  ]
+}

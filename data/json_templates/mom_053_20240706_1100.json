@@ -1,0 +1,61 @@
+{
+  "meeting_number": 53,
+  "meeting_type": "Planning Session",
+  "date": "06 July 2024",
+  "time": "11:00",
+  "organizer": "Sameer Rao",
+  "location": "Microsoft Teams (Hybrid)",
+  "projects": [
+    {
+      "project_name": "Data Warehouse Modernisation",
+      "project_id": "PRJ-0106",
+      "status": "Active - At Risk",
+      "recommendation": "Invest in automated data quality monitoring to prevent regression during scale-out.",
+      "decision": "APPROVED - Following resolution of the Phase 1 blockers, project reinstated and approved to advance to Phase 2. All pre-conditions have been met. Budget of $24,000 confirmed.",
+      "budget_allocation": "GBP 40,000",
+      "action_items": [
+        "Nisha Iyer: Prepare training schedule for all impacted teams - Due: 03 August 2024",
+        "Carlos Mendez: Review change management plan - Due: 03 August 2024",
+        "Rohan Sharma: Finalise revised budget breakdown to Finance for approval - Due: 03 August 2024"
+      ]
+    },
+    {
+      "project_name": "Brand Refresh 2024",
+      "project_id": "PRJ-0115",
+      "status": "Pending Approval",
+      "recommendation": "Proceed with the selected media agency; terms are competitive and scope is well-defined.",
+      "decision": "DEFERRED - Decision deferred pending completion of the feasibility study and initial risk assessment. Team to strengthen the business case and re-present at the next steering committee.",
+      "budget_allocation": "$180,000",
+      "action_items": [
+        "Riya Joshi: Present legal review of the contract amendment - Due: 03 August 2024",
+        "Nisha Iyer: Review technical architecture diagram for sign-off - Due: 03 August 2024",
+        "Nisha Iyer: Circulate go/no-go recommendation to the steering committee - Due: 03 August 2024"
+      ]
+    },
+    {
+      "project_name": "Employee Onboarding Automation",
+      "project_id": "PRJ-0147",
+      "status": "Active - On Track",
+      "recommendation": "Publish the post-implementation review findings to the HR leadership team.",
+      "decision": "FAST-TRACKED - All go-live readiness criteria satisfied. Rollback plan signed off by the CTO. Project fast-tracked to launch. Budget of $48,000 confirmed.",
+      "budget_allocation": "$24,000",
+      "action_items": [
+        "Sneha Gupta: Publish resource allocation plan for the next sprint - Due: 03 August 2024",
+        "Fatima Al-Hassan: Circulate legal review of the contract amendment - Due: 03 August 2024"
+      ]
+    },
+    {
+      "project_name": "APAC Market Expansion",
+      "project_id": "PRJ-0107",
+      "status": "Active - Slightly Delayed",
+      "recommendation": "Engage legal counsel to begin drafting the partnership term sheet.",
+      "decision": "ON HOLD - Phase 1 temporarily placed on hold due to resource conflicts with the ERP programme. A resume decision will be revisited in 8 weeks once capacity is confirmed.",
+      "budget_allocation": "$120,000",
+      "action_items": [
+        "Fatima Al-Hassan: Finalise go/no-go recommendation to the steering committee - Due: 03 August 2024",
+        "Nathan Forrest: Submit updated project plan and revised timeline to all stakeholders - Due: 03 August 2024",
+        "Nathan Forrest: Coordinate change management plan - Due: 03 August 2024"
+      ]
+    }
+  ]
+}

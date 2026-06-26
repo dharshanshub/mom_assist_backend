@@ -1,0 +1,85 @@
+{
+  "meeting_number": 20,
+  "meeting_type": "Portfolio Review",
+  "date": "17 May 2026",
+  "time": "15:30",
+  "organizer": "Carlos Mendez",
+  "location": "Board Room A",
+  "projects": [
+    {
+      "project_name": "Cost Optimisation Programme",
+      "project_id": "PRJ-0123",
+      "status": "Completed",
+      "recommendation": "Formally close the project from a financial perspective; final accounts reconciled.",
+      "decision": "APPROVED - Project formally closed following a successful hypercare period. All KPIs met. Post-implementation review scheduled for next quarter. Project transitioned to BAU.",
+      "budget_allocation": "EUR 60,000",
+      "action_items": [
+        "Thomas Edgerton: Review change management plan - Due: 12 July 2026",
+        "Pooja Krishnan: Coordinate post-implementation review agenda - Due: 12 July 2026",
+        "Nisha Iyer: Deliver vendor shortlist and commercial terms for review - Due: 12 July 2026"
+      ]
+    },
+    {
+      "project_name": "Product Data Mesh Initiative",
+      "project_id": "PRJ-0128",
+      "status": "Completed",
+      "recommendation": "Transition the platform to the data engineering BAU team with a structured handover.",
+      "decision": "APPROVED - Project formally closed following a successful hypercare period. All KPIs met. Post-implementation review scheduled for next quarter. Project transitioned to BAU.",
+      "budget_allocation": "$95,000",
+      "action_items": [
+        "Dinesh Kumar: Circulate updated project plan and revised timeline to all stakeholders - Due: 12 July 2026",
+        "Nathan Forrest: Coordinate revised budget breakdown to Finance for approval - Due: 12 July 2026",
+        "Lakshmi Venkat: Present go/no-go recommendation to the steering committee - Due: 12 July 2026"
+      ]
+    },
+    {
+      "project_name": "Product-Led Growth Initiative",
+      "project_id": "PRJ-0136",
+      "status": "Completed",
+      "recommendation": "Close the project and transition ownership to the product operations team.",
+      "decision": "APPROVED - Project formally closed following a successful hypercare period. All KPIs met. Post-implementation review scheduled for next quarter. Project transitioned to BAU.",
+      "budget_allocation": "GBP 75,000",
+      "action_items": [
+        "Oliver Grant: Circulate updated project plan and revised timeline to all stakeholders - Due: 12 July 2026",
+        "Lakshmi Venkat: Review vendor shortlist and commercial terms for review - Due: 12 July 2026",
+        "Thomas Edgerton: Coordinate KPI dashboard with updated metrics - Due: 12 July 2026"
+      ]
+    },
+    {
+      "project_name": "Digital Marketing Automation",
+      "project_id": "PRJ-0129",
+      "status": "Completed",
+      "recommendation": "Commission a follow-up brand tracking study to measure sustained impact.",
+      "decision": "APPROVED - Project formally closed following a successful hypercare period. All KPIs met. Post-implementation review scheduled for next quarter. Project transitioned to BAU.",
+      "budget_allocation": "EUR 110,000",
+      "action_items": [
+        "Nathan Forrest: Review dependency mapping with the platform team - Due: 12 July 2026",
+        "Arjun Mehta: Coordinate change management plan - Due: 12 July 2026"
+      ]
+    },
+    {
+      "project_name": "Vendor Rationalisation",
+      "project_id": "PRJ-0127",
+      "status": "Completed",
+      "recommendation": "Hand over ongoing vendor management to the procurement team.",
+      "decision": "APPROVED - Project formally closed following a successful hypercare period. All KPIs met. Post-implementation review scheduled for next quarter. Project transitioned to BAU.",
+      "budget_allocation": "$24,000",
+      "action_items": [
+        "Oliver Grant: Complete training schedule for all impacted teams - Due: 12 July 2026",
+        "Arjun Mehta: Circulate resource allocation plan for the next sprint - Due: 12 July 2026"
+      ]
+    },
+    {
+      "project_name": "Global Payroll Consolidation",
+      "project_id": "PRJ-0130",
+      "status": "Completed",
+      "recommendation": "Formally close the project; all deliverables accepted and KPIs met.",
+      "decision": "APPROVED - Project formally closed following a successful hypercare period. All KPIs met. Post-implementation review scheduled for next quarter. Project transitioned to BAU.",
+      "budget_allocation": "GBP 40,000",
+      "action_items": [
+        "Priya Nair: Publish legal review of the contract amendment - Due: 12 July 2026",
+        "Ananya Singh: Present updated project plan and revised timeline to all stakeholders - Due: 12 July 2026"
+      ]
+    }
+  ]
+}

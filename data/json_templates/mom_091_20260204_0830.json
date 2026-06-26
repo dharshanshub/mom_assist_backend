@@ -1,0 +1,60 @@
+{
+  "meeting_number": 91,
+  "meeting_type": "Board Meeting",
+  "date": "04 February 2026",
+  "time": "08:30",
+  "organizer": "Carlos Mendez",
+  "location": "Executive Suite",
+  "projects": [
+    {
+      "project_name": "Customer Portal Redesign",
+      "project_id": "PRJ-0102",
+      "status": "Active - On Track",
+      "recommendation": "Invest in a dedicated retention marketing programme to build on the strong Day-1 metrics.",
+      "decision": "FAST-TRACKED - All go-live readiness criteria satisfied. Rollback plan signed off by the CTO. Project fast-tracked to launch. Budget of $180,000 confirmed.",
+      "budget_allocation": "EUR 110,000",
+      "action_items": [
+        "Aisha Mahmood: Submit go/no-go recommendation to the steering committee - Due: 01 April 2026",
+        "Aisha Mahmood: Coordinate KPI dashboard with updated metrics - Due: 01 April 2026",
+        "Aisha Mahmood: Deliver legal review of the contract amendment - Due: 01 April 2026"
+      ]
+    },
+    {
+      "project_name": "Customer Loyalty Programme",
+      "project_id": "PRJ-0110",
+      "status": "Active - On Track",
+      "recommendation": "Update the marketing playbook with campaign learnings before the next brief.",
+      "decision": "FAST-TRACKED - All go-live readiness criteria satisfied. Rollback plan signed off by the CTO. Project fast-tracked to launch. Budget of $24,000 confirmed.",
+      "budget_allocation": "GBP 75,000",
+      "action_items": [
+        "Ethan Brooks: Circulate resource allocation plan for the next sprint - Due: 01 April 2026",
+        "Lakshmi Venkat: Circulate change management plan - Due: 01 April 2026"
+      ]
+    },
+    {
+      "project_name": "Singapore Office Expansion",
+      "project_id": "PRJ-0133",
+      "status": "Active - On Track",
+      "recommendation": "Close the project; infrastructure is stable and within agreed SLA parameters.",
+      "decision": "FAST-TRACKED - All go-live readiness criteria satisfied. Rollback plan signed off by the CTO. Project fast-tracked to launch. Budget of $24,000 confirmed.",
+      "budget_allocation": "GBP 150,000",
+      "action_items": [
+        "Nisha Iyer: Coordinate risk register with latest assessment to the programme office - Due: 01 April 2026",
+        "Sara Lopez: Deliver resource allocation plan for the next sprint - Due: 01 April 2026",
+        "Sara Lopez: Publish dependency mapping with the platform team - Due: 01 April 2026"
+      ]
+    },
+    {
+      "project_name": "Cloud Infrastructure Migration",
+      "project_id": "PRJ-0101",
+      "status": "Active - On Track",
+      "recommendation": "Close the project formally and capture lessons learned before the team disperses.",
+      "decision": "FAST-TRACKED - All go-live readiness criteria satisfied. Rollback plan signed off by the CTO. Project fast-tracked to launch. Budget of $120,000 confirmed.",
+      "budget_allocation": "$380,000",
+      "action_items": [
+        "Meera Patel: Coordinate stakeholder communication pack - Due: 01 April 2026",
+        "Aisha Mahmood: Coordinate KPI dashboard with updated metrics - Due: 01 April 2026"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "meeting_number": 14,
+  "meeting_type": "Planning Session",
+  "date": "17 July 2024",
+  "time": "11:00",
+  "organizer": "Marcus Webb",
+  "location": "Board Room A",
+  "projects": [
+    {
+      "project_name": "Self-Service BI Dashboard",
+      "project_id": "PRJ-0122",
+      "status": "Active - On Track",
+      "recommendation": "Accelerate the remaining 25 source system pipelines; current velocity is sufficient to meet the deadline.",
+      "decision": "PILOT APPROVED - Phase 3 milestones met. Pilot approved for a 3-month internal beta with 50 users. Full rollout contingent on pilot KPIs being met within 12 weeks. Budget of GBP 75,000 released for pilot phase.",
+      "budget_allocation": "$48,000",
+      "action_items": [
+        "Thomas Edgerton: Prepare legal review of the contract amendment - Due: 31 July 2024",
+        "Nisha Iyer: Review post-implementation review agenda - Due: 31 July 2024",
+        "James Thornton: Circulate change management plan - Due: 31 July 2024"
+      ]
+    },
+    {
+      "project_name": "Product Data Mesh Initiative",
+      "project_id": "PRJ-0128",
+      "status": "Active - On Track",
+      "recommendation": "Transition the platform to the data engineering BAU team with a structured handover.",
+      "decision": "APPROVED - User Acceptance Testing completed with all critical defects resolved. Project approved to proceed to Go-Live Preparation. Final budget of $500,000 confirmed.",
+      "budget_allocation": "EUR 60,000",
+      "action_items": [
+        "Riya Joshi: Publish revised budget breakdown to Finance for approval - Due: 31 July 2024",
+        "Sneha Gupta: Complete revised budget breakdown to Finance for approval - Due: 31 July 2024"
+      ]
+    },
+    {
+      "project_name": "APAC Market Expansion",
+      "project_id": "PRJ-0107",
+      "status": "Active - On Track",
+      "recommendation": "Publish the business case validation report to the board.",
+      "decision": "APPROVED - User Acceptance Testing completed with all critical defects resolved. Project approved to proceed to Go-Live Preparation. Final budget of $120,000 confirmed.",
+      "budget_allocation": "GBP 75,000",
+      "action_items": [
+        "Dinesh Kumar: Finalise technical architecture diagram for sign-off - Due: 31 July 2024",
+        "James Thornton: Publish change management plan - Due: 31 July 2024"
+      ]
+    },
+    {
+      "project_name": "HR Digital Transformation",
+      "project_id": "PRJ-0109",
+      "status": "Active - On Track",
+      "recommendation": "Formally close the project; all deliverables accepted and KPIs met.",
+      "decision": "APPROVED - User Acceptance Testing completed with all critical defects resolved. Project approved to proceed to Go-Live Preparation. Final budget of $95,000 confirmed.",
+      "budget_allocation": "GBP 150,000",
+      "action_items": [
+        "Arjun Mehta: Deliver KPI dashboard with updated metrics - Due: 31 July 2024",
+        "James Thornton: Coordinate change management plan - Due: 31 July 2024"
+      ]
+    },
+    {
+      "project_name": "Digital Marketing Automation",
+      "project_id": "PRJ-0129",
+      "status": "Active - On Track",
+      "recommendation": "Approve the media plan and release the campaign budget for activation.",
+      "decision": "PILOT APPROVED - Phase 3 milestones met. Pilot approved for a 3-month internal beta with 50 users. Full rollout contingent on pilot KPIs being met within 12 weeks. Budget of GBP 40,000 released for pilot phase.",
+      "budget_allocation": "$250,000",
+      "action_items": [
+        "Ananya Singh: Submit revised budget breakdown to Finance for approval - Due: 31 July 2024",
+        "Kavya Reddy: Review stakeholder communication pack - Due: 31 July 2024",
+        "Kavya Reddy: Coordinate revised budget breakdown to Finance for approval - Due: 31 July 2024"
+      ]
+    },
+    {
+      "project_name": "Vendor Rationalisation",
+      "project_id": "PRJ-0127",
+      "status": "Active - On Track",
+      "recommendation": "Publish the updated standard operating procedures to the intranet and close the project.",
+      "decision": "APPROVED - User Acceptance Testing completed with all critical defects resolved. Project approved to proceed to Go-Live Preparation. Final budget of EUR 60,000 confirmed.",
+      "budget_allocation": "$48,000",
+      "action_items": [
+        "Dinesh Kumar: Deliver stakeholder communication pack - Due: 31 July 2024",
+        "Kavya Reddy: Finalise stakeholder communication pack - Due: 31 July 2024"
+      ]
+    }
+  ]
+}

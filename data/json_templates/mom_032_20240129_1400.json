@@ -1,0 +1,59 @@
+{
+  "meeting_number": 32,
+  "meeting_type": "Portfolio Review",
+  "date": "29 January 2024",
+  "time": "14:00",
+  "organizer": "Arjun Mehta",
+  "location": "Conference Room 3",
+  "projects": [
+    {
+      "project_name": "Automated Testing Framework",
+      "project_id": "PRJ-0117",
+      "status": "Active - Slightly Delayed",
+      "recommendation": "Approve the proposed architecture and proceed to Phase 1 with a fully staffed delivery team.",
+      "decision": "ON HOLD - Phase 1 temporarily placed on hold due to resource conflicts with the ERP programme. A resume decision will be revisited in 8 weeks once capacity is confirmed.",
+      "budget_allocation": "GBP 75,000",
+      "action_items": [
+        "Carlos Mendez: Prepare revised budget breakdown to Finance for approval - Due: 26 February 2024",
+        "Pooja Krishnan: Review technical architecture diagram for sign-off - Due: 26 February 2024"
+      ]
+    },
+    {
+      "project_name": "Partner Portal Launch",
+      "project_id": "PRJ-0138",
+      "status": "Pending Approval",
+      "recommendation": "Commission a detailed regulatory mapping exercise before committing to entry.",
+      "decision": "DEFERRED - Decision deferred pending completion of the feasibility study and initial risk assessment. Team to strengthen the business case and re-present at the next steering committee.",
+      "budget_allocation": "GBP 40,000",
+      "action_items": [
+        "Sneha Gupta: Review dependency mapping with the platform team - Due: 26 February 2024",
+        "Ananya Singh: Present updated project plan and revised timeline to all stakeholders - Due: 26 February 2024"
+      ]
+    },
+    {
+      "project_name": "Internal Developer Platform",
+      "project_id": "PRJ-0134",
+      "status": "Pending Approval",
+      "recommendation": "Approve the proposed architecture and proceed to Phase 1 with a fully staffed delivery team.",
+      "decision": "DEFERRED - Decision deferred pending completion of the feasibility study and initial risk assessment. Team to strengthen the business case and re-present at the next steering committee.",
+      "budget_allocation": "$380,000",
+      "action_items": [
+        "Sameer Rao: Publish legal review of the contract amendment - Due: 26 February 2024",
+        "Pooja Krishnan: Present stakeholder communication pack - Due: 26 February 2024",
+        "Pooja Krishnan: Review legal review of the contract amendment - Due: 26 February 2024"
+      ]
+    },
+    {
+      "project_name": "Revenue Optimisation Initiative",
+      "project_id": "PRJ-0113",
+      "status": "Pending Approval",
+      "recommendation": "Engage the finance system vendor to confirm integration feasibility before committing.",
+      "decision": "DEFERRED - Decision deferred pending completion of the feasibility study and initial risk assessment. Team to strengthen the business case and re-present at the next steering committee.",
+      "budget_allocation": "$48,000",
+      "action_items": [
+        "Sneha Gupta: Review revised budget breakdown to Finance for approval - Due: 26 February 2024",
+        "Ananya Singh: Prepare KPI dashboard with updated metrics - Due: 26 February 2024"
+      ]
+    }
+  ]
+}

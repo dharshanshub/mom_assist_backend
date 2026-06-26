@@ -1,0 +1,60 @@
+{
+  "meeting_number": 62,
+  "meeting_type": "Board Meeting",
+  "date": "26 October 2024",
+  "time": "08:30",
+  "organizer": "Ethan Brooks",
+  "location": "Innovation Hub, Floor 4",
+  "projects": [
+    {
+      "project_name": "Mobile App v3.0 Launch",
+      "project_id": "PRJ-0105",
+      "status": "Active - Slightly Delayed",
+      "recommendation": "Proceed to design and prototyping; user research findings are clear and actionable.",
+      "decision": "ON HOLD - Phase 1 temporarily placed on hold due to resource conflicts with the ERP programme. A resume decision will be revisited in 8 weeks once capacity is confirmed.",
+      "budget_allocation": "$180,000",
+      "action_items": [
+        "Sara Lopez: Prepare resource allocation plan for the next sprint - Due: 21 December 2024",
+        "Priya Nair: Circulate revised budget breakdown to Finance for approval - Due: 21 December 2024",
+        "Priya Nair: Complete training schedule for all impacted teams - Due: 21 December 2024"
+      ]
+    },
+    {
+      "project_name": "Customer Loyalty Programme",
+      "project_id": "PRJ-0110",
+      "status": "Active - Slightly Delayed",
+      "recommendation": "Validate two creative routes through audience testing before committing to production.",
+      "decision": "ON HOLD - Phase 1 temporarily placed on hold due to resource conflicts with the ERP programme. A resume decision will be revisited in 8 weeks once capacity is confirmed.",
+      "budget_allocation": "EUR 110,000",
+      "action_items": [
+        "Oliver Grant: Finalise revised budget breakdown to Finance for approval - Due: 21 December 2024",
+        "Nathan Forrest: Complete risk register with latest assessment to the programme office - Due: 21 December 2024",
+        "Nathan Forrest: Present updated project plan and revised timeline to all stakeholders - Due: 21 December 2024"
+      ]
+    },
+    {
+      "project_name": "Carbon Footprint Tracking System",
+      "project_id": "PRJ-0135",
+      "status": "Active - At Risk",
+      "recommendation": "Proceed to the next phase of control implementation; evidence gathering is on track.",
+      "decision": "APPROVED - Following resolution of the Phase 1 blockers, project reinstated and approved to advance to Phase 2. All pre-conditions have been met. Budget of $500,000 confirmed.",
+      "budget_allocation": "GBP 150,000",
+      "action_items": [
+        "Aisha Mahmood: Submit stakeholder communication pack - Due: 21 December 2024",
+        "Dinesh Kumar: Finalise updated project plan and revised timeline to all stakeholders - Due: 21 December 2024"
+      ]
+    },
+    {
+      "project_name": "ERP System Upgrade",
+      "project_id": "PRJ-0103",
+      "status": "Active - On Track",
+      "recommendation": "Approve the deployment of the remaining automation workflows.",
+      "decision": "APPROVED - Phase 2 deliverables reviewed and approved to continue. Progress is on track and within budget. Revised budget of $24,000 approved following scope clarification.",
+      "budget_allocation": "$95,000",
+      "action_items": [
+        "Marcus Webb: Submit risk register with latest assessment to the programme office - Due: 21 December 2024",
+        "Sara Lopez: Finalise technical architecture diagram for sign-off - Due: 21 December 2024"
+      ]
+    }
+  ]
+}

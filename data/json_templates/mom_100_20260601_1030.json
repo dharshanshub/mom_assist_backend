@@ -1,0 +1,88 @@
+{
+  "meeting_number": 100,
+  "meeting_type": "Programme Retrospective",
+  "date": "01 June 2026",
+  "time": "10:30",
+  "organizer": "Meera Patel",
+  "location": "Board Room A",
+  "projects": [
+    {
+      "project_name": "Revenue Optimisation Initiative",
+      "project_id": "PRJ-0113",
+      "status": "Completed",
+      "recommendation": "Formally close the project from a financial perspective; final accounts reconciled.",
+      "decision": "APPROVED - Project formally closed following a successful hypercare period. All KPIs met. Post-implementation review scheduled for next quarter. Project transitioned to BAU.",
+      "budget_allocation": "$180,000",
+      "action_items": [
+        "Fatima Al-Hassan: Finalise revised budget breakdown to Finance for approval - Due: 13 July 2026",
+        "Kavya Reddy: Submit legal review of the contract amendment - Due: 13 July 2026",
+        "Sneha Gupta: Review change management plan - Due: 13 July 2026"
+      ]
+    },
+    {
+      "project_name": "Zero-Trust Network Security Overhaul",
+      "project_id": "PRJ-0108",
+      "status": "Completed",
+      "recommendation": "Transition to BAU support model; hypercare resourcing can be reduced by 50%.",
+      "decision": "APPROVED - Project formally closed following a successful hypercare period. All KPIs met. Post-implementation review scheduled for next quarter. Project transitioned to BAU.",
+      "budget_allocation": "$48,000",
+      "action_items": [
+        "Kavya Reddy: Review revised budget breakdown to Finance for approval - Due: 13 July 2026",
+        "Kavya Reddy: Deliver training schedule for all impacted teams - Due: 13 July 2026",
+        "Kavya Reddy: Complete stakeholder communication pack - Due: 13 July 2026"
+      ]
+    },
+    {
+      "project_name": "Internal Developer Platform",
+      "project_id": "PRJ-0134",
+      "status": "Completed",
+      "recommendation": "Close the project formally and capture lessons learned before the team disperses.",
+      "decision": "APPROVED - Project formally closed following a successful hypercare period. All KPIs met. Post-implementation review scheduled for next quarter. Project transitioned to BAU.",
+      "budget_allocation": "$48,000",
+      "action_items": [
+        "Sameer Rao: Finalise updated project plan and revised timeline to all stakeholders - Due: 13 July 2026",
+        "Kavya Reddy: Complete revised budget breakdown to Finance for approval - Due: 13 July 2026",
+        "Sneha Gupta: Present revised budget breakdown to Finance for approval - Due: 13 July 2026"
+      ]
+    },
+    {
+      "project_name": "Singapore Office Expansion",
+      "project_id": "PRJ-0133",
+      "status": "Completed",
+      "recommendation": "Close the project; infrastructure is stable and within agreed SLA parameters.",
+      "decision": "APPROVED - Project formally closed following a successful hypercare period. All KPIs met. Post-implementation review scheduled for next quarter. Project transitioned to BAU.",
+      "budget_allocation": "EUR 110,000",
+      "action_items": [
+        "Oliver Grant: Present dependency mapping with the platform team - Due: 13 July 2026",
+        "Kavya Reddy: Submit risk register with latest assessment to the programme office - Due: 13 July 2026",
+        "Lakshmi Venkat: Complete vendor shortlist and commercial terms for review - Due: 13 July 2026"
+      ]
+    },
+    {
+      "project_name": "Real-Time Fraud Detection System",
+      "project_id": "PRJ-0120",
+      "status": "Completed",
+      "recommendation": "Approve production go-live; all data quality and performance benchmarks have been met.",
+      "decision": "APPROVED - Project formally closed following a successful hypercare period. All KPIs met. Post-implementation review scheduled for next quarter. Project transitioned to BAU.",
+      "budget_allocation": "$250,000",
+      "action_items": [
+        "Sara Lopez: Present vendor shortlist and commercial terms for review - Due: 13 July 2026",
+        "Kavya Reddy: Prepare KPI dashboard with updated metrics - Due: 13 July 2026",
+        "Diana Petrov: Complete go/no-go recommendation to the steering committee - Due: 13 July 2026"
+      ]
+    },
+    {
+      "project_name": "Partner Portal Launch",
+      "project_id": "PRJ-0138",
+      "status": "Completed",
+      "recommendation": "Publish the business case validation report to the board.",
+      "decision": "APPROVED - Project formally closed following a successful hypercare period. All KPIs met. Post-implementation review scheduled for next quarter. Project transitioned to BAU.",
+      "budget_allocation": "$120,000",
+      "action_items": [
+        "Dinesh Kumar: Submit risk register with latest assessment to the programme office - Due: 13 July 2026",
+        "Diana Petrov: Present legal review of the contract amendment - Due: 13 July 2026",
+        "Diana Petrov: Complete updated project plan and revised timeline to all stakeholders - Due: 13 July 2026"
+      ]
+    }
+  ]
+}

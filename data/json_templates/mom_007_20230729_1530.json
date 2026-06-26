@@ -1,0 +1,87 @@
+{
+  "meeting_number": 7,
+  "meeting_type": "Portfolio Review",
+  "date": "29 July 2023",
+  "time": "15:30",
+  "organizer": "Sneha Gupta",
+  "location": "Board Room A",
+  "projects": [
+    {
+      "project_name": "Revenue Optimisation Initiative",
+      "project_id": "PRJ-0113",
+      "status": "Active - On Track",
+      "recommendation": "Approve the revised cost model and continue to Phase 3.",
+      "decision": "APPROVED - Phase 2 deliverables reviewed and approved to continue. Progress is on track and within budget. Revised budget of $120,000 approved following scope clarification.",
+      "budget_allocation": "GBP 75,000",
+      "action_items": [
+        "Kavya Reddy: Submit KPI dashboard with updated metrics - Due: 23 September 2023",
+        "Pooja Krishnan: Finalise change management plan - Due: 23 September 2023",
+        "Nisha Iyer: Prepare resource allocation plan for the next sprint - Due: 23 September 2023"
+      ]
+    },
+    {
+      "project_name": "Kubernetes Platform Rollout",
+      "project_id": "PRJ-0126",
+      "status": "Active - Slightly Delayed",
+      "recommendation": "Approve the proposed architecture and proceed to Phase 1 with a fully staffed delivery team.",
+      "decision": "ON HOLD - Phase 1 temporarily placed on hold due to resource conflicts with the ERP programme. A resume decision will be revisited in 8 weeks once capacity is confirmed.",
+      "budget_allocation": "GBP 150,000",
+      "action_items": [
+        "Nisha Iyer: Deliver dependency mapping with the platform team - Due: 23 September 2023",
+        "Priya Nair: Coordinate go/no-go recommendation to the steering committee - Due: 23 September 2023",
+        "Priya Nair: Submit post-implementation review agenda - Due: 23 September 2023"
+      ]
+    },
+    {
+      "project_name": "ESG Reporting Framework",
+      "project_id": "PRJ-0124",
+      "status": "Active - At Risk",
+      "recommendation": "Approve the updated policy framework for board ratification.",
+      "decision": "APPROVED - Following resolution of the Phase 1 blockers, project reinstated and approved to advance to Phase 2. All pre-conditions have been met. Budget of $380,000 confirmed.",
+      "budget_allocation": "$180,000",
+      "action_items": [
+        "Lakshmi Venkat: Deliver technical architecture diagram for sign-off - Due: 23 September 2023",
+        "Pooja Krishnan: Deliver change management plan - Due: 23 September 2023"
+      ]
+    },
+    {
+      "project_name": "APAC Market Expansion",
+      "project_id": "PRJ-0107",
+      "status": "Active - Slightly Delayed",
+      "recommendation": "Engage legal counsel to begin drafting the partnership term sheet.",
+      "decision": "ON HOLD - Phase 1 temporarily placed on hold due to resource conflicts with the ERP programme. A resume decision will be revisited in 8 weeks once capacity is confirmed.",
+      "budget_allocation": "GBP 40,000",
+      "action_items": [
+        "Carlos Mendez: Complete risk register with latest assessment to the programme office - Due: 23 September 2023",
+        "Pooja Krishnan: Circulate training schedule for all impacted teams - Due: 23 September 2023",
+        "Priya Nair: Complete KPI dashboard with updated metrics - Due: 23 September 2023"
+      ]
+    },
+    {
+      "project_name": "Customer Portal Redesign",
+      "project_id": "PRJ-0102",
+      "status": "Pending Approval",
+      "recommendation": "Commission a usability study before finalising the information architecture.",
+      "decision": "DEFERRED - Decision deferred pending completion of the feasibility study and initial risk assessment. Team to strengthen the business case and re-present at the next steering committee.",
+      "budget_allocation": "$48,000",
+      "action_items": [
+        "Lakshmi Venkat: Prepare risk register with latest assessment to the programme office - Due: 23 September 2023",
+        "Pooja Krishnan: Deliver post-implementation review agenda - Due: 23 September 2023",
+        "Priya Nair: Publish resource allocation plan for the next sprint - Due: 23 September 2023"
+      ]
+    },
+    {
+      "project_name": "Brand Refresh 2024",
+      "project_id": "PRJ-0115",
+      "status": "Active - On Track",
+      "recommendation": "Proceed with the selected media agency; terms are competitive and scope is well-defined.",
+      "decision": "APPROVED WITH CONDITIONS - Project approved to proceed to Phase 1, subject to: security audit sign-off by the CISO and legal review of data residency requirements. Budget of EUR 110,000 confirmed.",
+      "budget_allocation": "GBP 150,000",
+      "action_items": [
+        "Fatima Al-Hassan: Circulate risk register with latest assessment to the programme office - Due: 23 September 2023",
+        "Pooja Krishnan: Prepare updated project plan and revised timeline to all stakeholders - Due: 23 September 2023",
+        "Nisha Iyer: Coordinate vendor shortlist and commercial terms for review - Due: 23 September 2023"
+      ]
+    }
+  ]
+}

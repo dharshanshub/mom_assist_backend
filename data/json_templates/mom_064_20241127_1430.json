@@ -1,0 +1,59 @@
+{
+  "meeting_number": 64,
+  "meeting_type": "All-Hands Update",
+  "date": "27 November 2024",
+  "time": "14:30",
+  "organizer": "Kavya Reddy",
+  "location": "Executive Suite",
+  "projects": [
+    {
+      "project_name": "Self-Service BI Dashboard",
+      "project_id": "PRJ-0122",
+      "status": "Active - At Risk",
+      "recommendation": "Accelerate the remaining 25 source system pipelines; current velocity is sufficient to meet the deadline.",
+      "decision": "APPROVED - Following resolution of the Phase 1 blockers, project reinstated and approved to advance to Phase 2. All pre-conditions have been met. Budget of GBP 40,000 confirmed.",
+      "budget_allocation": "$24,000",
+      "action_items": [
+        "Kavya Reddy: Deliver change management plan - Due: 22 January 2025",
+        "Diana Petrov: Submit risk register with latest assessment to the programme office - Due: 22 January 2025",
+        "Diana Petrov: Prepare change management plan - Due: 22 January 2025"
+      ]
+    },
+    {
+      "project_name": "Product-Led Growth Initiative",
+      "project_id": "PRJ-0136",
+      "status": "Active - On Track",
+      "recommendation": "Proceed to closed beta; product quality meets the threshold for controlled testing.",
+      "decision": "PILOT APPROVED - Phase 3 milestones met. Pilot approved for a 3-month internal beta with 50 users. Full rollout contingent on pilot KPIs being met within 12 weeks. Budget of $95,000 released for pilot phase.",
+      "budget_allocation": "$500,000",
+      "action_items": [
+        "Sara Lopez: Publish KPI dashboard with updated metrics - Due: 22 January 2025",
+        "Riya Joshi: Prepare vendor shortlist and commercial terms for review - Due: 22 January 2025"
+      ]
+    },
+    {
+      "project_name": "Workforce Analytics Dashboard",
+      "project_id": "PRJ-0140",
+      "status": "Active - Slightly Delayed",
+      "recommendation": "Select the HRIS platform and proceed to contract negotiation.",
+      "decision": "ON HOLD - Phase 1 temporarily placed on hold due to resource conflicts with the ERP programme. A resume decision will be revisited in 8 weeks once capacity is confirmed.",
+      "budget_allocation": "$500,000",
+      "action_items": [
+        "James Thornton: Present dependency mapping with the platform team - Due: 22 January 2025",
+        "Ethan Brooks: Circulate post-implementation review agenda - Due: 22 January 2025"
+      ]
+    },
+    {
+      "project_name": "Product Data Mesh Initiative",
+      "project_id": "PRJ-0128",
+      "status": "Active - On Track",
+      "recommendation": "Proceed to UAT; data accuracy metrics are consistently above the 90% threshold.",
+      "decision": "PILOT APPROVED - Phase 3 milestones met. Pilot approved for two pilot regions (North and East). Full rollout contingent on pilot KPIs being met within 12 weeks. Budget of $24,000 released for pilot phase.",
+      "budget_allocation": "GBP 150,000",
+      "action_items": [
+        "Priya Nair: Complete go/no-go recommendation to the steering committee - Due: 22 January 2025",
+        "Ethan Brooks: Prepare KPI dashboard with updated metrics - Due: 22 January 2025"
+      ]
+    }
+  ]
+}

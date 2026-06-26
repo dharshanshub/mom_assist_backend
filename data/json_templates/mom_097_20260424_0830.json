@@ -1,0 +1,60 @@
+{
+  "meeting_number": 97,
+  "meeting_type": "Programme Retrospective",
+  "date": "24 April 2026",
+  "time": "08:30",
+  "organizer": "Nisha Iyer",
+  "location": "Conference Room 3",
+  "projects": [
+    {
+      "project_name": "SOC 2 Type II Compliance",
+      "project_id": "PRJ-0111",
+      "status": "Completed",
+      "recommendation": "Transition ongoing compliance monitoring to the Risk and Compliance function.",
+      "decision": "APPROVED - Project formally closed following a successful hypercare period. All KPIs met. Post-implementation review scheduled for next quarter. Project transitioned to BAU.",
+      "budget_allocation": "$95,000",
+      "action_items": [
+        "Priya Nair: Present resource allocation plan for the next sprint - Due: 08 May 2026",
+        "Marcus Webb: Publish resource allocation plan for the next sprint - Due: 08 May 2026",
+        "Pooja Krishnan: Prepare dependency mapping with the platform team - Due: 08 May 2026"
+      ]
+    },
+    {
+      "project_name": "Multi-Region CDN Deployment",
+      "project_id": "PRJ-0121",
+      "status": "Completed",
+      "recommendation": "Formally decommission the legacy infrastructure; all workloads confirmed migrated.",
+      "decision": "APPROVED - Project formally closed following a successful hypercare period. All KPIs met. Post-implementation review scheduled for next quarter. Project transitioned to BAU.",
+      "budget_allocation": "$500,000",
+      "action_items": [
+        "Sameer Rao: Deliver updated project plan and revised timeline to all stakeholders - Due: 08 May 2026",
+        "Marcus Webb: Deliver go/no-go recommendation to the steering committee - Due: 08 May 2026",
+        "Diana Petrov: Prepare technical architecture diagram for sign-off - Due: 08 May 2026"
+      ]
+    },
+    {
+      "project_name": "Internal Developer Platform",
+      "project_id": "PRJ-0134",
+      "status": "Completed",
+      "recommendation": "Transition to BAU support model; hypercare resourcing can be reduced by 50%.",
+      "decision": "APPROVED - Project formally closed following a successful hypercare period. All KPIs met. Post-implementation review scheduled for next quarter. Project transitioned to BAU.",
+      "budget_allocation": "$380,000",
+      "action_items": [
+        "Ananya Singh: Submit resource allocation plan for the next sprint - Due: 08 May 2026",
+        "Diana Petrov: Review resource allocation plan for the next sprint - Due: 08 May 2026"
+      ]
+    },
+    {
+      "project_name": "Partner Portal Launch",
+      "project_id": "PRJ-0138",
+      "status": "Completed",
+      "recommendation": "Commission Phase 2 market expansion scoping given the success of Phase 1.",
+      "decision": "APPROVED - Project formally closed following a successful hypercare period. All KPIs met. Post-implementation review scheduled for next quarter. Project transitioned to BAU.",
+      "budget_allocation": "$180,000",
+      "action_items": [
+        "Sara Lopez: Complete KPI dashboard with updated metrics - Due: 08 May 2026",
+        "Pooja Krishnan: Deliver stakeholder communication pack - Due: 08 May 2026"
+      ]
+    }
+  ]
+}

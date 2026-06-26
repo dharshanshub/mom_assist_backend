@@ -1,0 +1,60 @@
+{
+  "meeting_number": 78,
+  "meeting_type": "Portfolio Review",
+  "date": "14 May 2025",
+  "time": "14:00",
+  "organizer": "Ananya Singh",
+  "location": "Executive Suite",
+  "projects": [
+    {
+      "project_name": "API Gateway and Microservices Rollout",
+      "project_id": "PRJ-0112",
+      "status": "Active - On Track",
+      "recommendation": "Transition to BAU support model; hypercare resourcing can be reduced by 50%.",
+      "decision": "APPROVED - User Acceptance Testing completed with all critical defects resolved. Project approved to proceed to Go-Live Preparation. Final budget of $48,000 confirmed.",
+      "budget_allocation": "$24,000",
+      "action_items": [
+        "Riya Joshi: Review risk register with latest assessment to the programme office - Due: 28 May 2025",
+        "Lakshmi Venkat: Submit resource allocation plan for the next sprint - Due: 28 May 2025",
+        "Lakshmi Venkat: Present stakeholder communication pack - Due: 28 May 2025"
+      ]
+    },
+    {
+      "project_name": "Strategic Partnership - FinTech Hub",
+      "project_id": "PRJ-0116",
+      "status": "Active - On Track",
+      "recommendation": "Approve the go-to-market plan and release resources to begin pre-launch activities.",
+      "decision": "APPROVED - Phase 2 deliverables reviewed and approved to continue. Progress is on track and within budget. Revised budget of $380,000 approved following scope clarification.",
+      "budget_allocation": "EUR 110,000",
+      "action_items": [
+        "Sneha Gupta: Deliver KPI dashboard with updated metrics - Due: 28 May 2025",
+        "Kavya Reddy: Finalise technical architecture diagram for sign-off - Due: 28 May 2025",
+        "Kavya Reddy: Publish vendor shortlist and commercial terms for review - Due: 28 May 2025"
+      ]
+    },
+    {
+      "project_name": "APAC Market Expansion",
+      "project_id": "PRJ-0107",
+      "status": "Active - On Track",
+      "recommendation": "Approve the go-to-market plan and release resources to begin pre-launch activities.",
+      "decision": "PILOT APPROVED - Phase 3 milestones met. Pilot approved for a 3-month internal beta with 50 users. Full rollout contingent on pilot KPIs being met within 12 weeks. Budget of $95,000 released for pilot phase.",
+      "budget_allocation": "$500,000",
+      "action_items": [
+        "Carlos Mendez: Prepare post-implementation review agenda - Due: 28 May 2025",
+        "Ethan Brooks: Complete updated project plan and revised timeline to all stakeholders - Due: 28 May 2025"
+      ]
+    },
+    {
+      "project_name": "Regulatory Reporting Automation",
+      "project_id": "PRJ-0137",
+      "status": "Active - On Track",
+      "recommendation": "Proceed within the current budget envelope; contingency reserve is sufficient.",
+      "decision": "PILOT APPROVED - Phase 3 milestones met. Pilot approved for a single-tenant deployment for one key client. Full rollout contingent on pilot KPIs being met within 12 weeks. Budget of $180,000 released for pilot phase.",
+      "budget_allocation": "$48,000",
+      "action_items": [
+        "Sneha Gupta: Finalise updated project plan and revised timeline to all stakeholders - Due: 28 May 2025",
+        "Ethan Brooks: Publish technical architecture diagram for sign-off - Due: 28 May 2025"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "meeting_number": 10,
+  "meeting_type": "Portfolio Review",
+  "date": "23 March 2024",
+  "time": "09:00",
+  "organizer": "James Thornton",
+  "location": "Board Room B",
+  "projects": [
+    {
+      "project_name": "Partner Portal Launch",
+      "project_id": "PRJ-0138",
+      "status": "Active - On Track",
+      "recommendation": "Submit the regulatory filings in the remaining jurisdiction without delay.",
+      "decision": "APPROVED - Phase 2 deliverables reviewed and approved to continue. Progress is on track and within budget. Revised budget of $48,000 approved following scope clarification.",
+      "budget_allocation": "$380,000",
+      "action_items": [
+        "Dinesh Kumar: Present dependency mapping with the platform team - Due: 06 April 2024",
+        "Nathan Forrest: Review updated project plan and revised timeline to all stakeholders - Due: 06 April 2024",
+        "Nathan Forrest: Circulate technical architecture diagram for sign-off - Due: 06 April 2024"
+      ]
+    },
+    {
+      "project_name": "Real-Time Fraud Detection System",
+      "project_id": "PRJ-0120",
+      "status": "Active - At Risk",
+      "recommendation": "Accelerate the remaining 25 source system pipelines; current velocity is sufficient to meet the deadline.",
+      "decision": "APPROVED - Following resolution of the Phase 1 blockers, project reinstated and approved to advance to Phase 2. All pre-conditions have been met. Budget of GBP 75,000 confirmed.",
+      "budget_allocation": "$380,000",
+      "action_items": [
+        "Meera Patel: Circulate risk register with latest assessment to the programme office - Due: 06 April 2024",
+        "Ananya Singh: Present vendor shortlist and commercial terms for review - Due: 06 April 2024",
+        "Ananya Singh: Publish risk register with latest assessment to the programme office - Due: 06 April 2024"
+      ]
+    },
+    {
+      "project_name": "Cloud Infrastructure Migration",
+      "project_id": "PRJ-0101",
+      "status": "Pending Approval",
+      "recommendation": "Approve the proposed architecture and proceed to Phase 1 with a fully staffed delivery team.",
+      "decision": "DEFERRED - Decision deferred pending completion of the feasibility study and initial risk assessment. Team to strengthen the business case and re-present at the next steering committee.",
+      "budget_allocation": "$120,000",
+      "action_items": [
+        "Riya Joshi: Circulate resource allocation plan for the next sprint - Due: 06 April 2024",
+        "Meera Patel: Deliver risk register with latest assessment to the programme office - Due: 06 April 2024"
+      ]
+    },
+    {
+      "project_name": "Data Warehouse Modernisation",
+      "project_id": "PRJ-0106",
+      "status": "Active - At Risk",
+      "recommendation": "Proceed to UAT; data accuracy metrics are consistently above the 90% threshold.",
+      "decision": "APPROVED - Following resolution of the Phase 1 blockers, project reinstated and approved to advance to Phase 2. All pre-conditions have been met. Budget of $95,000 confirmed.",
+      "budget_allocation": "$180,000",
+      "action_items": [
+        "Sameer Rao: Coordinate change management plan - Due: 06 April 2024",
+        "Fatima Al-Hassan: Circulate revised budget breakdown to Finance for approval - Due: 06 April 2024",
+        "Fatima Al-Hassan: Prepare change management plan - Due: 06 April 2024"
+      ]
+    },
+    {
+      "project_name": "Product-Led Growth Initiative",
+      "project_id": "PRJ-0136",
+      "status": "Active - At Risk",
+      "recommendation": "Defer the three lower-priority features to maintain the launch date.",
+      "decision": "APPROVED - Following resolution of the Phase 1 blockers, project reinstated and approved to advance to Phase 2. All pre-conditions have been met. Budget of EUR 110,000 confirmed.",
+      "budget_allocation": "GBP 40,000",
+      "action_items": [
+        "Carlos Mendez: Submit resource allocation plan for the next sprint - Due: 06 April 2024",
+        "Meera Patel: Present change management plan - Due: 06 April 2024",
+        "Ananya Singh: Coordinate technical architecture diagram for sign-off - Due: 06 April 2024"
+      ]
+    },
+    {
+      "project_name": "APAC Market Expansion",
+      "project_id": "PRJ-0107",
+      "status": "Active - On Track",
+      "recommendation": "Submit the regulatory filings in the remaining jurisdiction without delay.",
+      "decision": "PILOT APPROVED - Phase 3 milestones met. Pilot approved for a 3-month internal beta with 50 users. Full rollout contingent on pilot KPIs being met within 12 weeks. Budget of $380,000 released for pilot phase.",
+      "budget_allocation": "GBP 150,000",
+      "action_items": [
+        "Vivek Nambiar: Submit stakeholder communication pack - Due: 06 April 2024",
+        "Ananya Singh: Circulate training schedule for all impacted teams - Due: 06 April 2024"
+      ]
+    }
+  ]
+}

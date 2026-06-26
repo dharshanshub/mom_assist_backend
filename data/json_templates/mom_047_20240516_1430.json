@@ -1,0 +1,86 @@
+{
+  "meeting_number": 47,
+  "meeting_type": "Planning Session",
+  "date": "16 May 2024",
+  "time": "14:30",
+  "organizer": "Carlos Mendez",
+  "location": "Microsoft Teams (Hybrid)",
+  "projects": [
+    {
+      "project_name": "Cloud Infrastructure Migration",
+      "project_id": "PRJ-0101",
+      "status": "Active - On Track",
+      "recommendation": "Approve the proposed architecture and proceed to Phase 1 with a fully staffed delivery team.",
+      "decision": "APPROVED WITH CONDITIONS - Project approved to proceed to Phase 1, subject to: security audit sign-off by the CISO and legal review of data residency requirements. Budget of $180,000 confirmed.",
+      "budget_allocation": "$48,000",
+      "action_items": [
+        "Arjun Mehta: Submit revised budget breakdown to Finance for approval - Due: 11 July 2024",
+        "Nathan Forrest: Coordinate post-implementation review agenda - Due: 11 July 2024",
+        "Pooja Krishnan: Present updated project plan and revised timeline to all stakeholders - Due: 11 July 2024"
+      ]
+    },
+    {
+      "project_name": "Customer Portal Redesign",
+      "project_id": "PRJ-0102",
+      "status": "Active - On Track",
+      "recommendation": "Defer the three lower-priority features to maintain the launch date.",
+      "decision": "APPROVED - Phase 2 deliverables reviewed and approved to continue. Progress is on track and within budget. Revised budget of $380,000 approved following scope clarification.",
+      "budget_allocation": "GBP 40,000",
+      "action_items": [
+        "Lakshmi Venkat: Submit risk register with latest assessment to the programme office - Due: 11 July 2024",
+        "Pooja Krishnan: Circulate resource allocation plan for the next sprint - Due: 11 July 2024",
+        "James Thornton: Review post-implementation review agenda - Due: 11 July 2024"
+      ]
+    },
+    {
+      "project_name": "Mobile App v3.0 Launch",
+      "project_id": "PRJ-0105",
+      "status": "Pending Approval",
+      "recommendation": "Commission a usability study before finalising the information architecture.",
+      "decision": "DEFERRED - Decision deferred pending completion of the feasibility study and initial risk assessment. Team to strengthen the business case and re-present at the next steering committee.",
+      "budget_allocation": "EUR 60,000",
+      "action_items": [
+        "Meera Patel: Publish vendor shortlist and commercial terms for review - Due: 11 July 2024",
+        "James Thornton: Coordinate updated project plan and revised timeline to all stakeholders - Due: 11 July 2024"
+      ]
+    },
+    {
+      "project_name": "APAC Market Expansion",
+      "project_id": "PRJ-0107",
+      "status": "Active - On Track",
+      "recommendation": "Engage legal counsel to begin drafting the partnership term sheet.",
+      "decision": "APPROVED WITH CONDITIONS - Project approved to proceed to Phase 1, subject to: security audit sign-off by the CISO and legal review of data residency requirements. Budget of GBP 150,000 confirmed.",
+      "budget_allocation": "$95,000",
+      "action_items": [
+        "Vivek Nambiar: Finalise legal review of the contract amendment - Due: 11 July 2024",
+        "Pooja Krishnan: Complete technical architecture diagram for sign-off - Due: 11 July 2024",
+        "Pooja Krishnan: Prepare KPI dashboard with updated metrics - Due: 11 July 2024"
+      ]
+    },
+    {
+      "project_name": "Self-Service BI Dashboard",
+      "project_id": "PRJ-0122",
+      "status": "Pending Approval",
+      "recommendation": "Approve the data platform architecture and proceed with vendor selection.",
+      "decision": "DEFERRED - Decision deferred pending completion of the feasibility study and initial risk assessment. Team to strengthen the business case and re-present at the next steering committee.",
+      "budget_allocation": "GBP 40,000",
+      "action_items": [
+        "Carlos Mendez: Deliver KPI dashboard with updated metrics - Due: 11 July 2024",
+        "Sameer Rao: Review updated project plan and revised timeline to all stakeholders - Due: 11 July 2024"
+      ]
+    },
+    {
+      "project_name": "Cybersecurity Incident Response Platform",
+      "project_id": "PRJ-0131",
+      "status": "Active - At Risk",
+      "recommendation": "Proceed to Phase 3 — all Phase 2 exit criteria have been met.",
+      "decision": "APPROVED - Following resolution of the Phase 1 blockers, project reinstated and approved to advance to Phase 2. All pre-conditions have been met. Budget of EUR 110,000 confirmed.",
+      "budget_allocation": "GBP 75,000",
+      "action_items": [
+        "Ananya Singh: Finalise go/no-go recommendation to the steering committee - Due: 11 July 2024",
+        "Sameer Rao: Submit risk register with latest assessment to the programme office - Due: 11 July 2024",
+        "Sameer Rao: Review training schedule for all impacted teams - Due: 11 July 2024"
+      ]
+    }
+  ]
+}

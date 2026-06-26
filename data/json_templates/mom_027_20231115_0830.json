@@ -1,0 +1,60 @@
+{
+  "meeting_number": 27,
+  "meeting_type": "Client Steering Committee",
+  "date": "15 November 2023",
+  "time": "08:30",
+  "organizer": "Sneha Gupta",
+  "location": "Innovation Hub, Floor 4",
+  "projects": [
+    {
+      "project_name": "Customer Portal Redesign",
+      "project_id": "PRJ-0102",
+      "status": "Active - Slightly Delayed",
+      "recommendation": "Proceed to design and prototyping; user research findings are clear and actionable.",
+      "decision": "ON HOLD - Phase 1 temporarily placed on hold due to resource conflicts with the ERP programme. A resume decision will be revisited in 8 weeks once capacity is confirmed.",
+      "budget_allocation": "EUR 110,000",
+      "action_items": [
+        "Marcus Webb: Complete go/no-go recommendation to the steering committee - Due: 10 January 2024",
+        "James Thornton: Complete post-implementation review agenda - Due: 10 January 2024"
+      ]
+    },
+    {
+      "project_name": "Real-Time Fraud Detection System",
+      "project_id": "PRJ-0120",
+      "status": "Active - On Track",
+      "recommendation": "Approve the data platform architecture and proceed with vendor selection.",
+      "decision": "APPROVED WITH CONDITIONS - Project approved to proceed to Phase 1, subject to: security audit sign-off by the CISO and legal review of data residency requirements. Budget of $180,000 confirmed.",
+      "budget_allocation": "$380,000",
+      "action_items": [
+        "Vivek Nambiar: Publish dependency mapping with the platform team - Due: 10 January 2024",
+        "Dinesh Kumar: Publish KPI dashboard with updated metrics - Due: 10 January 2024",
+        "Diana Petrov: Submit dependency mapping with the platform team - Due: 10 January 2024"
+      ]
+    },
+    {
+      "project_name": "Revenue Optimisation Initiative",
+      "project_id": "PRJ-0113",
+      "status": "Pending Approval",
+      "recommendation": "Seek board approval for the capital expenditure component before Phase 1 commences.",
+      "decision": "DEFERRED - Decision deferred pending completion of the feasibility study and initial risk assessment. Team to strengthen the business case and re-present at the next steering committee.",
+      "budget_allocation": "$500,000",
+      "action_items": [
+        "Kavya Reddy: Prepare post-implementation review agenda - Due: 10 January 2024",
+        "Dinesh Kumar: Circulate KPI dashboard with updated metrics - Due: 10 January 2024",
+        "Dinesh Kumar: Deliver go/no-go recommendation to the steering committee - Due: 10 January 2024"
+      ]
+    },
+    {
+      "project_name": "Product-Led Growth Initiative",
+      "project_id": "PRJ-0136",
+      "status": "Active - Slightly Delayed",
+      "recommendation": "Validate the core value proposition with a smoke-test landing page before full build.",
+      "decision": "ON HOLD - Phase 1 temporarily placed on hold due to resource conflicts with the ERP programme. A resume decision will be revisited in 8 weeks once capacity is confirmed.",
+      "budget_allocation": "GBP 75,000",
+      "action_items": [
+        "Riya Joshi: Submit dependency mapping with the platform team - Due: 10 January 2024",
+        "Dinesh Kumar: Publish go/no-go recommendation to the steering committee - Due: 10 January 2024"
+      ]
+    }
+  ]
+}

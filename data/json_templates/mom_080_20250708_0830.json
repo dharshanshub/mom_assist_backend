@@ -1,0 +1,61 @@
+{
+  "meeting_number": 80,
+  "meeting_type": "Programme Retrospective",
+  "date": "08 July 2025",
+  "time": "08:30",
+  "organizer": "Thomas Edgerton",
+  "location": "Executive Suite",
+  "projects": [
+    {
+      "project_name": "Customer Portal Redesign",
+      "project_id": "PRJ-0102",
+      "status": "Active - On Track",
+      "recommendation": "Close the project and transition ownership to the product operations team.",
+      "decision": "APPROVED - User Acceptance Testing completed with all critical defects resolved. Project approved to proceed to Go-Live Preparation. Final budget of $120,000 confirmed.",
+      "budget_allocation": "GBP 150,000",
+      "action_items": [
+        "Dinesh Kumar: Review change management plan - Due: 05 August 2025",
+        "Aisha Mahmood: Circulate dependency mapping with the platform team - Due: 05 August 2025",
+        "Priya Nair: Finalise risk register with latest assessment to the programme office - Due: 05 August 2025"
+      ]
+    },
+    {
+      "project_name": "Self-Service BI Dashboard",
+      "project_id": "PRJ-0122",
+      "status": "Active - On Track",
+      "recommendation": "Accelerate the remaining 25 source system pipelines; current velocity is sufficient to meet the deadline.",
+      "decision": "PILOT APPROVED - Phase 3 milestones met. Pilot approved for a 3-month internal beta with 50 users. Full rollout contingent on pilot KPIs being met within 12 weeks. Budget of GBP 40,000 released for pilot phase.",
+      "budget_allocation": "$48,000",
+      "action_items": [
+        "Arjun Mehta: Publish stakeholder communication pack - Due: 05 August 2025",
+        "Ananya Singh: Submit dependency mapping with the platform team - Due: 05 August 2025"
+      ]
+    },
+    {
+      "project_name": "Singapore Office Expansion",
+      "project_id": "PRJ-0133",
+      "status": "Active - On Track",
+      "recommendation": "Proceed with site installation at the remaining two locations as planned.",
+      "decision": "PILOT APPROVED - Phase 3 milestones met. Pilot approved for two pilot regions (North and East). Full rollout contingent on pilot KPIs being met within 12 weeks. Budget of GBP 75,000 released for pilot phase.",
+      "budget_allocation": "GBP 150,000",
+      "action_items": [
+        "Marcus Webb: Finalise risk register with latest assessment to the programme office - Due: 05 August 2025",
+        "Diana Petrov: Submit stakeholder communication pack - Due: 05 August 2025",
+        "Diana Petrov: Coordinate KPI dashboard with updated metrics - Due: 05 August 2025"
+      ]
+    },
+    {
+      "project_name": "Legacy System Decommission",
+      "project_id": "PRJ-0141",
+      "status": "Active - At Risk",
+      "recommendation": "Resolve the legacy system integration issue before advancing; do not carry it forward.",
+      "decision": "APPROVED - Following resolution of the Phase 1 blockers, project reinstated and approved to advance to Phase 2. All pre-conditions have been met. Budget of $180,000 confirmed.",
+      "budget_allocation": "$24,000",
+      "action_items": [
+        "Arjun Mehta: Deliver risk register with latest assessment to the programme office - Due: 05 August 2025",
+        "Vivek Nambiar: Present change management plan - Due: 05 August 2025",
+        "Kavya Reddy: Present updated project plan and revised timeline to all stakeholders - Due: 05 August 2025"
+      ]
+    }
+  ]
+}

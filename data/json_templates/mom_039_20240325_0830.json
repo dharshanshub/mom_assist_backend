@@ -1,0 +1,60 @@
+{
+  "meeting_number": 39,
+  "meeting_type": "All-Hands Update",
+  "date": "25 March 2024",
+  "time": "08:30",
+  "organizer": "Nisha Iyer",
+  "location": "Board Room A",
+  "projects": [
+    {
+      "project_name": "APAC Market Expansion",
+      "project_id": "PRJ-0107",
+      "status": "Pending Approval",
+      "recommendation": "Engage legal counsel to begin drafting the partnership term sheet.",
+      "decision": "DEFERRED - Decision deferred pending completion of the feasibility study and initial risk assessment. Team to strengthen the business case and re-present at the next steering committee.",
+      "budget_allocation": "EUR 60,000",
+      "action_items": [
+        "Lakshmi Venkat: Deliver stakeholder communication pack - Due: 06 May 2024",
+        "Nathan Forrest: Finalise resource allocation plan for the next sprint - Due: 06 May 2024"
+      ]
+    },
+    {
+      "project_name": "API Gateway and Microservices Rollout",
+      "project_id": "PRJ-0112",
+      "status": "Active - At Risk",
+      "recommendation": "Proceed to Phase 3 — all Phase 2 exit criteria have been met.",
+      "decision": "APPROVED - Following resolution of the Phase 1 blockers, project reinstated and approved to advance to Phase 2. All pre-conditions have been met. Budget of $24,000 confirmed.",
+      "budget_allocation": "EUR 110,000",
+      "action_items": [
+        "Ananya Singh: Submit post-implementation review agenda - Due: 06 May 2024",
+        "Lakshmi Venkat: Present vendor shortlist and commercial terms for review - Due: 06 May 2024",
+        "Ethan Brooks: Submit revised budget breakdown to Finance for approval - Due: 06 May 2024"
+      ]
+    },
+    {
+      "project_name": "ESG Reporting Framework",
+      "project_id": "PRJ-0124",
+      "status": "Pending Approval",
+      "recommendation": "Approve the compliance remediation plan and allocate the necessary resources.",
+      "decision": "DEFERRED - Decision deferred pending completion of the feasibility study and initial risk assessment. Team to strengthen the business case and re-present at the next steering committee.",
+      "budget_allocation": "$48,000",
+      "action_items": [
+        "Arjun Mehta: Coordinate revised budget breakdown to Finance for approval - Due: 06 May 2024",
+        "Nathan Forrest: Present vendor shortlist and commercial terms for review - Due: 06 May 2024"
+      ]
+    },
+    {
+      "project_name": "Product-Led Growth Initiative",
+      "project_id": "PRJ-0136",
+      "status": "Active - At Risk",
+      "recommendation": "Proceed to closed beta; product quality meets the threshold for controlled testing.",
+      "decision": "APPROVED - Following resolution of the Phase 1 blockers, project reinstated and approved to advance to Phase 2. All pre-conditions have been met. Budget of GBP 150,000 confirmed.",
+      "budget_allocation": "$120,000",
+      "action_items": [
+        "Oliver Grant: Prepare vendor shortlist and commercial terms for review - Due: 06 May 2024",
+        "Ethan Brooks: Publish KPI dashboard with updated metrics - Due: 06 May 2024",
+        "Ethan Brooks: Prepare training schedule for all impacted teams - Due: 06 May 2024"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "meeting_number": 40,
+  "meeting_type": "All-Hands Update",
+  "date": "27 March 2024",
+  "time": "10:30",
+  "organizer": "Rohan Sharma",
+  "location": "Executive Suite",
+  "projects": [
+    {
+      "project_name": "ERP System Upgrade",
+      "project_id": "PRJ-0103",
+      "status": "Pending Approval",
+      "recommendation": "Complete the change impact assessment before communicating to affected staff.",
+      "decision": "DEFERRED - Decision deferred pending completion of the feasibility study and initial risk assessment. Team to strengthen the business case and re-present at the next steering committee.",
+      "budget_allocation": "$24,000",
+      "action_items": [
+        "Priya Nair: Complete stakeholder communication pack - Due: 22 May 2024",
+        "Marcus Webb: Finalise legal review of the contract amendment - Due: 22 May 2024"
+      ]
+    },
+    {
+      "project_name": "Next-Gen CRM Implementation",
+      "project_id": "PRJ-0125",
+      "status": "Active - On Track",
+      "recommendation": "Complete the CRM data quality cleanse before rolling out the new processes.",
+      "decision": "APPROVED WITH CONDITIONS - Project approved to proceed to Phase 1, subject to: security audit sign-off by the CISO and legal review of data residency requirements. Budget of EUR 110,000 confirmed.",
+      "budget_allocation": "GBP 40,000",
+      "action_items": [
+        "Diana Petrov: Circulate training schedule for all impacted teams - Due: 22 May 2024",
+        "Marcus Webb: Publish post-implementation review agenda - Due: 22 May 2024"
+      ]
+    },
+    {
+      "project_name": "Real-Time Fraud Detection System",
+      "project_id": "PRJ-0120",
+      "status": "Active - Slightly Delayed",
+      "recommendation": "Prioritise data quality remediation in the top 5 source systems before pipeline build.",
+      "decision": "ON HOLD - Phase 1 temporarily placed on hold due to resource conflicts with the ERP programme. A resume decision will be revisited in 8 weeks once capacity is confirmed.",
+      "budget_allocation": "$48,000",
+      "action_items": [
+        "Ethan Brooks: Present risk register with latest assessment to the programme office - Due: 22 May 2024",
+        "Sneha Gupta: Submit post-implementation review agenda - Due: 22 May 2024",
+        "Sneha Gupta: Submit vendor shortlist and commercial terms for review - Due: 22 May 2024"
+      ]
+    },
+    {
+      "project_name": "HR Digital Transformation",
+      "project_id": "PRJ-0109",
+      "status": "Pending Approval",
+      "recommendation": "Select the HRIS platform and proceed to contract negotiation.",
+      "decision": "DEFERRED - Decision deferred pending completion of the feasibility study and initial risk assessment. Team to strengthen the business case and re-present at the next steering committee.",
+      "budget_allocation": "GBP 150,000",
+      "action_items": [
+        "Sameer Rao: Coordinate go/no-go recommendation to the steering committee - Due: 22 May 2024",
+        "Marcus Webb: Circulate vendor shortlist and commercial terms for review - Due: 22 May 2024",
+        "Marcus Webb: Submit vendor shortlist and commercial terms for review - Due: 22 May 2024"
+      ]
+    }
+  ]
+}

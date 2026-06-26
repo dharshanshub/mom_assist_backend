@@ -1,0 +1,85 @@
+{
+  "meeting_number": 58,
+  "meeting_type": "Board Meeting",
+  "date": "15 August 2024",
+  "time": "15:00",
+  "organizer": "Carlos Mendez",
+  "location": "Executive Suite",
+  "projects": [
+    {
+      "project_name": "Customer Portal Redesign",
+      "project_id": "PRJ-0102",
+      "status": "Active - On Track",
+      "recommendation": "Defer the three lower-priority features to maintain the launch date.",
+      "decision": "APPROVED - Phase 2 deliverables reviewed and approved to continue. Progress is on track and within budget. Revised budget of $250,000 approved following scope clarification.",
+      "budget_allocation": "$250,000",
+      "action_items": [
+        "Aisha Mahmood: Prepare post-implementation review agenda - Due: 29 August 2024",
+        "Sneha Gupta: Prepare stakeholder communication pack - Due: 29 August 2024",
+        "Thomas Edgerton: Complete KPI dashboard with updated metrics - Due: 29 August 2024"
+      ]
+    },
+    {
+      "project_name": "Zero-Trust Network Security Overhaul",
+      "project_id": "PRJ-0108",
+      "status": "Active - On Track",
+      "recommendation": "Proceed to Phase 3 — all Phase 2 exit criteria have been met.",
+      "decision": "PILOT APPROVED - Phase 3 milestones met. Pilot approved for a 3-month internal beta with 50 users. Full rollout contingent on pilot KPIs being met within 12 weeks. Budget of GBP 150,000 released for pilot phase.",
+      "budget_allocation": "$250,000",
+      "action_items": [
+        "Meera Patel: Finalise dependency mapping with the platform team - Due: 29 August 2024",
+        "Nathan Forrest: Coordinate legal review of the contract amendment - Due: 29 August 2024",
+        "Ethan Brooks: Present technical architecture diagram for sign-off - Due: 29 August 2024"
+      ]
+    },
+    {
+      "project_name": "API Gateway and Microservices Rollout",
+      "project_id": "PRJ-0112",
+      "status": "Active - On Track",
+      "recommendation": "Resolve the legacy system integration issue before advancing; do not carry it forward.",
+      "decision": "PILOT APPROVED - Phase 3 milestones met. Pilot approved for two pilot regions (North and East). Full rollout contingent on pilot KPIs being met within 12 weeks. Budget of EUR 60,000 released for pilot phase.",
+      "budget_allocation": "EUR 60,000",
+      "action_items": [
+        "Carlos Mendez: Circulate resource allocation plan for the next sprint - Due: 29 August 2024",
+        "Ethan Brooks: Publish training schedule for all impacted teams - Due: 29 August 2024"
+      ]
+    },
+    {
+      "project_name": "Digital Marketing Automation",
+      "project_id": "PRJ-0129",
+      "status": "Active - Slightly Delayed",
+      "recommendation": "Validate two creative routes through audience testing before committing to production.",
+      "decision": "ON HOLD - Phase 1 temporarily placed on hold due to resource conflicts with the ERP programme. A resume decision will be revisited in 8 weeks once capacity is confirmed.",
+      "budget_allocation": "$180,000",
+      "action_items": [
+        "Sara Lopez: Coordinate post-implementation review agenda - Due: 29 August 2024",
+        "Marcus Webb: Deliver resource allocation plan for the next sprint - Due: 29 August 2024"
+      ]
+    },
+    {
+      "project_name": "Internal Developer Platform",
+      "project_id": "PRJ-0134",
+      "status": "Active - On Track",
+      "recommendation": "Resolve the legacy system integration issue before advancing; do not carry it forward.",
+      "decision": "APPROVED - Phase 2 deliverables reviewed and approved to continue. Progress is on track and within budget. Revised budget of GBP 40,000 approved following scope clarification.",
+      "budget_allocation": "$250,000",
+      "action_items": [
+        "Fatima Al-Hassan: Publish legal review of the contract amendment - Due: 29 August 2024",
+        "James Thornton: Prepare training schedule for all impacted teams - Due: 29 August 2024",
+        "Oliver Grant: Prepare technical architecture diagram for sign-off - Due: 29 August 2024"
+      ]
+    },
+    {
+      "project_name": "Workforce Analytics Dashboard",
+      "project_id": "PRJ-0140",
+      "status": "Active - On Track",
+      "recommendation": "Approve the HR transformation roadmap and proceed to vendor selection.",
+      "decision": "APPROVED WITH CONDITIONS - Project approved to proceed to Phase 1, subject to: security audit sign-off by the CISO and legal review of data residency requirements. Budget of EUR 110,000 confirmed.",
+      "budget_allocation": "$95,000",
+      "action_items": [
+        "Thomas Edgerton: Finalise risk register with latest assessment to the programme office - Due: 29 August 2024",
+        "James Thornton: Complete go/no-go recommendation to the steering committee - Due: 29 August 2024"
+      ]
+    }
+  ]
+}

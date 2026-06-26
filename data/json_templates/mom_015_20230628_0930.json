@@ -1,0 +1,59 @@
+{
+  "meeting_number": 15,
+  "meeting_type": "Programme Retrospective",
+  "date": "28 June 2023",
+  "time": "09:30",
+  "organizer": "Nathan Forrest",
+  "location": "Board Room A",
+  "projects": [
+    {
+      "project_name": "Disaster Recovery and BCP Upgrade",
+      "project_id": "PRJ-0114",
+      "status": "Pending Approval",
+      "recommendation": "Confirm the civil works timeline with the facilities team before procurement commences.",
+      "decision": "DEFERRED - Decision deferred pending completion of the feasibility study and initial risk assessment. Team to strengthen the business case and re-present at the next steering committee.",
+      "budget_allocation": "$250,000",
+      "action_items": [
+        "Sara Lopez: Complete stakeholder communication pack - Due: 26 July 2023",
+        "Ananya Singh: Circulate dependency mapping with the platform team - Due: 26 July 2023"
+      ]
+    },
+    {
+      "project_name": "AI-Powered Analytics Platform",
+      "project_id": "PRJ-0104",
+      "status": "Pending Approval",
+      "recommendation": "Approve the data platform architecture and proceed with vendor selection.",
+      "decision": "DEFERRED - Decision deferred pending completion of the feasibility study and initial risk assessment. Team to strengthen the business case and re-present at the next steering committee.",
+      "budget_allocation": "$120,000",
+      "action_items": [
+        "Thomas Edgerton: Coordinate updated project plan and revised timeline to all stakeholders - Due: 26 July 2023",
+        "Fatima Al-Hassan: Circulate revised budget breakdown to Finance for approval - Due: 26 July 2023"
+      ]
+    },
+    {
+      "project_name": "Automated Testing Framework",
+      "project_id": "PRJ-0117",
+      "status": "Active - On Track",
+      "recommendation": "Approve the proposed architecture and proceed to Phase 1 with a fully staffed delivery team.",
+      "decision": "APPROVED WITH CONDITIONS - Project approved to proceed to Phase 1, subject to: security audit sign-off by the CISO and legal review of data residency requirements. Budget of $250,000 confirmed.",
+      "budget_allocation": "EUR 110,000",
+      "action_items": [
+        "James Thornton: Publish training schedule for all impacted teams - Due: 26 July 2023",
+        "Lakshmi Venkat: Present stakeholder communication pack - Due: 26 July 2023"
+      ]
+    },
+    {
+      "project_name": "Cost Optimisation Programme",
+      "project_id": "PRJ-0123",
+      "status": "Pending Approval",
+      "recommendation": "Approve the business case and release the initial project budget.",
+      "decision": "DEFERRED - Decision deferred pending completion of the feasibility study and initial risk assessment. Team to strengthen the business case and re-present at the next steering committee.",
+      "budget_allocation": "$95,000",
+      "action_items": [
+        "Marcus Webb: Present technical architecture diagram for sign-off - Due: 26 July 2023",
+        "Ethan Brooks: Present updated project plan and revised timeline to all stakeholders - Due: 26 July 2023",
+        "Lakshmi Venkat: Prepare KPI dashboard with updated metrics - Due: 26 July 2023"
+      ]
+    }
+  ]
+}

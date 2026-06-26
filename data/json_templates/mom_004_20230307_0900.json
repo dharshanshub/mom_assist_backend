@@ -1,0 +1,73 @@
+{
+  "meeting_number": 4,
+  "meeting_type": "Programme Retrospective",
+  "date": "07 March 2023",
+  "time": "09:00",
+  "organizer": "Carlos Mendez",
+  "location": "Executive Suite",
+  "projects": [
+    {
+      "project_name": "Customer Loyalty Programme",
+      "project_id": "PRJ-0110",
+      "status": "Pending Approval",
+      "recommendation": "Validate two creative routes through audience testing before committing to production.",
+      "decision": "DEFERRED - Decision deferred pending completion of the feasibility study and initial risk assessment. Team to strengthen the business case and re-present at the next steering committee.",
+      "budget_allocation": "$120,000",
+      "action_items": [
+        "Riya Joshi: Publish resource allocation plan for the next sprint - Due: 02 May 2023",
+        "Ananya Singh: Prepare go/no-go recommendation to the steering committee - Due: 02 May 2023"
+      ]
+    },
+    {
+      "project_name": "Revenue Optimisation Initiative",
+      "project_id": "PRJ-0113",
+      "status": "Active - On Track",
+      "recommendation": "Seek board approval for the capital expenditure component before Phase 1 commences.",
+      "decision": "APPROVED WITH CONDITIONS - Project approved to proceed to Phase 1, subject to: security audit sign-off by the CISO and legal review of data residency requirements. Budget of $48,000 confirmed.",
+      "budget_allocation": "$120,000",
+      "action_items": [
+        "Dinesh Kumar: Deliver training schedule for all impacted teams - Due: 02 May 2023",
+        "Thomas Edgerton: Finalise training schedule for all impacted teams - Due: 02 May 2023",
+        "Thomas Edgerton: Present post-implementation review agenda - Due: 02 May 2023"
+      ]
+    },
+    {
+      "project_name": "Real-Time Fraud Detection System",
+      "project_id": "PRJ-0120",
+      "status": "Active - On Track",
+      "recommendation": "Appoint a dedicated data governance lead before the programme goes beyond discovery.",
+      "decision": "APPROVED WITH CONDITIONS - Project approved to proceed to Phase 1, subject to: security audit sign-off by the CISO and legal review of data residency requirements. Budget of $180,000 confirmed.",
+      "budget_allocation": "$24,000",
+      "action_items": [
+        "Dinesh Kumar: Submit updated project plan and revised timeline to all stakeholders - Due: 02 May 2023",
+        "Nisha Iyer: Complete change management plan - Due: 02 May 2023",
+        "Nisha Iyer: Present post-implementation review agenda - Due: 02 May 2023"
+      ]
+    },
+    {
+      "project_name": "ESG Reporting Framework",
+      "project_id": "PRJ-0124",
+      "status": "Pending Approval",
+      "recommendation": "Approve the compliance remediation plan and allocate the necessary resources.",
+      "decision": "DEFERRED - Decision deferred pending completion of the feasibility study and initial risk assessment. Team to strengthen the business case and re-present at the next steering committee.",
+      "budget_allocation": "GBP 150,000",
+      "action_items": [
+        "Arjun Mehta: Present post-implementation review agenda - Due: 02 May 2023",
+        "Nathan Forrest: Review stakeholder communication pack - Due: 02 May 2023"
+      ]
+    },
+    {
+      "project_name": "Singapore Office Expansion",
+      "project_id": "PRJ-0133",
+      "status": "Active - On Track",
+      "recommendation": "Approve the infrastructure design and proceed to procurement.",
+      "decision": "APPROVED WITH CONDITIONS - Project approved to proceed to Phase 1, subject to: security audit sign-off by the CISO and legal review of data residency requirements. Budget of GBP 150,000 confirmed.",
+      "budget_allocation": "GBP 75,000",
+      "action_items": [
+        "Nathan Forrest: Review technical architecture diagram for sign-off - Due: 02 May 2023",
+        "Thomas Edgerton: Publish dependency mapping with the platform team - Due: 02 May 2023",
+        "Nathan Forrest: Finalise post-implementation review agenda - Due: 02 May 2023"
+      ]
+    }
+  ]
+}

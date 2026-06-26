@@ -1,0 +1,61 @@
+{
+  "meeting_number": 90,
+  "meeting_type": "Client Steering Committee",
+  "date": "21 January 2026",
+  "time": "10:00",
+  "organizer": "Sameer Rao",
+  "location": "Board Room B",
+  "projects": [
+    {
+      "project_name": "Data Warehouse Modernisation",
+      "project_id": "PRJ-0106",
+      "status": "Active - On Track",
+      "recommendation": "Formally close the project; all deliverables accepted by business stakeholders.",
+      "decision": "FAST-TRACKED - All go-live readiness criteria satisfied. Rollback plan signed off by the CTO. Project fast-tracked to launch. Budget of $24,000 confirmed.",
+      "budget_allocation": "GBP 75,000",
+      "action_items": [
+        "Oliver Grant: Coordinate technical architecture diagram for sign-off - Due: 18 February 2026",
+        "Lakshmi Venkat: Submit risk register with latest assessment to the programme office - Due: 18 February 2026",
+        "Fatima Al-Hassan: Review training schedule for all impacted teams - Due: 18 February 2026"
+      ]
+    },
+    {
+      "project_name": "APAC Market Expansion",
+      "project_id": "PRJ-0107",
+      "status": "Active - On Track",
+      "recommendation": "Commission Phase 2 market expansion scoping given the success of Phase 1.",
+      "decision": "FAST-TRACKED - All go-live readiness criteria satisfied. Rollback plan signed off by the CTO. Project fast-tracked to launch. Budget of $48,000 confirmed.",
+      "budget_allocation": "GBP 75,000",
+      "action_items": [
+        "Kavya Reddy: Publish change management plan - Due: 18 February 2026",
+        "Rohan Sharma: Coordinate go/no-go recommendation to the steering committee - Due: 18 February 2026",
+        "Lakshmi Venkat: Present change management plan - Due: 18 February 2026"
+      ]
+    },
+    {
+      "project_name": "Strategic Partnership - FinTech Hub",
+      "project_id": "PRJ-0116",
+      "status": "Active - On Track",
+      "recommendation": "Publish the business case validation report to the board.",
+      "decision": "APPROVED - User Acceptance Testing completed with all critical defects resolved. Project approved to proceed to Go-Live Preparation. Final budget of EUR 110,000 confirmed.",
+      "budget_allocation": "EUR 60,000",
+      "action_items": [
+        "Nisha Iyer: Complete post-implementation review agenda - Due: 18 February 2026",
+        "Fatima Al-Hassan: Submit risk register with latest assessment to the programme office - Due: 18 February 2026"
+      ]
+    },
+    {
+      "project_name": "ESG Reporting Framework",
+      "project_id": "PRJ-0124",
+      "status": "Completed",
+      "recommendation": "Accept the external audit outcome and formally close all remediation actions.",
+      "decision": "APPROVED - Project formally closed following a successful hypercare period. All KPIs met. Post-implementation review scheduled for next quarter. Project transitioned to BAU.",
+      "budget_allocation": "$120,000",
+      "action_items": [
+        "Fatima Al-Hassan: Complete vendor shortlist and commercial terms for review - Due: 18 February 2026",
+        "Lakshmi Venkat: Complete legal review of the contract amendment - Due: 18 February 2026",
+        "Lakshmi Venkat: Coordinate post-implementation review agenda - Due: 18 February 2026"
+      ]
+    }
+  ]
+}

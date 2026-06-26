@@ -1,0 +1,22 @@
+{
+  "meeting_number": 2,
+  "meeting_type": "All-Hands Update",
+  "date": "21 February 2023",
+  "time": "09:30",
+  "organizer": "Rohan Sharma",
+  "location": "Microsoft Teams (Hybrid)",
+  "projects": [
+    {
+      "project_name": "API Gateway and Microservices Rollout",
+      "project_id": "PRJ-0112",
+      "status": "Pending Approval",
+      "recommendation": "Complete the proof of concept before committing to a full build; de-risk the approach.",
+      "decision": "DEFERRED - Decision deferred pending completion of the feasibility study and initial risk assessment. Team to strengthen the business case and re-present at the next steering committee.",
+      "budget_allocation": "GBP 75,000",
+      "action_items": [
+        "Pooja Krishnan: Circulate risk register with latest assessment to the programme office - Due: 04 April 2023",
+        "Carlos Mendez: Submit go/no-go recommendation to the steering committee - Due: 04 April 2023"
+      ]
+    }
+  ]
+}

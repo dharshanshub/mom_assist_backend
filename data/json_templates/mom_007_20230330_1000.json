@@ -1,0 +1,62 @@
+{
+  "meeting_number": 7,
+  "meeting_type": "Planning Session",
+  "date": "30 March 2023",
+  "time": "10:00",
+  "organizer": "Lakshmi Venkat",
+  "location": "Board Room B",
+  "projects": [
+    {
+      "project_name": "Automated Testing Framework",
+      "project_id": "PRJ-0117",
+      "status": "Pending Approval",
+      "recommendation": "Complete the proof of concept before committing to a full build; de-risk the approach.",
+      "decision": "DEFERRED - Decision deferred pending completion of the feasibility study and initial risk assessment. Team to strengthen the business case and re-present at the next steering committee.",
+      "budget_allocation": "$120,000",
+      "action_items": [
+        "Kavya Reddy: Prepare KPI dashboard with updated metrics - Due: 13 April 2023",
+        "Oliver Grant: Circulate go/no-go recommendation to the steering committee - Due: 13 April 2023",
+        "Riya Joshi: Coordinate technical architecture diagram for sign-off - Due: 13 April 2023"
+      ]
+    },
+    {
+      "project_name": "Cost Optimisation Programme",
+      "project_id": "PRJ-0123",
+      "status": "Pending Approval",
+      "recommendation": "Engage the finance system vendor to confirm integration feasibility before committing.",
+      "decision": "DEFERRED - Decision deferred pending completion of the feasibility study and initial risk assessment. Team to strengthen the business case and re-present at the next steering committee.",
+      "budget_allocation": "GBP 75,000",
+      "action_items": [
+        "Meera Patel: Circulate stakeholder communication pack - Due: 13 April 2023",
+        "Kavya Reddy: Review post-implementation review agenda - Due: 13 April 2023",
+        "Oliver Grant: Finalise resource allocation plan for the next sprint - Due: 13 April 2023"
+      ]
+    },
+    {
+      "project_name": "Zero-Trust Network Security Overhaul",
+      "project_id": "PRJ-0108",
+      "status": "Pending Approval",
+      "recommendation": "Complete the proof of concept before committing to a full build; de-risk the approach.",
+      "decision": "DEFERRED - Decision deferred pending completion of the feasibility study and initial risk assessment. Team to strengthen the business case and re-present at the next steering committee.",
+      "budget_allocation": "$120,000",
+      "action_items": [
+        "Ananya Singh: Deliver resource allocation plan for the next sprint - Due: 13 April 2023",
+        "Nisha Iyer: Finalise post-implementation review agenda - Due: 13 April 2023",
+        "Nisha Iyer: Present technical architecture diagram for sign-off - Due: 13 April 2023"
+      ]
+    },
+    {
+      "project_name": "Product-Led Growth Initiative",
+      "project_id": "PRJ-0136",
+      "status": "Pending Approval",
+      "recommendation": "Validate the core value proposition with a smoke-test landing page before full build.",
+      "decision": "DEFERRED - Decision deferred pending completion of the feasibility study and initial risk assessment. Team to strengthen the business case and re-present at the next steering committee.",
+      "budget_allocation": "GBP 150,000",
+      "action_items": [
+        "Carlos Mendez: Finalise post-implementation review agenda - Due: 13 April 2023",
+        "Priya Nair: Review change management plan - Due: 13 April 2023",
+        "Kavya Reddy: Deliver go/no-go recommendation to the steering committee - Due: 13 April 2023"
+      ]
+    }
+  ]
+}

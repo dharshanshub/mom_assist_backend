@@ -1,0 +1,62 @@
+{
+  "meeting_number": 28,
+  "meeting_type": "Client Steering Committee",
+  "date": "23 November 2023",
+  "time": "10:00",
+  "organizer": "Arjun Mehta",
+  "location": "Board Room A",
+  "projects": [
+    {
+      "project_name": "Product-Led Growth Initiative",
+      "project_id": "PRJ-0136",
+      "status": "Active - Slightly Delayed",
+      "recommendation": "Proceed to design and prototyping; user research findings are clear and actionable.",
+      "decision": "ON HOLD - Phase 1 temporarily placed on hold due to resource conflicts with the ERP programme. A resume decision will be revisited in 8 weeks once capacity is confirmed.",
+      "budget_allocation": "GBP 150,000",
+      "action_items": [
+        "Priya Nair: Publish revised budget breakdown to Finance for approval - Due: 21 December 2023",
+        "Fatima Al-Hassan: Publish legal review of the contract amendment - Due: 21 December 2023",
+        "Fatima Al-Hassan: Deliver vendor shortlist and commercial terms for review - Due: 21 December 2023"
+      ]
+    },
+    {
+      "project_name": "Partner Portal Launch",
+      "project_id": "PRJ-0138",
+      "status": "Pending Approval",
+      "recommendation": "Commission a detailed regulatory mapping exercise before committing to entry.",
+      "decision": "DEFERRED - Decision deferred pending completion of the feasibility study and initial risk assessment. Team to strengthen the business case and re-present at the next steering committee.",
+      "budget_allocation": "$250,000",
+      "action_items": [
+        "Sameer Rao: Present change management plan - Due: 21 December 2023",
+        "Fatima Al-Hassan: Prepare vendor shortlist and commercial terms for review - Due: 21 December 2023",
+        "Rohan Sharma: Submit change management plan - Due: 21 December 2023"
+      ]
+    },
+    {
+      "project_name": "AI Customer Support Bot",
+      "project_id": "PRJ-0139",
+      "status": "Pending Approval",
+      "recommendation": "Validate the core value proposition with a smoke-test landing page before full build.",
+      "decision": "DEFERRED - Decision deferred pending completion of the feasibility study and initial risk assessment. Team to strengthen the business case and re-present at the next steering committee.",
+      "budget_allocation": "GBP 40,000",
+      "action_items": [
+        "Diana Petrov: Prepare updated project plan and revised timeline to all stakeholders - Due: 21 December 2023",
+        "Aisha Mahmood: Deliver resource allocation plan for the next sprint - Due: 21 December 2023",
+        "Thomas Edgerton: Complete KPI dashboard with updated metrics - Due: 21 December 2023"
+      ]
+    },
+    {
+      "project_name": "SOC 2 Type II Compliance",
+      "project_id": "PRJ-0111",
+      "status": "Pending Approval",
+      "recommendation": "Prioritise the three highest-risk gaps for immediate remediation.",
+      "decision": "DEFERRED - Decision deferred pending completion of the feasibility study and initial risk assessment. Team to strengthen the business case and re-present at the next steering committee.",
+      "budget_allocation": "$250,000",
+      "action_items": [
+        "Ethan Brooks: Publish post-implementation review agenda - Due: 21 December 2023",
+        "Pooja Krishnan: Present training schedule for all impacted teams - Due: 21 December 2023",
+        "Fatima Al-Hassan: Prepare training schedule for all impacted teams - Due: 21 December 2023"
+      ]
+    }
+  ]
+}

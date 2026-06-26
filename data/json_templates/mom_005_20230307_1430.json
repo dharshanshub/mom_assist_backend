@@ -1,0 +1,34 @@
+{
+  "meeting_number": 5,
+  "meeting_type": "Planning Session",
+  "date": "07 March 2023",
+  "time": "14:30",
+  "organizer": "Marcus Webb",
+  "location": "Zoom (Remote)",
+  "projects": [
+    {
+      "project_name": "API Gateway and Microservices Rollout",
+      "project_id": "PRJ-0112",
+      "status": "Pending Approval",
+      "recommendation": "Engage a specialist security architect to validate the design before Phase 1 commences.",
+      "decision": "DEFERRED - Decision deferred pending completion of the feasibility study and initial risk assessment. Team to strengthen the business case and re-present at the next steering committee.",
+      "budget_allocation": "$24,000",
+      "action_items": [
+        "Thomas Edgerton: Review dependency mapping with the platform team - Due: 04 April 2023",
+        "Pooja Krishnan: Publish stakeholder communication pack - Due: 04 April 2023"
+      ]
+    },
+    {
+      "project_name": "Product-Led Growth Initiative",
+      "project_id": "PRJ-0136",
+      "status": "Pending Approval",
+      "recommendation": "Validate the core value proposition with a smoke-test landing page before full build.",
+      "decision": "DEFERRED - Decision deferred pending completion of the feasibility study and initial risk assessment. Team to strengthen the business case and re-present at the next steering committee.",
+      "budget_allocation": "$48,000",
+      "action_items": [
+        "Meera Patel: Submit vendor shortlist and commercial terms for review - Due: 04 April 2023",
+        "Ananya Singh: Coordinate stakeholder communication pack - Due: 04 April 2023"
+      ]
+    }
+  ]
+}

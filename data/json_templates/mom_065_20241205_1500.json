@@ -1,0 +1,60 @@
+{
+  "meeting_number": 65,
+  "meeting_type": "Planning Session",
+  "date": "05 December 2024",
+  "time": "15:00",
+  "organizer": "Riya Joshi",
+  "location": "Conference Room 3",
+  "projects": [
+    {
+      "project_name": "Data Warehouse Modernisation",
+      "project_id": "PRJ-0106",
+      "status": "Active - On Track",
+      "recommendation": "Accelerate the remaining 25 source system pipelines; current velocity is sufficient to meet the deadline.",
+      "decision": "PILOT APPROVED - Phase 3 milestones met. Pilot approved for a single-tenant deployment for one key client. Full rollout contingent on pilot KPIs being met within 12 weeks. Budget of $380,000 released for pilot phase.",
+      "budget_allocation": "$250,000",
+      "action_items": [
+        "Sneha Gupta: Circulate resource allocation plan for the next sprint - Due: 02 January 2025",
+        "Nisha Iyer: Circulate dependency mapping with the platform team - Due: 02 January 2025"
+      ]
+    },
+    {
+      "project_name": "Strategic Partnership - FinTech Hub",
+      "project_id": "PRJ-0116",
+      "status": "Active - Slightly Delayed",
+      "recommendation": "Approve the market entry strategy and proceed to due diligence.",
+      "decision": "ON HOLD - Phase 1 temporarily placed on hold due to resource conflicts with the ERP programme. A resume decision will be revisited in 8 weeks once capacity is confirmed.",
+      "budget_allocation": "$24,000",
+      "action_items": [
+        "Pooja Krishnan: Present training schedule for all impacted teams - Due: 02 January 2025",
+        "Sameer Rao: Finalise risk register with latest assessment to the programme office - Due: 02 January 2025"
+      ]
+    },
+    {
+      "project_name": "Singapore Office Expansion",
+      "project_id": "PRJ-0133",
+      "status": "Active - On Track",
+      "recommendation": "Complete the security validation before moving workloads to the new infrastructure.",
+      "decision": "APPROVED - Phase 2 deliverables reviewed and approved to continue. Progress is on track and within budget. Revised budget of GBP 40,000 approved following scope clarification.",
+      "budget_allocation": "$250,000",
+      "action_items": [
+        "Riya Joshi: Submit training schedule for all impacted teams - Due: 02 January 2025",
+        "Kavya Reddy: Coordinate updated project plan and revised timeline to all stakeholders - Due: 02 January 2025",
+        "Kavya Reddy: Coordinate dependency mapping with the platform team - Due: 02 January 2025"
+      ]
+    },
+    {
+      "project_name": "Cybersecurity Incident Response Platform",
+      "project_id": "PRJ-0131",
+      "status": "Active - On Track",
+      "recommendation": "Resolve the legacy system integration issue before advancing; do not carry it forward.",
+      "decision": "PILOT APPROVED - Phase 3 milestones met. Pilot approved for two pilot regions (North and East). Full rollout contingent on pilot KPIs being met within 12 weeks. Budget of GBP 75,000 released for pilot phase.",
+      "budget_allocation": "$180,000",
+      "action_items": [
+        "Riya Joshi: Coordinate go/no-go recommendation to the steering committee - Due: 02 January 2025",
+        "Nisha Iyer: Review vendor shortlist and commercial terms for review - Due: 02 January 2025",
+        "Sameer Rao: Publish vendor shortlist and commercial terms for review - Due: 02 January 2025"
+      ]
+    }
+  ]
+}

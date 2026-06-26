@@ -1,0 +1,61 @@
+{
+  "meeting_number": 70,
+  "meeting_type": "All-Hands Update",
+  "date": "28 January 2025",
+  "time": "10:00",
+  "organizer": "Lakshmi Venkat",
+  "location": "Innovation Hub, Floor 4",
+  "projects": [
+    {
+      "project_name": "Disaster Recovery and BCP Upgrade",
+      "project_id": "PRJ-0114",
+      "status": "Active - On Track",
+      "recommendation": "Approve the switchover date and communicate to all affected business units.",
+      "decision": "PILOT APPROVED - Phase 3 milestones met. Pilot approved for two pilot regions (North and East). Full rollout contingent on pilot KPIs being met within 12 weeks. Budget of $95,000 released for pilot phase.",
+      "budget_allocation": "$48,000",
+      "action_items": [
+        "Kavya Reddy: Prepare dependency mapping with the platform team - Due: 11 March 2025",
+        "Dinesh Kumar: Prepare updated project plan and revised timeline to all stakeholders - Due: 11 March 2025",
+        "Arjun Mehta: Prepare stakeholder communication pack - Due: 11 March 2025"
+      ]
+    },
+    {
+      "project_name": "Kubernetes Platform Rollout",
+      "project_id": "PRJ-0126",
+      "status": "Active - On Track",
+      "recommendation": "Allocate two additional senior engineers to the critical path to recover the 2-week delay.",
+      "decision": "APPROVED - Phase 2 deliverables reviewed and approved to continue. Progress is on track and within budget. Revised budget of EUR 60,000 approved following scope clarification.",
+      "budget_allocation": "GBP 75,000",
+      "action_items": [
+        "Ananya Singh: Publish post-implementation review agenda - Due: 11 March 2025",
+        "Marcus Webb: Coordinate change management plan - Due: 11 March 2025",
+        "Dinesh Kumar: Publish KPI dashboard with updated metrics - Due: 11 March 2025"
+      ]
+    },
+    {
+      "project_name": "Global Payroll Consolidation",
+      "project_id": "PRJ-0130",
+      "status": "Active - On Track",
+      "recommendation": "Approve the data migration plan; accuracy levels meet the go/no-go threshold.",
+      "decision": "APPROVED - Phase 2 deliverables reviewed and approved to continue. Progress is on track and within budget. Revised budget of $95,000 approved following scope clarification.",
+      "budget_allocation": "$24,000",
+      "action_items": [
+        "Sara Lopez: Finalise change management plan - Due: 11 March 2025",
+        "Aisha Mahmood: Review resource allocation plan for the next sprint - Due: 11 March 2025",
+        "Aisha Mahmood: Circulate revised budget breakdown to Finance for approval - Due: 11 March 2025"
+      ]
+    },
+    {
+      "project_name": "Revenue Optimisation Initiative",
+      "project_id": "PRJ-0113",
+      "status": "Completed",
+      "recommendation": "Transition ongoing financial monitoring to the BAU Finance team.",
+      "decision": "APPROVED - Project formally closed following a successful hypercare period. All KPIs met. Post-implementation review scheduled for next quarter. Project transitioned to BAU.",
+      "budget_allocation": "$24,000",
+      "action_items": [
+        "James Thornton: Coordinate stakeholder communication pack - Due: 11 March 2025",
+        "Oliver Grant: Coordinate revised budget breakdown to Finance for approval - Due: 11 March 2025"
+      ]
+    }
+  ]
+}

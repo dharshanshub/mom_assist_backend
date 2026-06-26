@@ -1,0 +1,60 @@
+{
+  "meeting_number": 79,
+  "meeting_type": "Portfolio Review",
+  "date": "15 May 2025",
+  "time": "15:30",
+  "organizer": "Aisha Mahmood",
+  "location": "Executive Suite",
+  "projects": [
+    {
+      "project_name": "Cloud Infrastructure Migration",
+      "project_id": "PRJ-0101",
+      "status": "Active - On Track",
+      "recommendation": "Proceed to Phase 3 — all Phase 2 exit criteria have been met.",
+      "decision": "PILOT APPROVED - Phase 3 milestones met. Pilot approved for two pilot regions (North and East). Full rollout contingent on pilot KPIs being met within 12 weeks. Budget of $250,000 released for pilot phase.",
+      "budget_allocation": "GBP 40,000",
+      "action_items": [
+        "Oliver Grant: Coordinate stakeholder communication pack - Due: 26 June 2025",
+        "Meera Patel: Submit change management plan - Due: 26 June 2025"
+      ]
+    },
+    {
+      "project_name": "Real-Time Fraud Detection System",
+      "project_id": "PRJ-0120",
+      "status": "Active - On Track",
+      "recommendation": "Formally close the project; all deliverables accepted by business stakeholders.",
+      "decision": "APPROVED - User Acceptance Testing completed with all critical defects resolved. Project approved to proceed to Go-Live Preparation. Final budget of EUR 60,000 confirmed.",
+      "budget_allocation": "GBP 75,000",
+      "action_items": [
+        "Thomas Edgerton: Prepare change management plan - Due: 26 June 2025",
+        "Nathan Forrest: Circulate post-implementation review agenda - Due: 26 June 2025"
+      ]
+    },
+    {
+      "project_name": "Product Data Mesh Initiative",
+      "project_id": "PRJ-0128",
+      "status": "Active - On Track",
+      "recommendation": "Invest in automated data quality monitoring to prevent regression during scale-out.",
+      "decision": "PILOT APPROVED - Phase 3 milestones met. Pilot approved for a 3-month internal beta with 50 users. Full rollout contingent on pilot KPIs being met within 12 weeks. Budget of $250,000 released for pilot phase.",
+      "budget_allocation": "GBP 75,000",
+      "action_items": [
+        "Fatima Al-Hassan: Submit vendor shortlist and commercial terms for review - Due: 26 June 2025",
+        "Kavya Reddy: Finalise change management plan - Due: 26 June 2025",
+        "Lakshmi Venkat: Deliver risk register with latest assessment to the programme office - Due: 26 June 2025"
+      ]
+    },
+    {
+      "project_name": "Next-Gen CRM Implementation",
+      "project_id": "PRJ-0125",
+      "status": "Active - On Track",
+      "recommendation": "Adopt the new playbook as the global sales standard.",
+      "decision": "APPROVED - User Acceptance Testing completed with all critical defects resolved. Project approved to proceed to Go-Live Preparation. Final budget of GBP 150,000 confirmed.",
+      "budget_allocation": "GBP 40,000",
+      "action_items": [
+        "Arjun Mehta: Coordinate vendor shortlist and commercial terms for review - Due: 26 June 2025",
+        "Carlos Mendez: Deliver post-implementation review agenda - Due: 26 June 2025",
+        "Carlos Mendez: Finalise technical architecture diagram for sign-off - Due: 26 June 2025"
+      ]
+    }
+  ]
+}

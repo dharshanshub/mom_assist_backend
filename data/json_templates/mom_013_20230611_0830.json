@@ -1,0 +1,61 @@
+{
+  "meeting_number": 13,
+  "meeting_type": "Board Meeting",
+  "date": "11 June 2023",
+  "time": "08:30",
+  "organizer": "Arjun Mehta",
+  "location": "Innovation Hub, Floor 4",
+  "projects": [
+    {
+      "project_name": "Automated Testing Framework",
+      "project_id": "PRJ-0117",
+      "status": "Pending Approval",
+      "recommendation": "Complete the proof of concept before committing to a full build; de-risk the approach.",
+      "decision": "DEFERRED - Decision deferred pending completion of the feasibility study and initial risk assessment. Team to strengthen the business case and re-present at the next steering committee.",
+      "budget_allocation": "$380,000",
+      "action_items": [
+        "Thomas Edgerton: Complete legal review of the contract amendment - Due: 25 June 2023",
+        "Meera Patel: Review technical architecture diagram for sign-off - Due: 25 June 2023",
+        "Carlos Mendez: Finalise training schedule for all impacted teams - Due: 25 June 2023"
+      ]
+    },
+    {
+      "project_name": "AI Customer Support Bot",
+      "project_id": "PRJ-0139",
+      "status": "Pending Approval",
+      "recommendation": "Commission a usability study before finalising the information architecture.",
+      "decision": "DEFERRED - Decision deferred pending completion of the feasibility study and initial risk assessment. Team to strengthen the business case and re-present at the next steering committee.",
+      "budget_allocation": "$95,000",
+      "action_items": [
+        "Sara Lopez: Coordinate updated project plan and revised timeline to all stakeholders - Due: 25 June 2023",
+        "Carlos Mendez: Complete risk register with latest assessment to the programme office - Due: 25 June 2023"
+      ]
+    },
+    {
+      "project_name": "AI-Powered Analytics Platform",
+      "project_id": "PRJ-0104",
+      "status": "Pending Approval",
+      "recommendation": "Appoint a dedicated data governance lead before the programme goes beyond discovery.",
+      "decision": "DEFERRED - Decision deferred pending completion of the feasibility study and initial risk assessment. Team to strengthen the business case and re-present at the next steering committee.",
+      "budget_allocation": "$24,000",
+      "action_items": [
+        "Riya Joshi: Finalise revised budget breakdown to Finance for approval - Due: 25 June 2023",
+        "Pooja Krishnan: Complete training schedule for all impacted teams - Due: 25 June 2023",
+        "Pooja Krishnan: Present KPI dashboard with updated metrics - Due: 25 June 2023"
+      ]
+    },
+    {
+      "project_name": "API Gateway and Microservices Rollout",
+      "project_id": "PRJ-0112",
+      "status": "Active - Slightly Delayed",
+      "recommendation": "Engage a specialist security architect to validate the design before Phase 1 commences.",
+      "decision": "ON HOLD - Phase 1 temporarily placed on hold due to resource conflicts with the ERP programme. A resume decision will be revisited in 8 weeks once capacity is confirmed.",
+      "budget_allocation": "$180,000",
+      "action_items": [
+        "Sneha Gupta: Prepare stakeholder communication pack - Due: 25 June 2023",
+        "Dinesh Kumar: Submit stakeholder communication pack - Due: 25 June 2023",
+        "Pooja Krishnan: Circulate revised budget breakdown to Finance for approval - Due: 25 June 2023"
+      ]
+    }
+  ]
+}

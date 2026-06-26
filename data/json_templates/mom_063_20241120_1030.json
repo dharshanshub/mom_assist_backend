@@ -1,0 +1,60 @@
+{
+  "meeting_number": 63,
+  "meeting_type": "All-Hands Update",
+  "date": "20 November 2024",
+  "time": "10:30",
+  "organizer": "Riya Joshi",
+  "location": "Conference Room 3",
+  "projects": [
+    {
+      "project_name": "Customer Data Platform",
+      "project_id": "PRJ-0132",
+      "status": "Pending Approval",
+      "recommendation": "Prioritise data quality remediation in the top 5 source systems before pipeline build.",
+      "decision": "DEFERRED - Decision deferred pending completion of the feasibility study and initial risk assessment. Team to strengthen the business case and re-present at the next steering committee.",
+      "budget_allocation": "$380,000",
+      "action_items": [
+        "Rohan Sharma: Prepare change management plan - Due: 04 December 2024",
+        "Sneha Gupta: Complete post-implementation review agenda - Due: 04 December 2024"
+      ]
+    },
+    {
+      "project_name": "Singapore Office Expansion",
+      "project_id": "PRJ-0133",
+      "status": "Active - At Risk",
+      "recommendation": "Approve the switchover date and communicate to all affected business units.",
+      "decision": "APPROVED - Following resolution of the Phase 1 blockers, project reinstated and approved to advance to Phase 2. All pre-conditions have been met. Budget of $380,000 confirmed.",
+      "budget_allocation": "EUR 60,000",
+      "action_items": [
+        "Sara Lopez: Publish revised budget breakdown to Finance for approval - Due: 04 December 2024",
+        "Lakshmi Venkat: Circulate training schedule for all impacted teams - Due: 04 December 2024"
+      ]
+    },
+    {
+      "project_name": "Real-Time Fraud Detection System",
+      "project_id": "PRJ-0120",
+      "status": "Active - On Track",
+      "recommendation": "Invest in automated data quality monitoring to prevent regression during scale-out.",
+      "decision": "APPROVED - Phase 2 deliverables reviewed and approved to continue. Progress is on track and within budget. Revised budget of $24,000 approved following scope clarification.",
+      "budget_allocation": "$250,000",
+      "action_items": [
+        "Carlos Mendez: Prepare vendor shortlist and commercial terms for review - Due: 04 December 2024",
+        "Ananya Singh: Finalise post-implementation review agenda - Due: 04 December 2024",
+        "Sneha Gupta: Prepare change management plan - Due: 04 December 2024"
+      ]
+    },
+    {
+      "project_name": "Automated Testing Framework",
+      "project_id": "PRJ-0117",
+      "status": "Active - On Track",
+      "recommendation": "Proceed to Phase 3 — all Phase 2 exit criteria have been met.",
+      "decision": "PILOT APPROVED - Phase 3 milestones met. Pilot approved for two pilot regions (North and East). Full rollout contingent on pilot KPIs being met within 12 weeks. Budget of $95,000 released for pilot phase.",
+      "budget_allocation": "$120,000",
+      "action_items": [
+        "Aisha Mahmood: Complete dependency mapping with the platform team - Due: 04 December 2024",
+        "Sneha Gupta: Coordinate risk register with latest assessment to the programme office - Due: 04 December 2024",
+        "Lakshmi Venkat: Present resource allocation plan for the next sprint - Due: 04 December 2024"
+      ]
+    }
+  ]
+}

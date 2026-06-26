@@ -1,0 +1,61 @@
+{
+  "meeting_number": 89,
+  "meeting_type": "Client Steering Committee",
+  "date": "21 January 2026",
+  "time": "08:30",
+  "organizer": "Priya Nair",
+  "location": "Executive Suite",
+  "projects": [
+    {
+      "project_name": "Cloud Infrastructure Migration",
+      "project_id": "PRJ-0101",
+      "status": "Active - On Track",
+      "recommendation": "Approve go-live; all readiness checks passed and rollback plan is in place.",
+      "decision": "FAST-TRACKED - All go-live readiness criteria satisfied. Rollback plan signed off by the CTO. Project fast-tracked to launch. Budget of $180,000 confirmed.",
+      "budget_allocation": "EUR 110,000",
+      "action_items": [
+        "Fatima Al-Hassan: Complete stakeholder communication pack - Due: 04 March 2026",
+        "Meera Patel: Review legal review of the contract amendment - Due: 04 March 2026",
+        "Meera Patel: Complete post-implementation review agenda - Due: 04 March 2026"
+      ]
+    },
+    {
+      "project_name": "Next-Gen CRM Implementation",
+      "project_id": "PRJ-0125",
+      "status": "Active - On Track",
+      "recommendation": "Transition ongoing sales enablement to the Revenue Operations team.",
+      "decision": "FAST-TRACKED - All go-live readiness criteria satisfied. Rollback plan signed off by the CTO. Project fast-tracked to launch. Budget of $500,000 confirmed.",
+      "budget_allocation": "GBP 40,000",
+      "action_items": [
+        "Dinesh Kumar: Finalise dependency mapping with the platform team - Due: 04 March 2026",
+        "Meera Patel: Finalise stakeholder communication pack - Due: 04 March 2026"
+      ]
+    },
+    {
+      "project_name": "Cost Optimisation Programme",
+      "project_id": "PRJ-0123",
+      "status": "Completed",
+      "recommendation": "Transition ongoing financial monitoring to the BAU Finance team.",
+      "decision": "APPROVED - Project formally closed following a successful hypercare period. All KPIs met. Post-implementation review scheduled for next quarter. Project transitioned to BAU.",
+      "budget_allocation": "$380,000",
+      "action_items": [
+        "Sameer Rao: Deliver updated project plan and revised timeline to all stakeholders - Due: 04 March 2026",
+        "Carlos Mendez: Publish training schedule for all impacted teams - Due: 04 March 2026",
+        "Meera Patel: Review dependency mapping with the platform team - Due: 04 March 2026"
+      ]
+    },
+    {
+      "project_name": "Mobile App v3.0 Launch",
+      "project_id": "PRJ-0105",
+      "status": "Active - On Track",
+      "recommendation": "Close the project and transition ownership to the product operations team.",
+      "decision": "APPROVED - User Acceptance Testing completed with all critical defects resolved. Project approved to proceed to Go-Live Preparation. Final budget of EUR 60,000 confirmed.",
+      "budget_allocation": "EUR 60,000",
+      "action_items": [
+        "Thomas Edgerton: Present dependency mapping with the platform team - Due: 04 March 2026",
+        "Pooja Krishnan: Deliver KPI dashboard with updated metrics - Due: 04 March 2026",
+        "Kavya Reddy: Circulate legal review of the contract amendment - Due: 04 March 2026"
+      ]
+    }
+  ]
+}

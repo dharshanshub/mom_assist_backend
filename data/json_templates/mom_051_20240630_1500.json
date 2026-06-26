@@ -1,0 +1,60 @@
+{
+  "meeting_number": 51,
+  "meeting_type": "Planning Session",
+  "date": "30 June 2024",
+  "time": "15:00",
+  "organizer": "Marcus Webb",
+  "location": "Conference Room 3",
+  "projects": [
+    {
+      "project_name": "Workforce Analytics Dashboard",
+      "project_id": "PRJ-0140",
+      "status": "Pending Approval",
+      "recommendation": "Approve the HR transformation roadmap and proceed to vendor selection.",
+      "decision": "DEFERRED - Decision deferred pending completion of the feasibility study and initial risk assessment. Team to strengthen the business case and re-present at the next steering committee.",
+      "budget_allocation": "$24,000",
+      "action_items": [
+        "Ananya Singh: Publish updated project plan and revised timeline to all stakeholders - Due: 28 July 2024",
+        "Meera Patel: Publish post-implementation review agenda - Due: 28 July 2024",
+        "Meera Patel: Finalise post-implementation review agenda - Due: 28 July 2024"
+      ]
+    },
+    {
+      "project_name": "HR Digital Transformation",
+      "project_id": "PRJ-0109",
+      "status": "Pending Approval",
+      "recommendation": "Commission a detailed change impact assessment before communicating to staff.",
+      "decision": "DEFERRED - Decision deferred pending completion of the feasibility study and initial risk assessment. Team to strengthen the business case and re-present at the next steering committee.",
+      "budget_allocation": "$250,000",
+      "action_items": [
+        "Ethan Brooks: Complete stakeholder communication pack - Due: 28 July 2024",
+        "Carlos Mendez: Deliver legal review of the contract amendment - Due: 28 July 2024"
+      ]
+    },
+    {
+      "project_name": "Partner Portal Launch",
+      "project_id": "PRJ-0138",
+      "status": "Pending Approval",
+      "recommendation": "Approve the market entry strategy and proceed to due diligence.",
+      "decision": "DEFERRED - Decision deferred pending completion of the feasibility study and initial risk assessment. Team to strengthen the business case and re-present at the next steering committee.",
+      "budget_allocation": "EUR 110,000",
+      "action_items": [
+        "Pooja Krishnan: Prepare change management plan - Due: 28 July 2024",
+        "Vivek Nambiar: Complete risk register with latest assessment to the programme office - Due: 28 July 2024"
+      ]
+    },
+    {
+      "project_name": "Automated Testing Framework",
+      "project_id": "PRJ-0117",
+      "status": "Active - At Risk",
+      "recommendation": "Proceed to Phase 3 — all Phase 2 exit criteria have been met.",
+      "decision": "APPROVED - Following resolution of the Phase 1 blockers, project reinstated and approved to advance to Phase 2. All pre-conditions have been met. Budget of $380,000 confirmed.",
+      "budget_allocation": "GBP 40,000",
+      "action_items": [
+        "Ethan Brooks: Review resource allocation plan for the next sprint - Due: 28 July 2024",
+        "Carlos Mendez: Complete dependency mapping with the platform team - Due: 28 July 2024",
+        "Diana Petrov: Deliver training schedule for all impacted teams - Due: 28 July 2024"
+      ]
+    }
+  ]
+}

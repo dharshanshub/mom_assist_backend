@@ -1,0 +1,85 @@
+{
+  "meeting_number": 11,
+  "meeting_type": "Planning Session",
+  "date": "02 April 2024",
+  "time": "15:30",
+  "organizer": "Fatima Al-Hassan",
+  "location": "Innovation Hub, Floor 4",
+  "projects": [
+    {
+      "project_name": "Cybersecurity Incident Response Platform",
+      "project_id": "PRJ-0131",
+      "status": "Active - At Risk",
+      "recommendation": "Proceed to Phase 3 — all Phase 2 exit criteria have been met.",
+      "decision": "APPROVED - Following resolution of the Phase 1 blockers, project reinstated and approved to advance to Phase 2. All pre-conditions have been met. Budget of EUR 110,000 confirmed.",
+      "budget_allocation": "GBP 150,000",
+      "action_items": [
+        "Aisha Mahmood: Finalise training schedule for all impacted teams - Due: 30 April 2024",
+        "Meera Patel: Circulate risk register with latest assessment to the programme office - Due: 30 April 2024",
+        "Meera Patel: Circulate go/no-go recommendation to the steering committee - Due: 30 April 2024"
+      ]
+    },
+    {
+      "project_name": "AI-Powered Analytics Platform",
+      "project_id": "PRJ-0104",
+      "status": "Active - On Track",
+      "recommendation": "Proceed to UAT; data accuracy metrics are consistently above the 90% threshold.",
+      "decision": "APPROVED - Phase 2 deliverables reviewed and approved to continue. Progress is on track and within budget. Revised budget of EUR 60,000 approved following scope clarification.",
+      "budget_allocation": "$250,000",
+      "action_items": [
+        "Nisha Iyer: Complete change management plan - Due: 30 April 2024",
+        "Arjun Mehta: Review legal review of the contract amendment - Due: 30 April 2024"
+      ]
+    },
+    {
+      "project_name": "Real-Time Fraud Detection System",
+      "project_id": "PRJ-0120",
+      "status": "Active - On Track",
+      "recommendation": "Accelerate the remaining 25 source system pipelines; current velocity is sufficient to meet the deadline.",
+      "decision": "PILOT APPROVED - Phase 3 milestones met. Pilot approved for two pilot regions (North and East). Full rollout contingent on pilot KPIs being met within 12 weeks. Budget of $180,000 released for pilot phase.",
+      "budget_allocation": "GBP 75,000",
+      "action_items": [
+        "Nathan Forrest: Present go/no-go recommendation to the steering committee - Due: 30 April 2024",
+        "Ethan Brooks: Publish KPI dashboard with updated metrics - Due: 30 April 2024",
+        "Ethan Brooks: Circulate KPI dashboard with updated metrics - Due: 30 April 2024"
+      ]
+    },
+    {
+      "project_name": "Zero-Trust Network Security Overhaul",
+      "project_id": "PRJ-0108",
+      "status": "Active - At Risk",
+      "recommendation": "Proceed to Phase 3 — all Phase 2 exit criteria have been met.",
+      "decision": "APPROVED - Following resolution of the Phase 1 blockers, project reinstated and approved to advance to Phase 2. All pre-conditions have been met. Budget of $95,000 confirmed.",
+      "budget_allocation": "EUR 110,000",
+      "action_items": [
+        "Diana Petrov: Prepare updated project plan and revised timeline to all stakeholders - Due: 30 April 2024",
+        "Ethan Brooks: Circulate change management plan - Due: 30 April 2024",
+        "Ethan Brooks: Coordinate go/no-go recommendation to the steering committee - Due: 30 April 2024"
+      ]
+    },
+    {
+      "project_name": "SOC 2 Type II Compliance",
+      "project_id": "PRJ-0111",
+      "status": "Active - Slightly Delayed",
+      "recommendation": "Engage external legal counsel before proceeding; regulatory interpretation is complex.",
+      "decision": "ON HOLD - Phase 1 temporarily placed on hold due to resource conflicts with the ERP programme. A resume decision will be revisited in 8 weeks once capacity is confirmed.",
+      "budget_allocation": "GBP 40,000",
+      "action_items": [
+        "Sameer Rao: Coordinate stakeholder communication pack - Due: 30 April 2024",
+        "Carlos Mendez: Finalise KPI dashboard with updated metrics - Due: 30 April 2024"
+      ]
+    },
+    {
+      "project_name": "Data Warehouse Modernisation",
+      "project_id": "PRJ-0106",
+      "status": "Active - On Track",
+      "recommendation": "Invest in automated data quality monitoring to prevent regression during scale-out.",
+      "decision": "PILOT APPROVED - Phase 3 milestones met. Pilot approved for two pilot regions (North and East). Full rollout contingent on pilot KPIs being met within 12 weeks. Budget of $380,000 released for pilot phase.",
+      "budget_allocation": "$48,000",
+      "action_items": [
+        "Arjun Mehta: Circulate legal review of the contract amendment - Due: 30 April 2024",
+        "Arjun Mehta: Publish post-implementation review agenda - Due: 30 April 2024"
+      ]
+    }
+  ]
+}

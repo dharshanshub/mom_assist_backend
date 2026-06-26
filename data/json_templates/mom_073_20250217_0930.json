@@ -1,0 +1,60 @@
+{
+  "meeting_number": 73,
+  "meeting_type": "Portfolio Review",
+  "date": "17 February 2025",
+  "time": "09:30",
+  "organizer": "Ethan Brooks",
+  "location": "Zoom (Remote)",
+  "projects": [
+    {
+      "project_name": "Next-Gen CRM Implementation",
+      "project_id": "PRJ-0125",
+      "status": "Active - On Track",
+      "recommendation": "Accelerate adoption of the new playbook; current 78% rate risks missing the target.",
+      "decision": "PILOT APPROVED - Phase 3 milestones met. Pilot approved for a 3-month internal beta with 50 users. Full rollout contingent on pilot KPIs being met within 12 weeks. Budget of $380,000 released for pilot phase.",
+      "budget_allocation": "GBP 75,000",
+      "action_items": [
+        "Ethan Brooks: Publish risk register with latest assessment to the programme office - Due: 14 April 2025",
+        "Pooja Krishnan: Review stakeholder communication pack - Due: 14 April 2025"
+      ]
+    },
+    {
+      "project_name": "Vendor Rationalisation",
+      "project_id": "PRJ-0127",
+      "status": "Active - On Track",
+      "recommendation": "Proceed with the vendor transition as planned; parallel running is performing well.",
+      "decision": "APPROVED - Phase 2 deliverables reviewed and approved to continue. Progress is on track and within budget. Revised budget of GBP 150,000 approved following scope clarification.",
+      "budget_allocation": "EUR 60,000",
+      "action_items": [
+        "Lakshmi Venkat: Circulate stakeholder communication pack - Due: 14 April 2025",
+        "Vivek Nambiar: Publish vendor shortlist and commercial terms for review - Due: 14 April 2025",
+        "Sneha Gupta: Coordinate post-implementation review agenda - Due: 14 April 2025"
+      ]
+    },
+    {
+      "project_name": "Singapore Office Expansion",
+      "project_id": "PRJ-0133",
+      "status": "Active - On Track",
+      "recommendation": "Approve the switchover date and communicate to all affected business units.",
+      "decision": "APPROVED - Phase 2 deliverables reviewed and approved to continue. Progress is on track and within budget. Revised budget of GBP 150,000 approved following scope clarification.",
+      "budget_allocation": "EUR 60,000",
+      "action_items": [
+        "Aisha Mahmood: Circulate KPI dashboard with updated metrics - Due: 14 April 2025",
+        "Riya Joshi: Complete technical architecture diagram for sign-off - Due: 14 April 2025"
+      ]
+    },
+    {
+      "project_name": "SOC 2 Type II Compliance",
+      "project_id": "PRJ-0111",
+      "status": "Active - On Track",
+      "recommendation": "Proceed to the next phase of control implementation; evidence gathering is on track.",
+      "decision": "PILOT APPROVED - Phase 3 milestones met. Pilot approved for two pilot regions (North and East). Full rollout contingent on pilot KPIs being met within 12 weeks. Budget of EUR 60,000 released for pilot phase.",
+      "budget_allocation": "$250,000",
+      "action_items": [
+        "Vivek Nambiar: Review stakeholder communication pack - Due: 14 April 2025",
+        "Diana Petrov: Deliver vendor shortlist and commercial terms for review - Due: 14 April 2025",
+        "Sneha Gupta: Circulate go/no-go recommendation to the steering committee - Due: 14 April 2025"
+      ]
+    }
+  ]
+}

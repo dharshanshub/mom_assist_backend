@@ -1,0 +1,61 @@
+{
+  "meeting_number": 84,
+  "meeting_type": "Planning Session",
+  "date": "04 August 2025",
+  "time": "09:00",
+  "organizer": "Pooja Krishnan",
+  "location": "Zoom (Remote)",
+  "projects": [
+    {
+      "project_name": "Customer Portal Redesign",
+      "project_id": "PRJ-0102",
+      "status": "Active - On Track",
+      "recommendation": "Approve full public launch; beta results consistently exceed success benchmarks.",
+      "decision": "FAST-TRACKED - All go-live readiness criteria satisfied. Rollback plan signed off by the CTO. Project fast-tracked to launch. Budget of GBP 40,000 confirmed.",
+      "budget_allocation": "EUR 110,000",
+      "action_items": [
+        "Sara Lopez: Submit legal review of the contract amendment - Due: 15 September 2025",
+        "Fatima Al-Hassan: Circulate vendor shortlist and commercial terms for review - Due: 15 September 2025",
+        "Thomas Edgerton: Finalise training schedule for all impacted teams - Due: 15 September 2025"
+      ]
+    },
+    {
+      "project_name": "APAC Market Expansion",
+      "project_id": "PRJ-0107",
+      "status": "Active - On Track",
+      "recommendation": "Publish the business case validation report to the board.",
+      "decision": "APPROVED - User Acceptance Testing completed with all critical defects resolved. Project approved to proceed to Go-Live Preparation. Final budget of GBP 150,000 confirmed.",
+      "budget_allocation": "GBP 40,000",
+      "action_items": [
+        "Lakshmi Venkat: Finalise go/no-go recommendation to the steering committee - Due: 15 September 2025",
+        "Fatima Al-Hassan: Review dependency mapping with the platform team - Due: 15 September 2025",
+        "Ananya Singh: Prepare change management plan - Due: 15 September 2025"
+      ]
+    },
+    {
+      "project_name": "Zero-Trust Network Security Overhaul",
+      "project_id": "PRJ-0108",
+      "status": "Active - On Track",
+      "recommendation": "Close the project formally and capture lessons learned before the team disperses.",
+      "decision": "FAST-TRACKED - All go-live readiness criteria satisfied. Rollback plan signed off by the CTO. Project fast-tracked to launch. Budget of EUR 110,000 confirmed.",
+      "budget_allocation": "EUR 110,000",
+      "action_items": [
+        "Marcus Webb: Publish technical architecture diagram for sign-off - Due: 15 September 2025",
+        "Fatima Al-Hassan: Prepare resource allocation plan for the next sprint - Due: 15 September 2025",
+        "Fatima Al-Hassan: Deliver dependency mapping with the platform team - Due: 15 September 2025"
+      ]
+    },
+    {
+      "project_name": "Internal Developer Platform",
+      "project_id": "PRJ-0134",
+      "status": "Completed",
+      "recommendation": "Close the project formally and capture lessons learned before the team disperses.",
+      "decision": "APPROVED - Project formally closed following a successful hypercare period. All KPIs met. Post-implementation review scheduled for next quarter. Project transitioned to BAU.",
+      "budget_allocation": "EUR 110,000",
+      "action_items": [
+        "James Thornton: Coordinate post-implementation review agenda - Due: 15 September 2025",
+        "Ananya Singh: Finalise training schedule for all impacted teams - Due: 15 September 2025"
+      ]
+    }
+  ]
+}

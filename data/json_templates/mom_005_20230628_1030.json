@@ -1,0 +1,84 @@
+{
+  "meeting_number": 5,
+  "meeting_type": "Programme Retrospective",
+  "date": "28 June 2023",
+  "time": "10:30",
+  "organizer": "Aisha Mahmood",
+  "location": "Microsoft Teams (Hybrid)",
+  "projects": [
+    {
+      "project_name": "Revenue Optimisation Initiative",
+      "project_id": "PRJ-0113",
+      "status": "Active - Slightly Delayed",
+      "recommendation": "Approve the business case and release the initial project budget.",
+      "decision": "ON HOLD - Phase 1 temporarily placed on hold due to resource conflicts with the ERP programme. A resume decision will be revisited in 8 weeks once capacity is confirmed.",
+      "budget_allocation": "$180,000",
+      "action_items": [
+        "Nathan Forrest: Finalise training schedule for all impacted teams - Due: 09 August 2023",
+        "Thomas Edgerton: Present change management plan - Due: 09 August 2023"
+      ]
+    },
+    {
+      "project_name": "Supply Chain Digitalisation",
+      "project_id": "PRJ-0118",
+      "status": "Pending Approval",
+      "recommendation": "Complete the change impact assessment before communicating to affected staff.",
+      "decision": "DEFERRED - Decision deferred pending completion of the feasibility study and initial risk assessment. Team to strengthen the business case and re-present at the next steering committee.",
+      "budget_allocation": "EUR 60,000",
+      "action_items": [
+        "Nathan Forrest: Complete risk register with latest assessment to the programme office - Due: 09 August 2023",
+        "Nathan Forrest: Complete KPI dashboard with updated metrics - Due: 09 August 2023"
+      ]
+    },
+    {
+      "project_name": "Customer Loyalty Programme",
+      "project_id": "PRJ-0110",
+      "status": "Active - On Track",
+      "recommendation": "Proceed with the selected media agency; terms are competitive and scope is well-defined.",
+      "decision": "APPROVED WITH CONDITIONS - Project approved to proceed to Phase 1, subject to: security audit sign-off by the CISO and legal review of data residency requirements. Budget of GBP 75,000 confirmed.",
+      "budget_allocation": "$180,000",
+      "action_items": [
+        "Rohan Sharma: Publish legal review of the contract amendment - Due: 09 August 2023",
+        "Nathan Forrest: Prepare risk register with latest assessment to the programme office - Due: 09 August 2023",
+        "Nathan Forrest: Circulate technical architecture diagram for sign-off - Due: 09 August 2023"
+      ]
+    },
+    {
+      "project_name": "Internal Developer Platform",
+      "project_id": "PRJ-0134",
+      "status": "Pending Approval",
+      "recommendation": "Engage a specialist security architect to validate the design before Phase 1 commences.",
+      "decision": "DEFERRED - Decision deferred pending completion of the feasibility study and initial risk assessment. Team to strengthen the business case and re-present at the next steering committee.",
+      "budget_allocation": "$500,000",
+      "action_items": [
+        "Kavya Reddy: Prepare legal review of the contract amendment - Due: 09 August 2023",
+        "Thomas Edgerton: Finalise revised budget breakdown to Finance for approval - Due: 09 August 2023",
+        "Thomas Edgerton: Prepare risk register with latest assessment to the programme office - Due: 09 August 2023"
+      ]
+    },
+    {
+      "project_name": "Legacy System Decommission",
+      "project_id": "PRJ-0141",
+      "status": "Active - At Risk",
+      "recommendation": "Resolve the legacy system integration issue before advancing; do not carry it forward.",
+      "decision": "APPROVED - Following resolution of the Phase 1 blockers, project reinstated and approved to advance to Phase 2. All pre-conditions have been met. Budget of $380,000 confirmed.",
+      "budget_allocation": "$250,000",
+      "action_items": [
+        "Rohan Sharma: Review post-implementation review agenda - Due: 09 August 2023",
+        "Thomas Edgerton: Prepare risk register with latest assessment to the programme office - Due: 09 August 2023"
+      ]
+    },
+    {
+      "project_name": "Cybersecurity Incident Response Platform",
+      "project_id": "PRJ-0131",
+      "status": "Pending Approval",
+      "recommendation": "Complete the proof of concept before committing to a full build; de-risk the approach.",
+      "decision": "DEFERRED - Decision deferred pending completion of the feasibility study and initial risk assessment. Team to strengthen the business case and re-present at the next steering committee.",
+      "budget_allocation": "$180,000",
+      "action_items": [
+        "Arjun Mehta: Circulate technical architecture diagram for sign-off - Due: 09 August 2023",
+        "Dinesh Kumar: Prepare KPI dashboard with updated metrics - Due: 09 August 2023"
+      ]
+    }
+  ]
+}

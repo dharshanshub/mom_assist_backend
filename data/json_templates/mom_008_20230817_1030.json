@@ -1,0 +1,84 @@
+{
+  "meeting_number": 8,
+  "meeting_type": "Portfolio Review",
+  "date": "17 August 2023",
+  "time": "10:30",
+  "organizer": "Ananya Singh",
+  "location": "Conference Room 3",
+  "projects": [
+    {
+      "project_name": "Product Data Mesh Initiative",
+      "project_id": "PRJ-0128",
+      "status": "Pending Approval",
+      "recommendation": "Appoint a dedicated data governance lead before the programme goes beyond discovery.",
+      "decision": "DEFERRED - Decision deferred pending completion of the feasibility study and initial risk assessment. Team to strengthen the business case and re-present at the next steering committee.",
+      "budget_allocation": "$500,000",
+      "action_items": [
+        "Sara Lopez: Coordinate dependency mapping with the platform team - Due: 31 August 2023",
+        "Sneha Gupta: Submit training schedule for all impacted teams - Due: 31 August 2023"
+      ]
+    },
+    {
+      "project_name": "API Gateway and Microservices Rollout",
+      "project_id": "PRJ-0112",
+      "status": "Pending Approval",
+      "recommendation": "Engage a specialist security architect to validate the design before Phase 1 commences.",
+      "decision": "DEFERRED - Decision deferred pending completion of the feasibility study and initial risk assessment. Team to strengthen the business case and re-present at the next steering committee.",
+      "budget_allocation": "$250,000",
+      "action_items": [
+        "Fatima Al-Hassan: Finalise vendor shortlist and commercial terms for review - Due: 31 August 2023",
+        "Sara Lopez: Prepare risk register with latest assessment to the programme office - Due: 31 August 2023",
+        "Sara Lopez: Submit KPI dashboard with updated metrics - Due: 31 August 2023"
+      ]
+    },
+    {
+      "project_name": "HR Digital Transformation",
+      "project_id": "PRJ-0109",
+      "status": "Active - Slightly Delayed",
+      "recommendation": "Select the HRIS platform and proceed to contract negotiation.",
+      "decision": "ON HOLD - Phase 1 temporarily placed on hold due to resource conflicts with the ERP programme. A resume decision will be revisited in 8 weeks once capacity is confirmed.",
+      "budget_allocation": "$95,000",
+      "action_items": [
+        "Marcus Webb: Circulate KPI dashboard with updated metrics - Due: 31 August 2023",
+        "Sameer Rao: Coordinate updated project plan and revised timeline to all stakeholders - Due: 31 August 2023"
+      ]
+    },
+    {
+      "project_name": "Customer Portal Redesign",
+      "project_id": "PRJ-0102",
+      "status": "Active - Slightly Delayed",
+      "recommendation": "Proceed to design and prototyping; user research findings are clear and actionable.",
+      "decision": "ON HOLD - Phase 1 temporarily placed on hold due to resource conflicts with the ERP programme. A resume decision will be revisited in 8 weeks once capacity is confirmed.",
+      "budget_allocation": "$95,000",
+      "action_items": [
+        "Oliver Grant: Deliver technical architecture diagram for sign-off - Due: 31 August 2023",
+        "Nathan Forrest: Submit revised budget breakdown to Finance for approval - Due: 31 August 2023"
+      ]
+    },
+    {
+      "project_name": "Customer Journey Mapping",
+      "project_id": "PRJ-0144",
+      "status": "Active - On Track",
+      "recommendation": "Commission a follow-up brand tracking study to measure sustained impact.",
+      "decision": "APPROVED - User Acceptance Testing completed with all critical defects resolved. Project approved to proceed to Go-Live Preparation. Final budget of $380,000 confirmed.",
+      "budget_allocation": "$500,000",
+      "action_items": [
+        "Diana Petrov: Coordinate risk register with latest assessment to the programme office - Due: 31 August 2023",
+        "Oliver Grant: Publish vendor shortlist and commercial terms for review - Due: 31 August 2023",
+        "Nathan Forrest: Publish go/no-go recommendation to the steering committee - Due: 31 August 2023"
+      ]
+    },
+    {
+      "project_name": "SOC 2 Type II Compliance",
+      "project_id": "PRJ-0111",
+      "status": "Pending Approval",
+      "recommendation": "Engage external legal counsel before proceeding; regulatory interpretation is complex.",
+      "decision": "DEFERRED - Decision deferred pending completion of the feasibility study and initial risk assessment. Team to strengthen the business case and re-present at the next steering committee.",
+      "budget_allocation": "$95,000",
+      "action_items": [
+        "Aisha Mahmood: Prepare risk register with latest assessment to the programme office - Due: 31 August 2023",
+        "Sara Lopez: Circulate technical architecture diagram for sign-off - Due: 31 August 2023"
+      ]
+    }
+  ]
+}

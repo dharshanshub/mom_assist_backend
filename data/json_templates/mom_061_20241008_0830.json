@@ -1,0 +1,61 @@
+{
+  "meeting_number": 61,
+  "meeting_type": "All-Hands Update",
+  "date": "08 October 2024",
+  "time": "08:30",
+  "organizer": "Dinesh Kumar",
+  "location": "Conference Room 3",
+  "projects": [
+    {
+      "project_name": "Automated Testing Framework",
+      "project_id": "PRJ-0117",
+      "status": "Active - On Track",
+      "recommendation": "Resolve the legacy system integration issue before advancing; do not carry it forward.",
+      "decision": "PILOT APPROVED - Phase 3 milestones met. Pilot approved for two pilot regions (North and East). Full rollout contingent on pilot KPIs being met within 12 weeks. Budget of $120,000 released for pilot phase.",
+      "budget_allocation": "EUR 110,000",
+      "action_items": [
+        "Pooja Krishnan: Prepare risk register with latest assessment to the programme office - Due: 19 November 2024",
+        "Sneha Gupta: Review revised budget breakdown to Finance for approval - Due: 19 November 2024",
+        "Carlos Mendez: Submit risk register with latest assessment to the programme office - Due: 19 November 2024"
+      ]
+    },
+    {
+      "project_name": "Singapore Office Expansion",
+      "project_id": "PRJ-0133",
+      "status": "Active - At Risk",
+      "recommendation": "Complete the security validation before moving workloads to the new infrastructure.",
+      "decision": "APPROVED - Following resolution of the Phase 1 blockers, project reinstated and approved to advance to Phase 2. All pre-conditions have been met. Budget of $180,000 confirmed.",
+      "budget_allocation": "GBP 75,000",
+      "action_items": [
+        "Sameer Rao: Finalise change management plan - Due: 19 November 2024",
+        "Lakshmi Venkat: Present resource allocation plan for the next sprint - Due: 19 November 2024",
+        "Sameer Rao: Finalise revised budget breakdown to Finance for approval - Due: 19 November 2024"
+      ]
+    },
+    {
+      "project_name": "Cloud Infrastructure Migration",
+      "project_id": "PRJ-0101",
+      "status": "Active - At Risk",
+      "recommendation": "Allocate two additional senior engineers to the critical path to recover the 2-week delay.",
+      "decision": "APPROVED - Following resolution of the Phase 1 blockers, project reinstated and approved to advance to Phase 2. All pre-conditions have been met. Budget of $24,000 confirmed.",
+      "budget_allocation": "GBP 150,000",
+      "action_items": [
+        "Arjun Mehta: Review change management plan - Due: 19 November 2024",
+        "Carlos Mendez: Submit go/no-go recommendation to the steering committee - Due: 19 November 2024"
+      ]
+    },
+    {
+      "project_name": "Regulatory Reporting Automation",
+      "project_id": "PRJ-0137",
+      "status": "Active - At Risk",
+      "recommendation": "Approve the revised cost model and continue to Phase 3.",
+      "decision": "APPROVED - Following resolution of the Phase 1 blockers, project reinstated and approved to advance to Phase 2. All pre-conditions have been met. Budget of $48,000 confirmed.",
+      "budget_allocation": "GBP 75,000",
+      "action_items": [
+        "Diana Petrov: Circulate post-implementation review agenda - Due: 19 November 2024",
+        "Sameer Rao: Finalise go/no-go recommendation to the steering committee - Due: 19 November 2024",
+        "Sameer Rao: Present legal review of the contract amendment - Due: 19 November 2024"
+      ]
+    }
+  ]
+}

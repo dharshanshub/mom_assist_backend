@@ -1,0 +1,48 @@
+{
+  "meeting_number": 1,
+  "meeting_type": "Portfolio Review",
+  "date": "21 February 2023",
+  "time": "15:00",
+  "organizer": "Rohan Sharma",
+  "location": "Executive Suite",
+  "projects": [
+    {
+      "project_name": "Real-Time Fraud Detection System",
+      "project_id": "PRJ-0120",
+      "status": "Pending Approval",
+      "recommendation": "Prioritise data quality remediation in the top 5 source systems before pipeline build.",
+      "decision": "DEFERRED - Decision deferred pending completion of the feasibility study and initial risk assessment. Team to strengthen the business case and re-present at the next steering committee.",
+      "budget_allocation": "GBP 150,000",
+      "action_items": [
+        "Aisha Mahmood: Review training schedule for all impacted teams - Due: 07 March 2023",
+        "Dinesh Kumar: Publish revised budget breakdown to Finance for approval - Due: 07 March 2023"
+      ]
+    },
+    {
+      "project_name": "Next-Gen CRM Implementation",
+      "project_id": "PRJ-0125",
+      "status": "Pending Approval",
+      "recommendation": "Complete the CRM data quality cleanse before rolling out the new processes.",
+      "decision": "DEFERRED - Decision deferred pending completion of the feasibility study and initial risk assessment. Team to strengthen the business case and re-present at the next steering committee.",
+      "budget_allocation": "$500,000",
+      "action_items": [
+        "Dinesh Kumar: Finalise go/no-go recommendation to the steering committee - Due: 07 March 2023",
+        "Thomas Edgerton: Review KPI dashboard with updated metrics - Due: 07 March 2023",
+        "James Thornton: Prepare stakeholder communication pack - Due: 07 March 2023"
+      ]
+    },
+    {
+      "project_name": "Digital Marketing Automation",
+      "project_id": "PRJ-0129",
+      "status": "Pending Approval",
+      "recommendation": "Validate two creative routes through audience testing before committing to production.",
+      "decision": "DEFERRED - Decision deferred pending completion of the feasibility study and initial risk assessment. Team to strengthen the business case and re-present at the next steering committee.",
+      "budget_allocation": "$120,000",
+      "action_items": [
+        "Aisha Mahmood: Circulate risk register with latest assessment to the programme office - Due: 07 March 2023",
+        "Ethan Brooks: Finalise vendor shortlist and commercial terms for review - Due: 07 March 2023",
+        "Ethan Brooks: Submit updated project plan and revised timeline to all stakeholders - Due: 07 March 2023"
+      ]
+    }
+  ]
+}

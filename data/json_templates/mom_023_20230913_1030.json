@@ -1,0 +1,60 @@
+{
+  "meeting_number": 23,
+  "meeting_type": "Portfolio Review",
+  "date": "13 September 2023",
+  "time": "10:30",
+  "organizer": "Ananya Singh",
+  "location": "Conference Room 3",
+  "projects": [
+    {
+      "project_name": "AI-Powered Analytics Platform",
+      "project_id": "PRJ-0104",
+      "status": "Active - On Track",
+      "recommendation": "Approve the data platform architecture and proceed with vendor selection.",
+      "decision": "APPROVED WITH CONDITIONS - Project approved to proceed to Phase 1, subject to: security audit sign-off by the CISO and legal review of data residency requirements. Budget of GBP 150,000 confirmed.",
+      "budget_allocation": "GBP 40,000",
+      "action_items": [
+        "Nisha Iyer: Deliver training schedule for all impacted teams - Due: 27 September 2023",
+        "Sameer Rao: Deliver training schedule for all impacted teams - Due: 27 September 2023"
+      ]
+    },
+    {
+      "project_name": "Cybersecurity Incident Response Platform",
+      "project_id": "PRJ-0131",
+      "status": "Pending Approval",
+      "recommendation": "Complete the proof of concept before committing to a full build; de-risk the approach.",
+      "decision": "DEFERRED - Decision deferred pending completion of the feasibility study and initial risk assessment. Team to strengthen the business case and re-present at the next steering committee.",
+      "budget_allocation": "$500,000",
+      "action_items": [
+        "Diana Petrov: Submit technical architecture diagram for sign-off - Due: 27 September 2023",
+        "Fatima Al-Hassan: Present change management plan - Due: 27 September 2023",
+        "Fatima Al-Hassan: Present dependency mapping with the platform team - Due: 27 September 2023"
+      ]
+    },
+    {
+      "project_name": "Data Lakehouse Migration",
+      "project_id": "PRJ-0146",
+      "status": "Active - On Track",
+      "recommendation": "Proceed to UAT; data accuracy metrics are consistently above the 90% threshold.",
+      "decision": "APPROVED - Phase 2 deliverables reviewed and approved to continue. Progress is on track and within budget. Revised budget of $48,000 approved following scope clarification.",
+      "budget_allocation": "$48,000",
+      "action_items": [
+        "Aisha Mahmood: Finalise dependency mapping with the platform team - Due: 27 September 2023",
+        "Carlos Mendez: Publish go/no-go recommendation to the steering committee - Due: 27 September 2023",
+        "Carlos Mendez: Review post-implementation review agenda - Due: 27 September 2023"
+      ]
+    },
+    {
+      "project_name": "Technical Documentation Portal",
+      "project_id": "PRJ-0149",
+      "status": "Active - On Track",
+      "recommendation": "Allocate two additional senior engineers to the critical path to recover the 2-week delay.",
+      "decision": "PILOT APPROVED - Phase 3 milestones met. Pilot approved for a single-tenant deployment for one key client. Full rollout contingent on pilot KPIs being met within 12 weeks. Budget of EUR 60,000 released for pilot phase.",
+      "budget_allocation": "$380,000",
+      "action_items": [
+        "Sameer Rao: Deliver KPI dashboard with updated metrics - Due: 27 September 2023",
+        "Fatima Al-Hassan: Publish vendor shortlist and commercial terms for review - Due: 27 September 2023"
+      ]
+    }
+  ]
+}

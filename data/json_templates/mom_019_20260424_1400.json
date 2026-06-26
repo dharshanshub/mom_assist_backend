@@ -1,0 +1,85 @@
+{
+  "meeting_number": 19,
+  "meeting_type": "Programme Retrospective",
+  "date": "24 April 2026",
+  "time": "14:00",
+  "organizer": "Thomas Edgerton",
+  "location": "Microsoft Teams (Hybrid)",
+  "projects": [
+    {
+      "project_name": "Self-Service BI Dashboard",
+      "project_id": "PRJ-0122",
+      "status": "Completed",
+      "recommendation": "Approve production go-live; all data quality and performance benchmarks have been met.",
+      "decision": "APPROVED - Project formally closed following a successful hypercare period. All KPIs met. Post-implementation review scheduled for next quarter. Project transitioned to BAU.",
+      "budget_allocation": "GBP 40,000",
+      "action_items": [
+        "Lakshmi Venkat: Deliver training schedule for all impacted teams - Due: 08 May 2026",
+        "Vivek Nambiar: Review vendor shortlist and commercial terms for review - Due: 08 May 2026",
+        "Sneha Gupta: Review stakeholder communication pack - Due: 08 May 2026"
+      ]
+    },
+    {
+      "project_name": "HR Digital Transformation",
+      "project_id": "PRJ-0109",
+      "status": "Completed",
+      "recommendation": "Transition HR system support to the People Technology BAU team.",
+      "decision": "APPROVED - Project formally closed following a successful hypercare period. All KPIs met. Post-implementation review scheduled for next quarter. Project transitioned to BAU.",
+      "budget_allocation": "$120,000",
+      "action_items": [
+        "Carlos Mendez: Circulate vendor shortlist and commercial terms for review - Due: 08 May 2026",
+        "Sneha Gupta: Circulate dependency mapping with the platform team - Due: 08 May 2026"
+      ]
+    },
+    {
+      "project_name": "Strategic Partnership - FinTech Hub",
+      "project_id": "PRJ-0116",
+      "status": "Completed",
+      "recommendation": "Commission Phase 2 market expansion scoping given the success of Phase 1.",
+      "decision": "APPROVED - Project formally closed following a successful hypercare period. All KPIs met. Post-implementation review scheduled for next quarter. Project transitioned to BAU.",
+      "budget_allocation": "$500,000",
+      "action_items": [
+        "Oliver Grant: Deliver dependency mapping with the platform team - Due: 08 May 2026",
+        "Diana Petrov: Prepare legal review of the contract amendment - Due: 08 May 2026",
+        "Rohan Sharma: Finalise KPI dashboard with updated metrics - Due: 08 May 2026"
+      ]
+    },
+    {
+      "project_name": "Revenue Optimisation Initiative",
+      "project_id": "PRJ-0113",
+      "status": "Completed",
+      "recommendation": "Publish the benefit realisation report to the investment committee.",
+      "decision": "APPROVED - Project formally closed following a successful hypercare period. All KPIs met. Post-implementation review scheduled for next quarter. Project transitioned to BAU.",
+      "budget_allocation": "$24,000",
+      "action_items": [
+        "Priya Nair: Complete legal review of the contract amendment - Due: 08 May 2026",
+        "Diana Petrov: Publish updated project plan and revised timeline to all stakeholders - Due: 08 May 2026",
+        "Diana Petrov: Submit KPI dashboard with updated metrics - Due: 08 May 2026"
+      ]
+    },
+    {
+      "project_name": "API Gateway and Microservices Rollout",
+      "project_id": "PRJ-0112",
+      "status": "Completed",
+      "recommendation": "Approve go-live; all readiness checks passed and rollback plan is in place.",
+      "decision": "APPROVED - Project formally closed following a successful hypercare period. All KPIs met. Post-implementation review scheduled for next quarter. Project transitioned to BAU.",
+      "budget_allocation": "GBP 40,000",
+      "action_items": [
+        "Marcus Webb: Circulate updated project plan and revised timeline to all stakeholders - Due: 08 May 2026",
+        "Sneha Gupta: Prepare updated project plan and revised timeline to all stakeholders - Due: 08 May 2026"
+      ]
+    },
+    {
+      "project_name": "APAC Market Expansion",
+      "project_id": "PRJ-0107",
+      "status": "Completed",
+      "recommendation": "Publish the business case validation report to the board.",
+      "decision": "APPROVED - Project formally closed following a successful hypercare period. All KPIs met. Post-implementation review scheduled for next quarter. Project transitioned to BAU.",
+      "budget_allocation": "GBP 75,000",
+      "action_items": [
+        "Ananya Singh: Complete risk register with latest assessment to the programme office - Due: 08 May 2026",
+        "Vivek Nambiar: Publish revised budget breakdown to Finance for approval - Due: 08 May 2026"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "meeting_number": 69,
+  "meeting_type": "Planning Session",
+  "date": "17 January 2025",
+  "time": "10:00",
+  "organizer": "Oliver Grant",
+  "location": "Conference Room 3",
+  "projects": [
+    {
+      "project_name": "Cloud Infrastructure Migration",
+      "project_id": "PRJ-0101",
+      "status": "Active - On Track",
+      "recommendation": "Allocate two additional senior engineers to the critical path to recover the 2-week delay.",
+      "decision": "APPROVED - Phase 2 deliverables reviewed and approved to continue. Progress is on track and within budget. Revised budget of $24,000 approved following scope clarification.",
+      "budget_allocation": "$180,000",
+      "action_items": [
+        "Rohan Sharma: Finalise go/no-go recommendation to the steering committee - Due: 28 February 2025",
+        "Nisha Iyer: Review revised budget breakdown to Finance for approval - Due: 28 February 2025",
+        "Marcus Webb: Coordinate vendor shortlist and commercial terms for review - Due: 28 February 2025"
+      ]
+    },
+    {
+      "project_name": "ERP System Upgrade",
+      "project_id": "PRJ-0103",
+      "status": "Active - On Track",
+      "recommendation": "Proceed with the vendor transition as planned; parallel running is performing well.",
+      "decision": "APPROVED - Phase 2 deliverables reviewed and approved to continue. Progress is on track and within budget. Revised budget of EUR 60,000 approved following scope clarification.",
+      "budget_allocation": "$500,000",
+      "action_items": [
+        "Oliver Grant: Finalise vendor shortlist and commercial terms for review - Due: 28 February 2025",
+        "Marcus Webb: Deliver resource allocation plan for the next sprint - Due: 28 February 2025",
+        "Marcus Webb: Present updated project plan and revised timeline to all stakeholders - Due: 28 February 2025"
+      ]
+    },
+    {
+      "project_name": "AI-Powered Analytics Platform",
+      "project_id": "PRJ-0104",
+      "status": "Active - On Track",
+      "recommendation": "Invest in automated data quality monitoring to prevent regression during scale-out.",
+      "decision": "PILOT APPROVED - Phase 3 milestones met. Pilot approved for a 3-month internal beta with 50 users. Full rollout contingent on pilot KPIs being met within 12 weeks. Budget of $95,000 released for pilot phase.",
+      "budget_allocation": "GBP 150,000",
+      "action_items": [
+        "Lakshmi Venkat: Present legal review of the contract amendment - Due: 28 February 2025",
+        "Vivek Nambiar: Submit resource allocation plan for the next sprint - Due: 28 February 2025",
+        "Nisha Iyer: Circulate technical architecture diagram for sign-off - Due: 28 February 2025"
+      ]
+    },
+    {
+      "project_name": "APAC Market Expansion",
+      "project_id": "PRJ-0107",
+      "status": "Active - On Track",
+      "recommendation": "Approve the go-to-market plan and release resources to begin pre-launch activities.",
+      "decision": "APPROVED - Phase 2 deliverables reviewed and approved to continue. Progress is on track and within budget. Revised budget of EUR 110,000 approved following scope clarification.",
+      "budget_allocation": "$95,000",
+      "action_items": [
+        "Vivek Nambiar: Review change management plan - Due: 28 February 2025",
+        "Marcus Webb: Complete legal review of the contract amendment - Due: 28 February 2025"
+      ]
+    },
+    {
+      "project_name": "Real-Time Fraud Detection System",
+      "project_id": "PRJ-0120",
+      "status": "Active - On Track",
+      "recommendation": "Accelerate the remaining 25 source system pipelines; current velocity is sufficient to meet the deadline.",
+      "decision": "PILOT APPROVED - Phase 3 milestones met. Pilot approved for two pilot regions (North and East). Full rollout contingent on pilot KPIs being met within 12 weeks. Budget of $180,000 released for pilot phase.",
+      "budget_allocation": "$180,000",
+      "action_items": [
+        "Meera Patel: Finalise risk register with latest assessment to the programme office - Due: 28 February 2025",
+        "Nisha Iyer: Submit revised budget breakdown to Finance for approval - Due: 28 February 2025",
+        "Nisha Iyer: Circulate dependency mapping with the platform team - Due: 28 February 2025"
+      ]
+    }
+  ]
+}

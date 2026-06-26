@@ -1,0 +1,60 @@
+{
+  "meeting_number": 20,
+  "meeting_type": "All-Hands Update",
+  "date": "29 July 2023",
+  "time": "08:30",
+  "organizer": "Rohan Sharma",
+  "location": "Innovation Hub, Floor 4",
+  "projects": [
+    {
+      "project_name": "Customer Portal Redesign",
+      "project_id": "PRJ-0102",
+      "status": "Active - On Track",
+      "recommendation": "Validate the core value proposition with a smoke-test landing page before full build.",
+      "decision": "APPROVED WITH CONDITIONS - Project approved to proceed to Phase 1, subject to: security audit sign-off by the CISO and legal review of data residency requirements. Budget of $24,000 confirmed.",
+      "budget_allocation": "$120,000",
+      "action_items": [
+        "Aisha Mahmood: Complete go/no-go recommendation to the steering committee - Due: 09 September 2023",
+        "Diana Petrov: Circulate go/no-go recommendation to the steering committee - Due: 09 September 2023",
+        "Arjun Mehta: Deliver stakeholder communication pack - Due: 09 September 2023"
+      ]
+    },
+    {
+      "project_name": "Zero-Trust Network Security Overhaul",
+      "project_id": "PRJ-0108",
+      "status": "Active - On Track",
+      "recommendation": "Engage a specialist security architect to validate the design before Phase 1 commences.",
+      "decision": "APPROVED WITH CONDITIONS - Project approved to proceed to Phase 1, subject to: security audit sign-off by the CISO and legal review of data residency requirements. Budget of $380,000 confirmed.",
+      "budget_allocation": "$120,000",
+      "action_items": [
+        "Priya Nair: Publish dependency mapping with the platform team - Due: 09 September 2023",
+        "Arjun Mehta: Publish technical architecture diagram for sign-off - Due: 09 September 2023"
+      ]
+    },
+    {
+      "project_name": "Procurement Policy Review",
+      "project_id": "PRJ-0143",
+      "status": "Active - On Track",
+      "recommendation": "Formally close the programme; all process KPIs are green.",
+      "decision": "FAST-TRACKED - All go-live readiness criteria satisfied. Rollback plan signed off by the CTO. Project fast-tracked to launch. Budget of $120,000 confirmed.",
+      "budget_allocation": "$250,000",
+      "action_items": [
+        "Fatima Al-Hassan: Circulate post-implementation review agenda - Due: 09 September 2023",
+        "Sameer Rao: Publish dependency mapping with the platform team - Due: 09 September 2023",
+        "Diana Petrov: Submit vendor shortlist and commercial terms for review - Due: 09 September 2023"
+      ]
+    },
+    {
+      "project_name": "API Gateway and Microservices Rollout",
+      "project_id": "PRJ-0112",
+      "status": "Active - Slightly Delayed",
+      "recommendation": "Engage a specialist security architect to validate the design before Phase 1 commences.",
+      "decision": "ON HOLD - Phase 1 temporarily placed on hold due to resource conflicts with the ERP programme. A resume decision will be revisited in 8 weeks once capacity is confirmed.",
+      "budget_allocation": "$95,000",
+      "action_items": [
+        "Fatima Al-Hassan: Finalise training schedule for all impacted teams - Due: 09 September 2023",
+        "Sameer Rao: Finalise updated project plan and revised timeline to all stakeholders - Due: 09 September 2023"
+      ]
+    }
+  ]
+}

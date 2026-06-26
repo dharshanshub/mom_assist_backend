@@ -1,0 +1,60 @@
+{
+  "meeting_number": 86,
+  "meeting_type": "Board Meeting",
+  "date": "31 October 2025",
+  "time": "08:30",
+  "organizer": "Fatima Al-Hassan",
+  "location": "Microsoft Teams (Hybrid)",
+  "projects": [
+    {
+      "project_name": "ERP System Upgrade",
+      "project_id": "PRJ-0103",
+      "status": "Active - On Track",
+      "recommendation": "Formally close the programme; all process KPIs are green.",
+      "decision": "APPROVED - User Acceptance Testing completed with all critical defects resolved. Project approved to proceed to Go-Live Preparation. Final budget of GBP 75,000 confirmed.",
+      "budget_allocation": "GBP 150,000",
+      "action_items": [
+        "Rohan Sharma: Review training schedule for all impacted teams - Due: 26 December 2025",
+        "Nathan Forrest: Deliver post-implementation review agenda - Due: 26 December 2025"
+      ]
+    },
+    {
+      "project_name": "Workforce Analytics Dashboard",
+      "project_id": "PRJ-0140",
+      "status": "Active - On Track",
+      "recommendation": "Transition HR system support to the People Technology BAU team.",
+      "decision": "APPROVED - User Acceptance Testing completed with all critical defects resolved. Project approved to proceed to Go-Live Preparation. Final budget of GBP 40,000 confirmed.",
+      "budget_allocation": "$180,000",
+      "action_items": [
+        "Diana Petrov: Circulate risk register with latest assessment to the programme office - Due: 26 December 2025",
+        "Nathan Forrest: Publish KPI dashboard with updated metrics - Due: 26 December 2025",
+        "Ethan Brooks: Prepare revised budget breakdown to Finance for approval - Due: 26 December 2025"
+      ]
+    },
+    {
+      "project_name": "Customer Portal Redesign",
+      "project_id": "PRJ-0102",
+      "status": "Active - On Track",
+      "recommendation": "Approve full public launch; beta results consistently exceed success benchmarks.",
+      "decision": "FAST-TRACKED - All go-live readiness criteria satisfied. Rollback plan signed off by the CTO. Project fast-tracked to launch. Budget of $120,000 confirmed.",
+      "budget_allocation": "$180,000",
+      "action_items": [
+        "Pooja Krishnan: Review resource allocation plan for the next sprint - Due: 26 December 2025",
+        "Carlos Mendez: Deliver dependency mapping with the platform team - Due: 26 December 2025"
+      ]
+    },
+    {
+      "project_name": "Brand Refresh 2024",
+      "project_id": "PRJ-0115",
+      "status": "Active - On Track",
+      "recommendation": "Approve the media plan and release the campaign budget for activation.",
+      "decision": "PILOT APPROVED - Phase 3 milestones met. Pilot approved for a single-tenant deployment for one key client. Full rollout contingent on pilot KPIs being met within 12 weeks. Budget of $48,000 released for pilot phase.",
+      "budget_allocation": "$24,000",
+      "action_items": [
+        "Carlos Mendez: Publish change management plan - Due: 26 December 2025",
+        "Ethan Brooks: Prepare revised budget breakdown to Finance for approval - Due: 26 December 2025",
+        "Rohan Sharma: Complete revised budget breakdown to Finance for approval - Due: 26 December 2025"
+      ]
+    }
+  ]
+}

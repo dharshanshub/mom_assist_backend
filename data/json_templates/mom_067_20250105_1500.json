@@ -1,0 +1,59 @@
+{
+  "meeting_number": 67,
+  "meeting_type": "Cross-Functional Sync",
+  "date": "05 January 2025",
+  "time": "15:00",
+  "organizer": "James Thornton",
+  "location": "Executive Suite",
+  "projects": [
+    {
+      "project_name": "Revenue Optimisation Initiative",
+      "project_id": "PRJ-0113",
+      "status": "Completed",
+      "recommendation": "Formally close the project from a financial perspective; final accounts reconciled.",
+      "decision": "APPROVED - Project formally closed following a successful hypercare period. All KPIs met. Post-implementation review scheduled for next quarter. Project transitioned to BAU.",
+      "budget_allocation": "$48,000",
+      "action_items": [
+        "Nathan Forrest: Publish risk register with latest assessment to the programme office - Due: 02 March 2025",
+        "Pooja Krishnan: Prepare risk register with latest assessment to the programme office - Due: 02 March 2025"
+      ]
+    },
+    {
+      "project_name": "Cloud Infrastructure Migration",
+      "project_id": "PRJ-0101",
+      "status": "Active - On Track",
+      "recommendation": "Proceed to Phase 3 — all Phase 2 exit criteria have been met.",
+      "decision": "APPROVED - Phase 2 deliverables reviewed and approved to continue. Progress is on track and within budget. Revised budget of EUR 110,000 approved following scope clarification.",
+      "budget_allocation": "$500,000",
+      "action_items": [
+        "Nathan Forrest: Complete risk register with latest assessment to the programme office - Due: 02 March 2025",
+        "Meera Patel: Deliver go/no-go recommendation to the steering committee - Due: 02 March 2025",
+        "Sara Lopez: Coordinate updated project plan and revised timeline to all stakeholders - Due: 02 March 2025"
+      ]
+    },
+    {
+      "project_name": "HR Digital Transformation",
+      "project_id": "PRJ-0109",
+      "status": "Active - On Track",
+      "recommendation": "Proceed to parallel payroll run; configuration and testing results are satisfactory.",
+      "decision": "APPROVED - Phase 2 deliverables reviewed and approved to continue. Progress is on track and within budget. Revised budget of GBP 40,000 approved following scope clarification.",
+      "budget_allocation": "GBP 150,000",
+      "action_items": [
+        "Aisha Mahmood: Complete resource allocation plan for the next sprint - Due: 02 March 2025",
+        "Meera Patel: Circulate post-implementation review agenda - Due: 02 March 2025"
+      ]
+    },
+    {
+      "project_name": "Brand Refresh 2024",
+      "project_id": "PRJ-0115",
+      "status": "Active - At Risk",
+      "recommendation": "Expand the soft launch to 25% of the audience; early indicators are positive.",
+      "decision": "APPROVED - Following resolution of the Phase 1 blockers, project reinstated and approved to advance to Phase 2. All pre-conditions have been met. Budget of GBP 75,000 confirmed.",
+      "budget_allocation": "$500,000",
+      "action_items": [
+        "Nisha Iyer: Circulate KPI dashboard with updated metrics - Due: 02 March 2025",
+        "Pooja Krishnan: Publish post-implementation review agenda - Due: 02 March 2025"
+      ]
+    }
+  ]
+}

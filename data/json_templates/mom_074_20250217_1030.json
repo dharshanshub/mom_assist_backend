@@ -1,0 +1,61 @@
+{
+  "meeting_number": 74,
+  "meeting_type": "Board Meeting",
+  "date": "17 February 2025",
+  "time": "10:30",
+  "organizer": "Vivek Nambiar",
+  "location": "Executive Suite",
+  "projects": [
+    {
+      "project_name": "Brand Refresh 2024",
+      "project_id": "PRJ-0115",
+      "status": "Active - On Track",
+      "recommendation": "Proceed to full production of the preferred creative route; testing results are conclusive.",
+      "decision": "APPROVED - Phase 2 deliverables reviewed and approved to continue. Progress is on track and within budget. Revised budget of $250,000 approved following scope clarification.",
+      "budget_allocation": "GBP 40,000",
+      "action_items": [
+        "Rohan Sharma: Submit stakeholder communication pack - Due: 03 March 2025",
+        "Sara Lopez: Present risk register with latest assessment to the programme office - Due: 03 March 2025",
+        "Kavya Reddy: Publish updated project plan and revised timeline to all stakeholders - Due: 03 March 2025"
+      ]
+    },
+    {
+      "project_name": "Supply Chain Digitalisation",
+      "project_id": "PRJ-0118",
+      "status": "Active - On Track",
+      "recommendation": "Accelerate change management delivery; current adoption rate risks the go-live date.",
+      "decision": "PILOT APPROVED - Phase 3 milestones met. Pilot approved for two pilot regions (North and East). Full rollout contingent on pilot KPIs being met within 12 weeks. Budget of $48,000 released for pilot phase.",
+      "budget_allocation": "$95,000",
+      "action_items": [
+        "Lakshmi Venkat: Publish stakeholder communication pack - Due: 03 March 2025",
+        "Nathan Forrest: Complete change management plan - Due: 03 March 2025"
+      ]
+    },
+    {
+      "project_name": "Cybersecurity Incident Response Platform",
+      "project_id": "PRJ-0131",
+      "status": "Active - On Track",
+      "recommendation": "Resolve the legacy system integration issue before advancing; do not carry it forward.",
+      "decision": "PILOT APPROVED - Phase 3 milestones met. Pilot approved for two pilot regions (North and East). Full rollout contingent on pilot KPIs being met within 12 weeks. Budget of $48,000 released for pilot phase.",
+      "budget_allocation": "EUR 110,000",
+      "action_items": [
+        "Meera Patel: Present go/no-go recommendation to the steering committee - Due: 03 March 2025",
+        "Dinesh Kumar: Review resource allocation plan for the next sprint - Due: 03 March 2025",
+        "Nathan Forrest: Complete KPI dashboard with updated metrics - Due: 03 March 2025"
+      ]
+    },
+    {
+      "project_name": "APAC Market Expansion",
+      "project_id": "PRJ-0107",
+      "status": "Active - On Track",
+      "recommendation": "Submit the regulatory filings in the remaining jurisdiction without delay.",
+      "decision": "PILOT APPROVED - Phase 3 milestones met. Pilot approved for a 3-month internal beta with 50 users. Full rollout contingent on pilot KPIs being met within 12 weeks. Budget of GBP 40,000 released for pilot phase.",
+      "budget_allocation": "$250,000",
+      "action_items": [
+        "Ethan Brooks: Submit stakeholder communication pack - Due: 03 March 2025",
+        "Sameer Rao: Submit training schedule for all impacted teams - Due: 03 March 2025",
+        "Sameer Rao: Present resource allocation plan for the next sprint - Due: 03 March 2025"
+      ]
+    }
+  ]
+}

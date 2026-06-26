@@ -1,0 +1,61 @@
+{
+  "meeting_number": 6,
+  "meeting_type": "Cross-Functional Sync",
+  "date": "07 March 2023",
+  "time": "09:00",
+  "organizer": "James Thornton",
+  "location": "Innovation Hub, Floor 4",
+  "projects": [
+    {
+      "project_name": "Zero-Trust Network Security Overhaul",
+      "project_id": "PRJ-0108",
+      "status": "Pending Approval",
+      "recommendation": "Engage a specialist security architect to validate the design before Phase 1 commences.",
+      "decision": "DEFERRED - Decision deferred pending completion of the feasibility study and initial risk assessment. Team to strengthen the business case and re-present at the next steering committee.",
+      "budget_allocation": "$120,000",
+      "action_items": [
+        "Dinesh Kumar: Complete KPI dashboard with updated metrics - Due: 18 April 2023",
+        "Lakshmi Venkat: Publish training schedule for all impacted teams - Due: 18 April 2023",
+        "Lakshmi Venkat: Present dependency mapping with the platform team - Due: 18 April 2023"
+      ]
+    },
+    {
+      "project_name": "Cost Optimisation Programme",
+      "project_id": "PRJ-0123",
+      "status": "Pending Approval",
+      "recommendation": "Engage the finance system vendor to confirm integration feasibility before committing.",
+      "decision": "DEFERRED - Decision deferred pending completion of the feasibility study and initial risk assessment. Team to strengthen the business case and re-present at the next steering committee.",
+      "budget_allocation": "GBP 75,000",
+      "action_items": [
+        "Carlos Mendez: Circulate legal review of the contract amendment - Due: 18 April 2023",
+        "Priya Nair: Review revised budget breakdown to Finance for approval - Due: 18 April 2023",
+        "Priya Nair: Present KPI dashboard with updated metrics - Due: 18 April 2023"
+      ]
+    },
+    {
+      "project_name": "API Gateway and Microservices Rollout",
+      "project_id": "PRJ-0112",
+      "status": "Pending Approval",
+      "recommendation": "Approve the proposed architecture and proceed to Phase 1 with a fully staffed delivery team.",
+      "decision": "DEFERRED - Decision deferred pending completion of the feasibility study and initial risk assessment. Team to strengthen the business case and re-present at the next steering committee.",
+      "budget_allocation": "$180,000",
+      "action_items": [
+        "Nisha Iyer: Circulate resource allocation plan for the next sprint - Due: 18 April 2023",
+        "Priya Nair: Present updated project plan and revised timeline to all stakeholders - Due: 18 April 2023",
+        "Ethan Brooks: Circulate KPI dashboard with updated metrics - Due: 18 April 2023"
+      ]
+    },
+    {
+      "project_name": "Product-Led Growth Initiative",
+      "project_id": "PRJ-0136",
+      "status": "Pending Approval",
+      "recommendation": "Commission a usability study before finalising the information architecture.",
+      "decision": "DEFERRED - Decision deferred pending completion of the feasibility study and initial risk assessment. Team to strengthen the business case and re-present at the next steering committee.",
+      "budget_allocation": "GBP 75,000",
+      "action_items": [
+        "Dinesh Kumar: Present updated project plan and revised timeline to all stakeholders - Due: 18 April 2023",
+        "Sara Lopez: Circulate legal review of the contract amendment - Due: 18 April 2023"
+      ]
+    }
+  ]
+}
